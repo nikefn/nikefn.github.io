@@ -1,9 +1,10 @@
 # main text of home
 title: Niklas Effenberger
-bio: Testtest
+bio: “Nature does not hurry, yet everything is accomplished.” - Lao Tzu
+
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about me and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,10 +18,10 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+#resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nikefn.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -30,30 +31,38 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname:  # enter this from your disqus account
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: jazzyjeffe71
+linkedin: niklaseffenberger
+github: nikefn
+email: niklas.effenberger@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    niklaseffenberger:
+      name: Niklas Effenberger
+      bio: A“Nature does not hurry, yet everything is accomplished.” - Lao Tzu
+      external-image: false
+      picture: assets/images/profile.jpg
+    #  twitter: johndoe
+
+#  johndoe:
+#    name: John Doe
+#    bio: A Man who travels the world eating noodles
+#    external-image: false
+#    picture: assets/images/profile.jpg
+#  twitter: johndoe
+
+#  jamesfoster:
+#    name: James Foster
+#    bio: A Man who develops software with coffee
+#    external-image: false
+#    picture: assets/images/james.jpg
+#    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -71,10 +80,10 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
