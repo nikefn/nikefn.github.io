@@ -13,6 +13,13 @@
         </a>
     {% endif %}
 
+    {% if site.unsplash %}
+        <a class="link" data-title="https://unsplash.com/de/@{{ site.unsplash }}" href="https://unsplash.com/de/@{{ site.unsplash }}" target="_blank" rel="noopener" alt="anchor link for social media unsplash" aria-label="anchor link for social media unsplash">
+            <i class="fa-brands fa-unsplash"></i>
+        </a>
+    {% endif %}
+
+
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener" alt="anchor link for social media instagram" aria-label="anchor link for social media instagram">
             <i class="fa-brands fa-instagram"></i>
