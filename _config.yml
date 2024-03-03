@@ -18,8 +18,8 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-#resume-url: https://google.com/?q=my+resume
+resume-external: true
+resume-url: https://drive.google.com/file/d/1CsroAjRd4nupAy5cM3a1FllBr1IMsjbN/view?usp=drive_link
 
 url: https://nikefn.github.io/
 # your url: https://USERNAME.github.io
@@ -46,7 +46,7 @@ email: niklas.effenberger@gmail.com
 authors:
     niklaseffenberger:
       name: Niklas Effenberger
-      bio: 
+      bio:
       external-image: false
       picture: assets/images/profile.jpg
     #  twitter: johndoe
