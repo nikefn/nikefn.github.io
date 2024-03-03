@@ -1,5 +1,5 @@
 ---
-title: "URBREATH - Nature-Based Solutions in Europe"
+title: "Fraunhofer Project: URBREATH - Nature-Based Solutions in Europe"
 layout: post
 date: 2024-01-08 21:38
 image: /assets/images/URBREATH.jpg
