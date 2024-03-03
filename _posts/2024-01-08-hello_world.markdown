@@ -15,4 +15,4 @@ description: Welcome to my github-pages site
 
 ## Be welcome!
 
-Just created this and will be adding stuff gradually...
+Just created this and will be adding stuff gradually... stay tooned :)!
