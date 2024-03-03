@@ -10,7 +10,7 @@ tag:
 - positive-energy-districts
 - urban
 - research
-category: projects
+
 author: niklaseffenberger
 externalLink: false
 hidden: true

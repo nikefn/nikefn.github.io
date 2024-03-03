@@ -2,18 +2,15 @@
 title: "Fraunhofer Project: URBREATH - Nature-Based Solutions in Europe"
 layout: post
 date: 2024-01-08 21:38
-image: /assets/images/URBREATH.jpg
+tag: nature-based-solutions
+image: ../assets/images/URBREATH.jpg
 headerImage: true
+hidden: true
 description: "My professional projects through Fraunhofer: URBREATH"
-projects: true
-tag:
-- nature-based-solutions
-- urban
-- research
-category: projects
+category: project
 author: niklaseffenberger
 externalLink: false
-hidden: true
+
 ---
 
 ## Nature-Based Solutions - Project URBREATH

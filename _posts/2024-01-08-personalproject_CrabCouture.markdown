@@ -5,12 +5,12 @@ date: 2024-01-08 21:38
 image: /assets/images/URBREATH.jpg
 headerImage: true
 description: "Personal Project: Crab Couture"
-projects: true
+project: true
 tag:
 - nature-based-solutions
 - urban
 - research
-category: Projects
+category: Project
 author: niklaseffenberger
 externalLink: false
 hidden: true
