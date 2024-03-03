@@ -9,8 +9,9 @@ layout: page
 <p>On this site, you'll find both my professional journey, including my CV and details about my projects at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
 
 
+<!---
 
-{::comment}
+
 <h2>Professional Projects I am involved in</h2>
 
 <ul>
@@ -18,5 +19,4 @@ layout: page
 	<li><a href="https://cordis.europa.eu/project/id/864242">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS
 r</a></li>
 </ul>
-
- {:/comment}
+--->
