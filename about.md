@@ -20,5 +20,5 @@ r</a></li>
 <h2>Current projects of personal interest and hobbies</h2>
 
 <ul>
-	<li>Crab Couture - a sustainable fashion brand and about bringing ideas to life with the help of generative AI</li>
+	<li>Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</li>
 </ul>
