@@ -13,6 +13,6 @@ author: niklaseffenberger
 description: Welcome to my github-pages site
 ---
 
-## Be welcome!
+## Be welcome on my site!
 
 Just created this and will be adding stuff gradually... stay tooned :)!
