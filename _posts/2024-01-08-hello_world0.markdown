@@ -9,6 +9,7 @@ tag:
 - jekyll
 - markdown
 category: blog
+blog: true
 author: niklaseffenberger
 description: Welcome to my github-pages site
 ---
