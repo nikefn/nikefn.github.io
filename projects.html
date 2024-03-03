@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-<!-- <section class="list">
+<section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
             {% if post.hidden != true %}
@@ -15,19 +15,4 @@ title: Projects
             {% endif %}
         {% endif %}
     {% endfor %}
-</section> -->
-
-
-<section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'projects' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
 </section>
