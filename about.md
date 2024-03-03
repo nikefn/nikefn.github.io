@@ -9,16 +9,27 @@ layout: page
 <p>On this site, you'll find both my professional journey, including my CV and details about my projects at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
 
 
-<h2>Current projects I am involved in through Fraunhofer</h2>
+<h2>Current and past projects I am/was involved in through Fraunhofer</h2>
 
 <ul>
 	<li><a href="https://cordis.europa.eu/project/id/101139711">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
 	<li><a href="https://cordis.europa.eu/project/id/864242">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS
 r</a></li>
+<li><a href="https://www.projectaccsess.eu/">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS
+r</a></li>
+<li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/">Innovationsnetzwerk Nachtkultur
+r</a></li>
+<li><a href="https://www.fraunhofer.de/de/forschung/fraunhofer-strategische-forschungsfelder/biooekonomie.html">Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains
+r</a></li>
 </ul>
 
-<h2>Current projects of personal interest and hobbies</h2>
+<h2>Current and past projects of personal interest and hobbies</h2>
 
 <ul>
 	<li>Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</li>
+	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
+	<li>To Build a Birdhouse</li>
+	<li>Sustainability Week Uni Hohenheim - Utopian Thinking - is it important and practical?</li>
+	<li>Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</li>
+	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
 </ul>
