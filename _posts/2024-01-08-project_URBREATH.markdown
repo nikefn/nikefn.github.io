@@ -10,7 +10,7 @@ tag:
 - nature-based-solutions
 - urban
 - research
-category: project
+category: projects
 author: niklaseffenberger
 externalLink: false
 hidden: true
