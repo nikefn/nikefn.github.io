@@ -9,14 +9,16 @@ layout: page
 <p>On this site, you'll find both my professional journey, including my CV and details about my projects at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
 
 
-<!---
-
-
-<h2>Professional Projects I am involved in</h2>
+<h2>Current projects I am involved in through Fraunhofer</h2>
 
 <ul>
 	<li><a href="https://cordis.europa.eu/project/id/101139711">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
 	<li><a href="https://cordis.europa.eu/project/id/864242">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS
 r</a></li>
 </ul>
---->
+
+<h2>Current projects of personal interest and hobbies</h2>
+
+<ul>
+	<li>Crab Couture - a sustainable fashion brand and about bringing ideas to life with the help of generative AI</li>
+</ul>
