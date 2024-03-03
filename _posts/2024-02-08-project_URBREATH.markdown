@@ -13,12 +13,12 @@ tag:
 category: project
 author: niklaseffenberger
 externalLink: false
-hidden: false
+hidden: true
 ---
 
 ## Nature-Based Solutions - Project URBREATH
 
-![Markdowm Image][/assets/images/URBREATH.jpg]{: class="bigger-image" }
+[Markdowm Image][/assets/images/URBREATH.jpg]{: class="bigger-image" }
 
 Synopsis: The [URBREATH][1] project aims to improve the climate neutrality of European cities and regions by integrating technical and nature-based solutions with a focus on community participation. It seeks to enhance urban resilience, social inclusion, and liveability through a structured approach that incorporates the development, implementation, and validation of these solutions.
 
