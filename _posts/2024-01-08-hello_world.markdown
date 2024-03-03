@@ -2,8 +2,8 @@
 title: "Hello world..."
 layout: post
 date: 2024-01-08 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/buone_vibrazioni.jpg
+headerImage: true
 tag:
 - github-pages
 - jekyll
