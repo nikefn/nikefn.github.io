@@ -8,7 +8,7 @@ tag:
 - nature-based-solutions
 - urban
 - research
-category: project
+category: projects
 author: niklaseffenberger
 description: My professional projects through Fraunhofer: URBREATH
 ---
