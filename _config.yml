@@ -1,6 +1,6 @@
 # main text of home
 title: Niklas Effenberger
-bio: “Nature does not hurry, yet everything is accomplished.” - Lao Tzu
+bio:
 
 
 # twitter summary info
@@ -39,14 +39,14 @@ disqus:
 #twitter: mytwitter
 instagram: jazzyjeffe71
 linkedin: niklaseffenberger
-#github: nikefn
+github: nikefn
 unsplash: neffler
 email: niklas.effenberger@gmail.com
 
 authors:
     niklaseffenberger:
       name: Niklas Effenberger
-      bio: A“Nature does not hurry, yet everything is accomplished.” - Lao Tzu
+      bio: 
       external-image: false
       picture: assets/images/profile.jpg
     #  twitter: johndoe
