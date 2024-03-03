@@ -16,3 +16,5 @@ description: Welcome to my github-pages site
 ## Be welcome on my site!
 
 Just created this and will be adding stuff gradually... stay tooned :)!
+
+Everything based on the great theme made by Kopplin (see bottom of page for link), using github-pages and jekyll...
