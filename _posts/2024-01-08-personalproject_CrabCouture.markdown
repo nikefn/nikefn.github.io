@@ -25,7 +25,7 @@ Since the great advancements in generative AI and the Dall:e integration into Ch
 Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share all prompts and details on how I got those with anyone interested. Just reach out.
 
 
-![Tax](/assets/images/crabcouture/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
+![Tax](/assets/images/crabcotoure/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
 
 ![Mummy?](/assets/images/crabcouture/crab_wheresmymummy.jpg)"Where's my Mummy?"
 
@@ -34,6 +34,8 @@ Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share 
 ![Hard Croc Life](/assets/images/crabcouture/crab_hardcroclife.jpg)"A Hard Croc' Life..."
 
 ![Shell of a Game](/assets/images/crabcouture/crab_game.jpg)"Puns over puns..."
+
+![Shell of a Game](/assets/images/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
 
 
 I tried printing some of the designs and pressed them on a t-shirt in our local co-working workshop [Hobbyhimmel](https://hobbyhimmel.de/). THe workshop is run by volunteers and based off donations. It was a really nice experience and possibilities for diy projects and crafting are endless.
