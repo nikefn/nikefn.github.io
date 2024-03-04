@@ -4,6 +4,7 @@ layout: post
 tag: research
 date: 2024-01-08 22:38
 img: /assets/images/SPARCS_logo.png
+headerImage: true
 projects: true
 author: niklaseffenberger
 summary: "My professional projects through Fraunhofer: SPARCS"
