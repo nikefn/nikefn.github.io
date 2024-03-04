@@ -1,20 +1,16 @@
 ---
-title: "Personal Project: Crab Couture - Sustainable Fashion and Design with help of generative AI"
+title: "Personal/Hobby: Crab Couture"
 layout: post
-date: 2024-01-08 21:38
-image: /assets/images/URBREATH.jpg
-headerImage: true
-description: "Personal Project: Crab Couture"
-project: true
-tag:
-- nature-based-solutions
-- urban
-- research
-category: Project
+tag: personal
+date: 2024-01-10 00:38
+img: /assets/images/SPARCS_logo.png
+projects: true
 author: niklaseffenberger
-externalLink: false
-hidden: true
+summary: "About a sustaianble fashion brand idea brought to life with generative AI"
+permalink: crabcouture
 ---
+
+
 
 ## Crab Couture
 
