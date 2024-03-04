@@ -1,5 +1,5 @@
 ---
-title: "My professional projects through Fraunhofer: SPARCS"
+title: "Work/Fraunhofer: SPARCS"
 layout: post
 tag: research
 date: 2024-01-08 22:38
@@ -24,9 +24,9 @@ SPARCs promotes the participation of building blocks and districts in the energy
 A key aspect of SPARCS, led by Fraunhofer alongside [BABLE][2], is the Work Package on 'Replication'. This focuses on how the progress made in one city can be transferred and replicated in others. The task is complex but highly rewarding. It enables engagement with a wide array of cities, each with its unique background and set of technical partners, facilitating an exchange of ideas and strategies.
 
 Please see the presentation I held for the ['Global Green Growth Week 2023'][3] on slideshare:
-{% highlight html %}
+
 <iframe src="https://de.slideshare.net/slideshows/presentation-in-gggweek-agendahu-sessionpdf/266606807" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-{% endhighlight %}
+
 
 
 [1]: https://cordis.europa.eu/project/id/864242
