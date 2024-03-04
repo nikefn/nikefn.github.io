@@ -25,7 +25,7 @@ Since the great advancements in generative AI and the Dall:e integration into Ch
 Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share all prompts and details on how I got those with anyone interested. Just reach out.
 
 
-![Tax](/assets/images/crabcotoure/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
+![Tax](/assets/images/crabcouture/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
 
 ![Mummy?](/assets/images/crabcouture/crab_wheresmymummy.jpg)"Where's my Mummy?"
 
