@@ -2,7 +2,7 @@
 title: "Work/Fraunhofer: SPARCS"
 layout: post
 tag: research
-date: 2024-01-08 22:38
+date: 2024-02-01 15:38
 img: /assets/images/SPARCS_logo.png
 headerImage: true
 projects: true

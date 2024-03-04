@@ -1,7 +1,7 @@
 ---
 title: "Fraunhofer Project: SPARCS - Positive Energy Districts and their Replication"
 layout: post
-date: 2024-01-08 22:38
+date: 2024-01-01 21:38
 image: /assets/images/SPARCS_logo.png
 headerImage: true
 description: "My professional projects through Fraunhofer: SPARCS"

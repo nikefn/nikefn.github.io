@@ -2,7 +2,7 @@
 title: "Work/Fraunhofer: URBREATH - Nature-Based Solutions in Europe"
 layout: post
 tag: nature-based-solutions
-date: 2024 ongoing
+date: 2024-02-01 21:38
 img: /assets/images/URBREATH.jpg
 projects: true
 description: "My professional projects through Fraunhofer: URBREATH"

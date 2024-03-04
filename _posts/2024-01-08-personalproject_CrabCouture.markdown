@@ -2,7 +2,7 @@
 title: "Personal/Hobby: Crab Couture"
 layout: post
 tag: personal
-date: 2024-01-10 00:38
+date: 2022 - ongoing
 img: /assets/images/SPARCS_logo.png
 projects: true
 author: niklaseffenberger
