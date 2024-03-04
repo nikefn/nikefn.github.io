@@ -2,8 +2,8 @@
 title: "Personal/Hobby: Crab Couture"
 layout: post
 tag: personal
-date: 2022 - ongoing
-img: /assets/images/SPARCS_logo.png
+date: 2024-01-01 23:52
+img: /assets/images/crabcotoure/crab_taxtherichnotthepretty.jpeg
 projects: true
 author: niklaseffenberger
 summary: "About a sustaianble fashion brand idea brought to life with generative AI"
