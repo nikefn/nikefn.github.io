@@ -35,7 +35,7 @@ Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share 
 
 ![Shell of a Game](/assets/images/crabcouture/crab_game.jpg)"Puns over puns..."
 
-![Shell of a Game](/assets/images/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
+![Shell of a Game](assets/images/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
 
 
 I tried printing some of the designs and pressed them on a t-shirt in our local co-working workshop [Hobbyhimmel](https://hobbyhimmel.de/). THe workshop is run by volunteers and based off donations. It was a really nice experience and possibilities for diy projects and crafting are endless.
