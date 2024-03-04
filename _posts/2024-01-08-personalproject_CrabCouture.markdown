@@ -38,6 +38,8 @@ Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share 
 ![Shell of a Game](assets/images/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
 
 
+You may find a [Brand Identity Document](https://docs.google.com/document/d/1sBh8_KVx-moWjLMZYwgG7HW_GMa3X2SWPLvVgWHNhxE/edit?usp=sharing) on Google Docs. An account on [Instagram](https://www.instagram.com/crabcoutureofficial) is underway.
+
 I tried printing some of the designs and pressed them on a t-shirt in our local co-working workshop [Hobbyhimmel](https://hobbyhimmel.de/). THe workshop is run by volunteers and based off donations. It was a really nice experience and possibilities for diy projects and crafting are endless.
 
 
