@@ -12,21 +12,21 @@ layout: page
 <h2>Current and past projects I am/was involved in professionally</h2>
 
 <ul>
-	<li><a href="https://cordis.europa.eu/project/id/101139711">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
-	<li><a href="https://cordis.europa.eu/project/id/864242">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
+	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
+	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
 <li><a href="https://www.projectaccsess.eu/">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/">Innovationsnetzwerk Nachtkultur</a></li>
 <li><a href="https://www.fraunhofer.de/de/forschung/fraunhofer-strategische-forschungsfelder/biooekonomie.html">Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</a></li>
-<li>Seminar on Feedback and to talking to one another</li>
+<li>Seminar on Feedback and on talking to one another</li>
 </ul>
 
 <h2>Current and past projects of personal interest and hobbies</h2>
 
 <ul>
-	<li>Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</li>
+	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a>C</li>
 	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
 	<li>To Build a Birdhouse</li>
-	<li>Kitchen Stories from Wagenhallen Stuttgart - It brings me joy</li>
+	<li>Kitchen Stories from Wagenhallen Stuttgart</li>
 	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
 	<li>Journey to writing a Master Thesis</li>
 	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
