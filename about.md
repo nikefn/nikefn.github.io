@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I'm Niklas. I enjoy exploring the intersection between nature and urban spaces, working at [Fraunhofer IAO][1] within the Urban Systems Engineering and [Urban Governance Innovation team][2]. My role allows me to engage with a variety of people, valuing diverse perspectives and collaborative efforts towards sustainable advancements. Outside my project work, I'm passionate about brainstorming new ideas, such as enhancing nocturnal urban landscapes by exploring possible synergies between nocturnal ecology and nocturnal socioeconomics.</p>
+<p>Hi, I'm Niklas. I enjoy exploring the intersection between nature and urban spaces, working at [Fraunhofer IAO](https://www.iao.fraunhofer.de/) within the Urban Systems Engineering and [Urban Governance Innovation team](https://www.muse.iao.fraunhofer.de/de/ueber_uns/team_stadtsystemgestaltung.html). My role allows me to engage with a variety of people, valuing diverse perspectives and collaborative efforts towards sustainable advancements. Outside my project work, I'm passionate about brainstorming new ideas, such as enhancing nocturnal urban landscapes by exploring possible synergies between nocturnal ecology and nocturnal socioeconomics.</p>
 
 
-<p>On this site, you'll find both my professional journey, including my [CV][3] and details about my [projects][4] at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
+<p>On this site, you'll find both my professional journey, including my [CV](https://drive.google.com/file/d/1CsroAjRd4nupAy5cM3a1FllBr1IMsjbN/view?usp=drive_link) and details about my [projects](https://nikefn.github.io//projects) at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
 
 
 <h2>Current and past projects I am/was involved in professionally:</h2>
@@ -18,7 +18,7 @@ layout: page
 <li><a href="https://nikefn.github.io//accsess">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/">Innovationsnetzwerk Nachtkultur</a></li>
 <li><a href="https://www.fraunhofer.de/de/forschung/fraunhofer-strategische-forschungsfelder/biooekonomie.html">Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</a></li>
-<li>Seminar on Feedback and on talking to one another</li>
+<li>Seminar on Feedback, on talking to one another and scientific poster design for bachelor students</li>
 </ul>
 
 <h2>Current and past projects of personal interest and hobbies:</h2>
@@ -35,9 +35,3 @@ layout: page
 	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
 	<li>Playing Music for People - dj effekt and good times</li>
 </ul>
-
-
-[1]: https://www.iao.fraunhofer.de/
-[2]: https://www.muse.iao.fraunhofer.de/de/ueber_uns/team_stadtsystemgestaltung.html
-[3]: https://drive.google.com/file/d/1CsroAjRd4nupAy5cM3a1FllBr1IMsjbN/view?usp=drive_link
-[4]: https://nikefn.github.io//projects
