@@ -1,14 +1,14 @@
----
-title: "Work/Fraunhofer: SPARCS"
+<!-- ---
+title: "Personal/Hobby: On building a birdhouse"
 layout: post
 tag: research
-date: 2024-03-01 15:38
+date: 2024-02-08 15:38
 img: /assets/images/SPARCS_logo.png
 headerImage: true
 projects: true
 author: niklaseffenberger
-summary: "My professional projects through Fraunhofer: SPARCS"
-permalink: sparcs
+summary: "My professional projects through Fraunhofer: ACCSESS"
+permalink: birdhouse
 ---
 
 
@@ -31,4 +31,4 @@ Please see the presentation I held for the ['Global Green Growth Week 2023'][3] 
 
 [1]: https://cordis.europa.eu/project/id/864242
 [2]: https://www.bable-smartcities.eu/home.html
-[3]: https://globalgreengrowthweek.gggi.org/
+[3]: https://globalgreengrowthweek.gggi.org/ -->

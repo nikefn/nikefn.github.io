@@ -22,7 +22,7 @@ We want to think of our brand as sustainable, social start-up, giving away its r
 
 Since the great advancements in generative AI and the Dall:e integration into ChatGPT, I was able to come up with funny and nice looking graphics for our planned t-shirts and garments through the prompts I type. The generated images give me a somewhat bad feeeling in the stomach as they are based on true and unique graphical works done by humans. With the OpenAI plus subscription you get access to their cumulated work without paying nor attributing the individual artist behind the design - and where would we be without those creative people?
 
-Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share all prompts and details on how I got those with anyone interested. Just reach out.
+Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share all prompts and details on how I got those with anyone interested. Just reach out. Text was partly added with Gimp&Inkscape.
 
 
 ![Tax](/assets/images/crabcouture/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
@@ -31,7 +31,7 @@ Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share 
 
 ![Magnum](/assets/images/crabcouture/crab_magnum.jpg)"Tribute to Tom Selleck"
 
-![Hard Croc Life](/assets/images/crabcouture/crab_hardcroclife.jpg)"A Hard Croc' Life..."
+![Hard Croc' Life](/assets/images/crabcouture/crab_hardcroclife.jpg)"A Hard Croc' Life..."
 
 ![Shell of a Game](/assets/images/crabcouture/crab_game.jpg)"Puns over puns..."
 
