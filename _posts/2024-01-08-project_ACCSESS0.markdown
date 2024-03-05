@@ -13,7 +13,7 @@ permalink: accsess
 
 ## Providing access to cost-efficient, replicable, safe and flexible CCUS - Project ACCSESS
 
-![ACCSESS Consortium][/assets/images/proj-work/accsess/accsess_consortium.jpg]
+![ACCSESS Consortium](/assets/images/proj-work/accsess/accsess_consortium.jpg)
 <figcaption class="caption">ACCSESS Project Consortium</figcaption>
 
 
@@ -22,10 +22,10 @@ The [ACCSESS][1] project is about Carbon Capture and Storage (CCS) as well as Ca
 The idea is quite straightforward: Industries that cannot be turned emission-free in the very short term  must receive support to continue functioning without releasing excessive greenhouse gases. The cement industry is a very prominent example as not only due to the energy demand used to produce cement but also from the production process itself, CO<sub>2</sub> is released in the air (see [BBC][0] for good Figure). In 2015 the cement industry alone was responsible for 8% of worldwide CO<sub>2</sub> emissions.
 
 --
-*So what do? Short answer: Carbon Capture and Storage.*
+**So what do? Short answer: Carbon Capture and Storage.**
 --
 
-*Easy formula: Capture all CO<sub>2</sub> emitted from the production process + fuel production process only with renewable energy = all good and climate neutral!*
+**Easy formula: Capture all CO<sub>2</sub> emitted from the production process + fuel production process only with renewable energy = all good and climate neutral!**
 
 As you may guess, it's all not that easy. This is why ACCSESS was set up. Including a variety of other sectors the project aims to test and verify a broad selection of CC(U)S technologies at TRL 7, including economics, including logistics, including society! Ambitious but important and worthwhile - without CC(U)S the agreed emission reductions from the Paris agreement are unlikely to be met.
 
@@ -33,7 +33,7 @@ Fraunhofer (us) are responsible for a large part of the societal acceptance part
 
 This cries out for a [fruitful interdisciplinary research][3] approach right? Here we come :)!
 
-![Demonstrator Pulp and Paper Mill Gävle][/assets/images/proj-work/accsess/demonstrator_gavle.jpg]
+![Demonstrator Pulp and Paper Mill Gävle](/assets/images/proj-work/accsess/demonstrator_gavle.jpg)
 <figcaption class="caption">Carbon Capture Demonstrator at Pulp an Paper Mill [(run by Stora Enso, Gävle, Sweden)][4]</figcaption>
 
 Until the end of my involvement in the project, I perceived our/Fraunhofer's mission as *'scientists of the in-between'* - understanding the city and societal sphere while being able to grasp the main functions, benefits and challenges of the engineering behind -  and then trying to bridge and *translate*. To me it was a highly rewarding and interesting time until I transitioned out of the project beginning 2024 due to the onset of URBREATH.
