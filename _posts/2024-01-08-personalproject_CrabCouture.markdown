@@ -3,7 +3,7 @@ title: "Personal/Hobby: Crab Couture"
 layout: post
 tag: personal
 date: 2024-01-01 23:52
-img: /assets/images/crabcotoure/crab_taxtherichnotthepretty.jpeg
+img: /assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg
 projects: true
 author: niklaseffenberger
 summary: "About a sustaianble fashion brand idea brought to life with generative AI"
@@ -25,17 +25,17 @@ Since the great advancements in generative AI and the Dall:e integration into Ch
 Still, let me share what Dall:e, ChatGPT and I came up with. I may gladly share all prompts and details on how I got those with anyone interested. Just reach out. Text was partly added with Gimp&Inkscape.
 
 
-![Tax](/assets/images/crabcouture/crab_taxtherichnotthepretty.jpeg)"Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)"
+![Tax](/assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg)Inspired by a shirt I found on [Everpress](https://everpress.com/tax-the-rich-not-the-pretty)
 
-![Mummy?](/assets/images/crabcouture/crab_wheresmymummy.jpg)"Where's my Mummy?"
+![Mummy?](/assets/images/proj-personal/crabcouture/crab_wheresmymummy.jpg)"Where's my Mummy?"
 
-![Magnum](/assets/images/crabcouture/crab_magnum.jpg)"Tribute to Tom Selleck"
+![Magnum](/assets/images/proj-personal/crabcouture/crab_magnum.jpg)Tribute to Tom Selleck
 
-![Hard Croc' Life](/assets/images/crabcouture/crab_hardcroclife.jpg)"A Hard Croc' Life..."
+![Hard Croc' Life](/assets/images/proj-personal/crabcouture/crab_hardcroclife.jpg)"A Hard Croc' Life..."
 
-![Shell of a Game](/assets/images/crabcouture/crab_game.jpg)"Puns over puns..."
+![Shell of a Game](/assets/images/proj-personal/crabcouture/crab_game.jpg)Puns over puns...
 
-![Shell of a Game](assets/images/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
+![Shell of a Game](/assets/images/proj-personal/crabcouture/crab_crocoshoco.jpg)"Croco Shoco"
 
 
 You may find a [Brand Identity Document](https://docs.google.com/document/d/1sBh8_KVx-moWjLMZYwgG7HW_GMa3X2SWPLvVgWHNhxE/edit?usp=sharing) on Google Docs. An account on [Instagram](https://www.instagram.com/crabcoutureofficial) is underway.
@@ -43,8 +43,8 @@ You may find a [Brand Identity Document](https://docs.google.com/document/d/1sBh
 I tried printing some of the designs and pressed them on a t-shirt in our local co-working workshop [Hobbyhimmel](https://hobbyhimmel.de/). THe workshop is run by volunteers and based off donations. It was a really nice experience and possibilities for diy projects and crafting are endless.
 
 
-![Hobbyhimmel outs](/assets/images/crabcouture/hobbyhimmel_outside.jpg)"Outside view"
+![Hobbyhimmel outs](/assets/images/proj-personal/crabcouture/hobbyhimmel_outside.jpg)Outside view
 
-![Hobbyhimmel workshop](/assets/images/crabcouture/hobbyhimmel_workshop.jpg)"Inside view"
+![Hobbyhimmel workshop](/assets/images/proj-personal/crabcouture/hobbyhimmel_workshop.jpg)Inside view
 
-![garment press](/assets/images/crabcouture/hobbyhimmel_hotone.jpg)"Garment press 'The Hot One'"
+![garment press](/assets/images/proj-personal/crabcouture/hobbyhimmel_hotone.jpg)Garment heat press 'The Hot One'
