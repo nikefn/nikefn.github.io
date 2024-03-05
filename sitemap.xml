@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://nikefn.github.io/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/about/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/blog/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/projects/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/urbreath</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/sparcs</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/crabcouture</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/hello_world0/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nikefn.github.io/project_ACCSESS0/</loc>
+  <lastmod>2024-03-05T16:19:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
