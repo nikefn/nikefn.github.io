@@ -6,8 +6,6 @@ bio:
 # twitter summary info
 description: Niklas Effenberger's personal site
 
-facebook:
-  admins: niklaseffenberger
 
 
 
@@ -43,6 +41,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
+facebook: niklaseffenberger
 instagram: jazzyjeffe71
 linkedin: niklaseffenberger
 github: nikefn
