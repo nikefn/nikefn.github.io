@@ -111,7 +111,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-sitemap
+
 
 compress_html:
   ignore:
