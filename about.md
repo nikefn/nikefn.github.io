@@ -24,7 +24,7 @@ layout: page
 <h2>Current and past projects of personal interest and hobbies:</h2>
 
 <ul>
-	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a>C</li>
+	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
 	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
 	<li>To Build a Birdhouse</li>
 	<li>Kitchen Stories from Wagenhallen Stuttgart</li>
