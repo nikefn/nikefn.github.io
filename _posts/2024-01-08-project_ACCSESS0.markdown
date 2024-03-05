@@ -57,7 +57,7 @@ Fraunhofer's main contributions to the ACCSESS project involves societal integra
 
 **Links:**
 
-[BBC Article on CCS and Cement, 2018](https://www.bbc.com/news/science-environment-46455844))
+[BBC Article on CCS and Cement, 2018](https://www.bbc.com/news/science-environment-46455844)
 
 [EU CORDIS Database with stats on ACCSESS](https://cordis.europa.eu/project/id/101022487)
 
