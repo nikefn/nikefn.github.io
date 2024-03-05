@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Niklas Effenberger]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Hi, I'm Niklas. I enjoy exploring the intersection between nature and urban spaces, working at <a href="https://www.morgenstadt.de/de/ueberuns/team.html">Fraunhofer IAO</a> within the Urban Systems Engineering and <a href="https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering.html">Urban Governance Innovation team</a>. My role allows me to engage with a variety of people, valuing diverse perspectives and collaborative efforts towards sustainable advancements. Outside my project work, I'm passionate about brainstorming new ideas, such as enhancing nocturnal urban landscapes by exploring possible synergies between nocturnal ecology and nocturnal socioeconomics.</p>
 
