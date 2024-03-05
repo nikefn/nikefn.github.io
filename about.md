@@ -15,7 +15,7 @@ layout: page
 <ul>
 	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
 	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
-<li><a href="https://www.projectaccsess.eu/">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
+<li><a href="https://nikefn.github.io//accsess">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/">Innovationsnetzwerk Nachtkultur</a></li>
 <li><a href="https://www.fraunhofer.de/de/forschung/fraunhofer-strategische-forschungsfelder/biooekonomie.html">Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</a></li>
 <li>Seminar on Feedback and on talking to one another</li>
