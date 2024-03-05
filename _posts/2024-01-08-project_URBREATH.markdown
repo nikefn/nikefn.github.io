@@ -1,5 +1,5 @@
 ---
-title: "Work/Fraunhofer: URBREATH - Nature-Based Solutions in Europe"
+title: "Work/Fraunhofer: URBREATH - Nature-Based Solutions"
 layout: post
 tag: nature-based-solutions
 date: 2024-03-03 19:20
@@ -15,7 +15,7 @@ permalink: urbreath
 
 ## Nature-Based Solutions - Project URBREATH
 
-![URBREATH Kickoff Meeting Niklas](/assets/images/proj-work/urbreath/URBREATH_consortium.jpg)"URBREATH Kickoff Meeting Leuven January 2024"{: class="bigger-image" }
+![URBREATH Kickoff Meeting Niklas](/assets/images/proj-work/urbreath/URBREATH_consortium.jpg)URBREATH Kickoff Meeting Leuven January 2024
 
 Synopsis: The [URBREATH][1] project aims to improve the climate neutrality of European cities and regions by integrating technical and nature-based solutions with a focus on community participation. It seeks to enhance urban resilience, social inclusion, and liveability through a structured approach that incorporates the development, implementation, and validation of these solutions.
 

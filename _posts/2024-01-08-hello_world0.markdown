@@ -2,7 +2,7 @@
 title: "Hello world..."
 layout: post
 date: 2024-01-08 22:48
-image: /assets/images/buone_vibrazioni.jpg
+image: /assets/images/blog/buone_vibrazioni.jpg
 headerImage: true
 tag:
 - github-pages

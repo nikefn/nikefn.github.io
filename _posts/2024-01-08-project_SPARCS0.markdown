@@ -15,7 +15,7 @@ permalink: sparcs
 
 ## Positive Energy Districts - Project SPARCS
 
-![SPARCS Replication Team](/assets/images/proj-work/sparcs/SPARCS_pres.jpg)"SPARCS presentation on Smart City Expo 2023"
+![SPARCS Replication Team](/assets/images/proj-work/sparcs/SPARCS_pres.jpg)SPARCS presentation on Smart City Expo 2023
 
 
 Synopsis: The [SPARCS][1] project, funded by the European Union, aims to facilitate the transformation of urban areas into sustainable smart cities. It recognizes the role of renewable technologies and the need for a deep understanding of operational complexities, alongside fostering communication among citizens, communities, industries, and authorities.
