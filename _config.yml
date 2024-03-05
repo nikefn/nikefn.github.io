@@ -4,7 +4,12 @@ bio:
 
 
 # twitter summary info
-description: A blog about me and stuff related
+description: Niklas Effenberger's personal site
+
+facebook:
+  admins: niklaseffenberger
+
+
 
 # if it's an external image, update below for true
 # better with square images
