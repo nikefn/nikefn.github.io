@@ -27,7 +27,7 @@ url: https://nikefn.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: G-1YZSDTC0X3
+analytics-google: "G-1YZSDTC0X3"
 google_site_verification: GI-Dcfouph0pv-6lYUaqBucLdMSoCiYujoyUonuCjsQ # your google-site-verification ID (Google Search Console)
 
 # if you don't want comments in your posts, leave categories empty
@@ -111,6 +111,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 
 compress_html:
   ignore:
