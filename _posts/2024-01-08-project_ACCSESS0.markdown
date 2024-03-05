@@ -49,8 +49,21 @@ Fraunhofer's main contributions to the ACCSESS project involves societal integra
 
 [0]: https://www.bbc.com/news/science-environment-46455844
 [1]: https://cordis.europa.eu/project/id/101022487
-[2]: https://www.bable-smartcities.eu/home.html
 [3]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216146
 [4]: https://www.storaenso.com/en/about-stora-enso/stora-enso-locations/skutskar-mill
 [5]: https://www.bund.net/klimawandel/ccs/
 [6]: https://doi.org/10.1016/j.jclepro.2022.133932
+
+**Links:**
+
+[BBC Article on CCS and Cement, 2018](https://www.bbc.com/news/science-environment-46455844))
+
+[EU CORDIS Database with stats on ACCSESS](https://cordis.europa.eu/project/id/101022487)
+
+["The emergent integrated network structure of scientific research", Dworkin et. al 2019, PLOSone](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216146)
+
+[Pulp and Paper Mill as CCS pilot site run by Stora Enso](https://www.storaenso.com/en/about-stora-enso/stora-enso-locations/skutskar-mill)
+
+[BUND/Friends of the Earth Germany Campaign against CCS](https://www.bund.net/klimawandel/ccs/)
+
+[Review Article on CCS, Dubey&Arora, 2022, J. of Cleaner Prod., Elsevier](https://doi.org/10.1016/j.jclepro.2022.133932)
