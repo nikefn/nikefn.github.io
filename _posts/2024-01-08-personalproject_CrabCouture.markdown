@@ -10,8 +10,6 @@ summary: "About a sustaianble fashion brand idea brought to life with generative
 permalink: crabcouture
 ---
 
-
-
 ## Crab Couture
 
 Since a while I worked with a couple of friends on a new brand idea: The Crab Couture Fashion Label.
