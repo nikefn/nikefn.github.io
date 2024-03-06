@@ -26,7 +26,7 @@ layout: page
 <ul>
 	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
 	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
-	<li>To Build a Birdhouse</li>
+	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
 	<li>Kitchen Stories from Wagenhallen Stuttgart</li>
 	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
 	<li>Journey to writing a Master Thesis</li>

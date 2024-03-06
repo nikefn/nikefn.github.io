@@ -13,7 +13,7 @@ permalink: birdhouse
 ## To build a Birdhouse
 
 
-![Me and my birdhouse](/assets/images/proj-work/birdhouse/meandmybirdhouse.jpg)Me & my birdhouse
+![Me and my birdhouse](/assets/images/proj-work/birdhouse/meandmybirdhouse.jpg)Me & My Birdhouse, 2023
 
 In 2023 I found the book *["Vogelhäuser selbst gebaut" by Ramuz, McAllister and Magrill (2001)](https://search.worldcat.org/de/title/76711712)* in a giveaway box in my street and I was fascinated about the crazy designs it features. Look at this one:
 
@@ -54,6 +54,8 @@ In this regard also see the articles posted by the [New York Times in 2023](http
 <div class="breaker"></div>
 
 *In this sense - fingers crossed for 2024 to have someone move in :)!*
+
+
 
 **Links:**
 
