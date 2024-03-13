@@ -44,7 +44,7 @@ Francesco Armillota, the greengrocer of the restaurant helped us to obtain the i
 
 ![Francesco brought the goodies](assets/images/proj-personal/ntag/overview.jpg)Let's see what Francesco brought to us!
 
-![Explanining what will happen](assets/images/proj-personal/ntag/wtf.jpg)Markus explaining to me how to handle all of those veggies.
+![Explanining what will happen](assets/images/proj-personal/ntag/wtf.jpg)Markus explaining to me how we will handle and season all of those veggies.
 
 
 
@@ -64,15 +64,18 @@ What an honour: We were awarded with a sustainability award by the Environmental
 
 ![Nervous Niklas](assets/images/proj-personal/ntag/nervous.jpg)Nervous me [Photo (c) Frank Eppler](https://www.nachhaltigkeitsstrategie.de/service/mediathek/details?tx_nmediathek%5Brecord%5D=35&cHash=a20c48079ff8dc3b067fdca1fcef6e42)
 
+<div class="breaker"></div>
+
 Check out the [leaflet](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [documentation](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
 
+<div class="breaker"></div>
 
 ![Nachhaltigkeitstag University of Hohenheim](assets/images/proj-personal/ntag/cooking2.jpg)Nachhaltigkeitstag University of Hohenheim
 
 <div class="breaker"></div>
 
 Links:
-[1] 1816 - The Year Without a Summer [see wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
+[1] 1816 - The Year Without a Summer [see on wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
 [2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de/en](https://sta.uni-hohenheim.de/en)
 [3] Speisemeisterei Hohenheim, Michelin Star Restaurant on: [www.speisemeisterei.de](https://www.speisemeisterei.de/)
 [4] Frank Oehler and Markus Eberhardinger, Chef de Cuisine at the time on: [Frank Oehler personal website](https://www.frank-oehler.com/) [Slowfood - Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger )
