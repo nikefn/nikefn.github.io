@@ -35,7 +35,7 @@ But that’s not it, the castle also houses a Michelin-Starred Restaurant called
 Together with the Chefs de Cuisine [Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger ) (now having his own Slow-Food coutryside restaurant) and [Frank Oehler](https://www.frank-oehler.com/) (famous TV Chef in Germany) some friends and colleagues from university and I teamed up to organise this nice event for three consecutive years.
 
 
-![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/guests.jpg)Free Lunch and Food for Thought
+![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/guests.jpg)Hungry People in Line
 
 
 
@@ -67,16 +67,13 @@ What an honour: We were awarded with a sustainability award by the Environmental
 Check out the [leaflet](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [documentation](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
 
 
+![Nachhaltigkeitstag University of Hohenheim](assets/images/proj-personal/ntag/cooking2.jpg)Nachhaltigkeitstag University of Hohenheim
+
+<div class="breaker"></div>
+
 Links:
 [1] 1816 - The Year Without a Summer [see wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
 [2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de/en](https://sta.uni-hohenheim.de/en)
 [3] Speisemeisterei Hohenheim, Michelin Star Restaurant on: [www.speisemeisterei.de](https://www.speisemeisterei.de/)
 [4] Frank Oehler and Markus Eberhardinger, Chef de Cuisine at the time on: [Frank Oehler personal website](https://www.frank-oehler.com/) [Slowfood - Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger )
-
-
-
-
-[4] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
-
-
-[see wikipedia](https://search.worldcat.org/de/title/76711712)
+[5] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
