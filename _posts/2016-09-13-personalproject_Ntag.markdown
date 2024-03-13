@@ -19,6 +19,12 @@ permalink: sustday
 
 Reflecting back in time and specifically on the years 2015 to 2017 brings me back to a project close to my heart: the 'Nachhaltigkeitstag' (lit. translation *Sustainability Day*) at the University of Hohenheim.
 
+
+Synopsis: *From 2015-2017 I had the possibility to organise the 'Sustainability Day' at our university with the assistance of dedicated colleagues. The event involved young refugees and students preparing a complimentary meal for approx. 300 guests, with guidance from the chefs of our local Michelin-starred restaurant. The ingredients used were vegetables that were deemed too unattractive for sale in supermarkets and would typically have been thrown away.*
+
+
+<div class="breaker"></div>
+
 The University of Hohenheim resides in an castle built during the 17th century which was transformed into an agricultural academy after food shortages due to [The Year Without a Summer 1816](https://en.wikipedia.org/wiki/Year_Without_a_Summer).
 
 
