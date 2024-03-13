@@ -76,9 +76,13 @@ Check out the [leaflet](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeits
 
 Links:
 [1] 1816 - The Year Without a Summer [see on wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
+
 [2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de/en](https://sta.uni-hohenheim.de/en)
+
 [3] Speisemeisterei Hohenheim, Michelin Star Restaurant on: [www.speisemeisterei.de](https://www.speisemeisterei.de/)
+
 [4] Frank Oehler and Markus Eberhardinger, Chef de Cuisine at the time on: [Frank Oehler personal website](https://www.frank-oehler.com/) [Slowfood - Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger )
-[5] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
+
+[5] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) 
 
 <div class="breaker"></div>
