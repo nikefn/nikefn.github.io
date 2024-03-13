@@ -31,7 +31,7 @@ layout: page
 	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
 	<li>Journey to writing a Master Thesis</li>
 	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
-	<li>Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</li>
+	<li><a href="https://nikefn.github.io//sustday">Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</a></li>
 	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
 	<li>Playing Music for People - <a href="https://soundcloud.com/effe/">dj effekt</a> and good times</li>
 </ul>

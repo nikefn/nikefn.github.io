@@ -2,12 +2,12 @@
 title: "Personal/Hobby: Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
 layout: post
 tag: personal
-date: 2016-09-13 11:13
+date: 2023-10-16 15:37
 img: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
 projects: true
 author: niklaseffenberger
 summary: "Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
-permalink: birdhouse
+permalink: sustday
 ---
 
 ## Nachhaltigkeitstag Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking
@@ -17,12 +17,12 @@ permalink: birdhouse
 
 
 
-Reflecting on the years 2015 to 2017 brings me back to a project close to my heart: the ‚Nachhaltigkeitstag’ (lit. translation *Sustainability Day*) at the University of Hohenheim.
+Reflecting back in time and specifically on the years 2015 to 2017 brings me back to a project close to my heart: the 'Nachhaltigkeitstag' (lit. translation *Sustainability Day*) at the University of Hohenheim.
 
 The University of Hohenheim resides in an castle built during the 17th century which was transformed into an agricultural academy after food shortages due to [The Year Without a Summer 1816](https://en.wikipedia.org/wiki/Year_Without_a_Summer).
 
 
-Inside the castle, several university chairs and the university administration are located, among those also [the Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en) for which I was allowed to work for three years.
+Inside the castle, several university chairs and the university administration are located, among those also [the Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en) where I had the privilege of working for three years.
 
 
 ![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/eating.jpg)Free Lunch and Food for Thought
