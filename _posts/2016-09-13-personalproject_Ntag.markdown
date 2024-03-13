@@ -32,7 +32,7 @@ But that’s not it, the castle also houses a Michelin-Starred Restaurant called
 
 
 
-Together with the Chefs de Cuisine [Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger ) (now having his own Slow-Food coutryside restaurant) and [Frank Oehler](https://www.frank-oehler.com/) (famous TV Chef in Germany) some friends and colleagues from university and I teamed up to organise this nice event for three consecutive years.
+Together with the Chefs de Cuisine [Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger ) (now having his own Slow-Food coutryside restaurant) and [Frank Oehler](https://www.frank-oehler.com/) (celebrity TV Chef in Germany) some friends and colleagues from university and I teamed up to organise this nice event for three consecutive years.
 
 
 ![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/guests.jpg)Hungry People in Line
