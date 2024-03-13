@@ -1,66 +1,82 @@
 ---
-title: "Personal/Hobby: To build a Birdhouse"
+title: "Personal/Hobby: Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
 layout: post
 tag: personal
-date: 2023-12-22 12:13
+date: 2016-09-13 11:13
 img: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
 projects: true
 author: niklaseffenberger
-summary: "I build a birdhouse and found out about my connection to nature"
+summary: "Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
 permalink: birdhouse
 ---
 
-## To build a Birdhouse
+## Nachhaltigkeitstag Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking
 
 
-![Me and my birdhouse](/assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg)Me & My Birdhouse, 2023
-
-In 2023 I found the book *["Vogelhäuser selbst gebaut" by Ramuz, McAllister and Magrill (2001)](https://search.worldcat.org/de/title/76711712)* in a giveaway box in my street and I was fascinated about the crazy designs it features. Look at this one:
-
-![Screenshot of UFO birdhouse](/assets/images/proj-personal/birdhouse/book_ufobirdhouse.jpeg)Ufo Birdhouse *(photo taken from the book ["Vogelhäuser selbst gebaut"](https://search.worldcat.org/de/title/76711712)*
-
-However, I opted to go for a more classic design and paint it with bold colours.
-
-![The birdhouse design I chose](/assets/images/proj-personal/birdhouse/redwhitepainting.jpg)Classic design with red-white house painting
-
-In 2023, sadly no tenants moved in. It was only later that I found in a document issued by *[NABU (The Nature And Biodiversity Conservation Union Germany)](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/01105.html)* that bright colors should be avoided when painting birdhouses, as birds prefer environments where they can stay hidden and secure with their young. Seems like a reasonable choice! Maybe also the timing of placing the birdhouse outside might not have been ideal - NABU offers advice on this topic as well.
-
-Let's see, maybe I will go for a repaint in 2024 and hoping for better success in attracting tenants.
-
-![Painting the house](/assets/images/proj-personal/birdhouse/paintingthehouse.jpg)Primary coating in white
-
-Crafting the birdhouse from wood proved more challenging than anticipated. Initially, I attempted to saw the wood into the correct shape at home. However, achieving precise and straight edges was difficult.
-
-![Crafting the house 1](/assets/images/proj-personal/birdhouse/housecrafting1.jpg)Crafting a house demands preciseness
-
-Consequently, I moved to use the facilities at [Hobbyhimmel](https://hobbyhimmel.de/), a co-working workshop in Stuttgart, where they have a professional band saw. This tool  did the job; allowing me to cut the wood with the precision and accuracy needed for a nice birdhouse.
-
-The size of the entrance hole can determine which species of birds are likely to use the house.
-
-![Sawing the entrance hole with specific diameter](/assets/images/proj-personal/birdhouse/diameter.jpg)Different diameters invite different species
-
-<div class="breaker"></div>
-
-To me, there is a certain magic in the simple act of placing a birdhouse outside and inviting the birds to move in. It feels really incredible for me, that it's possible to hang out a birdhouse and just by simply hanging it out, you may expect birds to find it and to move in (maybe even gratefully).
-
-Last year, I had the opportunity to observe a Sparrow skillfully maneuvering around the edges of the roof at my parents' home who live near a forest. Watching the Sparrow really gave me a feeling of their remarkable adaptability and intelligence - their ability to explore and to make the most of their surroundings to fulfill their needs.
-
-Experiencing this warmed my heart and gave me a sense of my connection to the natural world; to me, it emphasised the interplay between humans and nature, how we coexist and that we share the very same spaces around us.
-
-In this regard also see the articles posted by the [New York Times in 2023](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html) *(paywall)* and by [The Audubon Society in the same year](https://www.audubon.org/news/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests) about bird's nests built out of bird-countermeasures and materials thought up to deter birds (see picture below). Reading those articles reinforced my feeling of not only living alongside nature but coexisting together ‚with it and the beauty and joy it brings to me. Also, to me, it emphasises how collaborating with nature can be beneficial rather than obstructive.
-
-![Eurasian Magpie nest constructed with anti-bird spikes, seen in a sugar maple tree in Antwerp, Belgium. Photo: Auke-Florian Hiemstra.](https://media.audubon.org/2023-07/Magpie-nest%2C-Antwerp-%28BE%29%2C-photo-Auke-Florian-Hiemstra-.jpg)"Eurasian Magpie nest constructed with anti-bird spikes, seen in a sugar maple tree in Antwerp, Belgium." Photo: Auke-Florian Hiemstra, 2023. See link bottom of page.
-
-<div class="breaker"></div>
-
-*In this sense - fingers crossed for 2024 to have someone move in :)!*
+![Nachhaltigkeitstag University of Hohenheim](assets/images/proj-personal/ntag/cooking.jpg)Nachhaltigkeitstag University of Hohenheim
 
 
 
-**Links:**
+Reflecting on the years 2015 to 2017 brings me back to a project close to my heart: the ‚Nachhaltigkeitstag’ (lit. translation *Sustainability Day*) at the University of Hohenheim.
 
-*"Vogelhäuser Selbst Gebaut Mit Bauanleitungen Für 20 Modelle"* (2001) by Ramuz, McAllister and Magrill in Bindlach: Gondrom. [see worldcat](https://search.worldcat.org/de/title/76711712)
+The University of Hohenheim resides in an castle built during the 17th century which was transformed into an agricultural academy after food shortages due to [The Year Without a Summer 1816](https://en.wikipedia.org/wiki/Year_Without_a_Summer).
 
-*They’re Outsmarting Us’: Birds Build Nests From Anti-Bird Spikes*, 2023 in [The New York Times](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 
-*Apparently Magpies and Crows Are Using "Anti-Bird Spikes" to Make Their Nests*, 2023 published in [The National Audubon Society, News Section](https://www.audubon.org/news/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
+Inside the castle, several university chairs and the university administration are located, among those also [the Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en) for which I was allowed to work for three years.
+
+
+![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/eating.jpg)Free Lunch and Food for Thought
+
+
+But that’s not it, the castle also houses a Michelin-Starred Restaurant called [Speisemeisterei](https://www.speisemeisterei.de/).
+
+
+
+Together with the Chefs de Cuisine [Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger ) (now having his own Slow-Food coutryside restaurant) and [Frank Oehler](https://www.frank-oehler.com/) (famous TV Chef in Germany) some friends and colleagues from university and I teamed up to organise this nice event for three consecutive years.
+
+
+![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/guests.jpg)Free Lunch and Food for Thought
+
+
+
+
+Francesco Armillota, the greengrocer of the restaurant helped us to obtain the ingredients: Vegetables that supermarkets had rejected for their appearance but which were still perfectly edible. Just one day collecting those at the wholesale market in Stuttgart yielded enough produce to feed approx. 300 guests. Crazy!
+
+![Francesco brought the goodies](assets/images/proj-personal/ntag/overview.jpg)Let's see what Francesco brought to us!
+
+![Explanining what will happen](assets/images/proj-personal/ntag/wtf.jpg)Markus explaining to me how to handle all of those veggies.
+
+
+
+
+
+
+
+While the Michelin-starred chefs supervised the cooking and seasoning noumerous helping hands facilitated the cooking itself. See the pictures.
+
+
+
+
+
+
+
+What an honour: We were awarded with a sustainability award by the Environmental Minister. Fun fact: During the panel I was so nervous to talk in front of so many people that my answers to the questions I was asked did not really make sense - at least it was fun for my friends in the audience.
+
+![Nervous Niklas](assets/images/proj-personal/ntag/nervous.jpg)Nervous me [Photo (c) Frank Eppler](https://www.nachhaltigkeitsstrategie.de/service/mediathek/details?tx_nmediathek%5Brecord%5D=35&cHash=a20c48079ff8dc3b067fdca1fcef6e42)
+
+Check out the [leaflet](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [documentation](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
+
+
+Links:
+[1] 1816 - The Year Without a Summer [see wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
+[2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de/en](https://sta.uni-hohenheim.de/en)
+[3] Speisemeisterei Hohenheim, Michelin Star Restaurant on: [www.speisemeisterei.de](https://www.speisemeisterei.de/)
+[4] Frank Oehler and Markus Eberhardinger, Chef de Cuisine at the time on: [Frank Oehler personal website](https://www.frank-oehler.com/) [Slowfood - Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger )
+
+
+
+
+[4] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
+
+
+[see wikipedia](https://search.worldcat.org/de/title/76711712)
