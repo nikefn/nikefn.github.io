@@ -29,7 +29,7 @@ layout: page
 	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
 	<li>Kitchen Stories from Wagenhallen Stuttgart</li>
 	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
-	<li>Journey to writing a Master Thesis</li>
+	<li> [My Master Thesis on *The Governance of Nature-Based Solutions*](/assets/files/ma-thesis/2018_Governance_of_Nature_Based_Solutions_MA-Thesis.pdf)</li>
 	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
 	<li><a href="https://nikefn.github.io//sustday">Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</a></li>
 	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
