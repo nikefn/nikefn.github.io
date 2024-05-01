@@ -25,8 +25,7 @@ But besides this exciting opportunity, the fact of being able to go to Austin, m
 
 **But let's go step by step - how did this all start?**
 
-Back in the days in 2022, when I started working at Fraunhofer IAO, I took over a project called the Nighttime Innovation Network from a former colleague. The Nighttime Innovation Network—a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
-
+Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague. The Nighttime Innovation Network—a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
 
 The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group. Over time and over multiple workshop sessions we went from large to small and then to large again. Meaning first overarching themes and subtopics were identified, then challenges and possible solutions to those subtopics and then (going large again)[^3]. This process yielded a long list of possible ways forward, from which we compiled a more general and concise version of policy recommendations. It all sounds straightforward. I could present the findings at the [about pop conference](https://www.aboutpop.de/) conference on night-culture and we received positive feedback[^4].
 
