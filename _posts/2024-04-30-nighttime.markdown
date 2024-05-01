@@ -45,7 +45,7 @@ My thought process went something like this:
 
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
 - Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *(for a disclaimer see footnote)*[^9]
-- ***Before the conference and panel all the discussions I had with colleagues and friends on the topic came back to me, wow!***
+- ***All the discussions I had with colleagues and friends on the topic came back to me, wow!***
 
 
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
