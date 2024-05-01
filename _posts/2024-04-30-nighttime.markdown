@@ -19,7 +19,8 @@ permalink: nighttime
 
 This year, I had the opportunity to participate in a panel discussion at SXSW on ["The Sustainable Nightlife of the Future"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/) - how exciting![^1]
 
-But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone [^2]!
+But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. ***I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone!***[^2]
+
 
 ![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpeg)*Good panel, good Conference, good mood - let's go :)!*
 
@@ -35,7 +36,7 @@ However, one thing stayed with me—during all discussions, it was challenging t
 
 The project finished, and sadly, no follow-up funding was secured, so in my working days the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) was naturally replaced with other projects. But it continued to ruminate inside me, and I began reading mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
 
-![At NOEK conference - it clicked](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - it clicked*
+![Going to NOEK conference - sharing the obvious](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - the night hiding in plain sight*
 
 **A nocturnal Aha-Moment**
 
