@@ -26,7 +26,9 @@ But besides this exciting opportunity, the fact of being able to go to Austin, m
 
 **But let's go step by step - how did this all start?**
 
-Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague - a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. Due to my former engagements as waiter, bartender and kitchen helper at Wagenhallen Stuttgart, and some of my volunteering activities, I had hands-on experience on how nightculture can look like and the issues that may arise. All was pretty exciting for me!
+Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague - a series of workshops aimed at resolving conflicts between different interest groups in urban nights.
+
+Due to my former engagements as waiter, bartender and kitchen helper at [Wagenhallen Stuttgart](https://wagenhallen.de/) Stuttgart, and some of my volunteering activities, I had hands-on experience on how nightculture can look like from *both ends* and the issues that may arise. Now in this workshop, even my city's first night mayor participated. All was pretty exciting for me!
 
 The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group.
 
