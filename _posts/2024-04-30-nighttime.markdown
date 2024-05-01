@@ -41,7 +41,7 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked, and I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them, yet none touched on the topic of the night.
 
-I vividly remember this panel discussion as many things became clearer to me. Those connections gave me hints on how to possibly navigate out of the challenging discussions mentioned earlier. My thought process went something like this:
+My thought process went something like this:
 
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
 - Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *(for a disclaimer see footnote)*[^9]
