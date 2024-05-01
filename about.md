@@ -17,9 +17,13 @@ layout: page
 	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
 <li><a href="https://nikefn.github.io//accsess">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/">Innovationsnetzwerk Nachtkultur</a></li>
-<li><a href="https://www.fraunhofer.de/de/forschung/fraunhofer-strategische-forschungsfelder/biooekonomie.html">Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</a></li>
-<li>Seminar on Feedback, on talking to one another and scientific poster design for bachelor students</li>
+<li>Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</li>
+<li><a href="https://drive.google.com/file/d/1W9rY3TUrs_97DUkp4gHjWqzB6krOMLYk/view?usp=sharing">Seminar on Feedback, on talking to one another, Scientific Poster Design and Qualitative Research with Interviews. For Bachelor Students; University of Hohenheim</a></li>
 </ul>
+
+
+
+
 
 <h2>Current and past projects of personal interest and hobbies:</h2>
 

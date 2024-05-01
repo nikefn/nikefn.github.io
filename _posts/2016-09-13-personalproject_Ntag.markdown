@@ -91,6 +91,6 @@ Links:
 
 [4] Frank Oehler and Markus Eberhardinger, Chef de Cuisine at the time on: [Frank Oehler personal website](https://www.frank-oehler.com/) [Slowfood - Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger )
 
-[5] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [Dokumentation_Nachhaltigkeitstag.pdf](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf)
+[5] Docs: Leaflet Nachhaltigkeitstag and Documentation: [Leaflet_Nachhaltigkeitstag.pdf](https://drive.google.com/file/d/1mqXZMGzWSxUPVbC5XvmGtjpm41Z-A81H/view?usp=sharing) and [Dokumentation_Nachhaltigkeitstag.pdf](https://drive.google.com/file/d/1y9qp7UplodiLqaTJqStvfKSVdtJvk3cX/view?usp=sharing)
 
 <div class="breaker"></div>
