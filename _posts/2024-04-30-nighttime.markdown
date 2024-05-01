@@ -36,7 +36,7 @@ However, one thing stayed with me—during all discussions, it was challenging t
 
 The project finished, and sadly, no follow-up funding was secured, so in my working days the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) was naturally replaced with other projects. But it continued to ruminate inside me, and I began reading mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
 
-![Going to NOEK conference - sharing the obvious](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - the night hiding in plain sight*
+![Going to NOEK conference - sharing the obvious](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - sharing how the night is hiding in plain sight*
 
 **A nocturnal Aha-Moment**
 
