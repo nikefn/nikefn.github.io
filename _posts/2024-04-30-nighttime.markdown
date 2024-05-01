@@ -21,6 +21,8 @@ This year, I had the opportunity to participate in a panel discussion at SXSW on
 
 But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone [^2]!
 
+![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpg)
+
 **But let's go step by step - how did this all start?**
 
 Back in the days in 2022, when I started working at Fraunhofer IAO, I took over a project called the Nighttime Innovation Network from a former colleague[^1]. The Nighttime Innovation Network—a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
@@ -30,6 +32,8 @@ The workshops (all online due to Covid-aftermath) followed a consistent structur
 However, one thing stayed with me—during all discussions, it was challenging to keep myself and everyone else 'on track'. We were constantly tempted to switch between different layers of the problem—from an individual dispute at a specific time and place in the night, to the 'bigger picture', and individual participants' recommendations on best practices and personal experiences. Nevertheless, the outcome was useful and well-received.
 
 The project finished, and sadly, no follow-up funding was secured, so in my working days it was naturally replaced with other projects. But it continued to ruminate within me, and I began to focus mostly on nocturnal insects and their relationship to light [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
+
+![At NOEK conference - it clicked](/assets/images/blog-sxsw/noekpanel.jpg)
 
 **A nocturnal Aha-Moment**
 
