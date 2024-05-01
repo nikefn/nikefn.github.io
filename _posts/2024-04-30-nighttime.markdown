@@ -37,7 +37,7 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 **A nocturnal Aha-Moment**
 
-It wasn't until 2023 that I was invited to speak on a panel titled *'The Night - The Forgotten Time in City Development'* [NOEK Conference](https://noek-conference.com/) in Mannheim[^7]. Just by reading the title, it clicked, and I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them, yet none touched on the topic of the night.
+It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked, and I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them, yet none touched on the topic of the night.
 
 I vividly remember this panel discussion as many things became clearer to me. Those connections also gave me hints on how to possibly navigate out of the challenging discussions mentioned earlier. My thought process went something like this:
 
@@ -48,14 +48,15 @@ I vividly remember this panel discussion as many things became clearer to me. Th
 
 ![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)*Happy times at SXSW, Photo shot by Andrea Escobar*
 
-In the aftermath of this conference I intensified my reading. Afterwards, it was all magic — I got invited to SXSW, met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
+In the aftermath of this conference I intensified my reading. Afterwards, it was all magic — [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
+
 
 *As this blog post is getting a bit lengthy, let me continue with the concepts we came up with in the next one :) - Thanks for reading. btw - this is my first blogpost, yay :)*
 
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. [Link to the Panel Description](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
 
-[^2]: Thanks [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) for picking up the phone and for talking. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better. Also [Kevin J. Gaston's work](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate) helped me so much.
+[^2]: First and foremost Lutz from Vibelab. As well big thank you to [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) for picking up the phone and for talking. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better. Also [Kevin J. Gaston's work](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate) helped me so much.
 
 [^3]: See the [slides](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing).
 
