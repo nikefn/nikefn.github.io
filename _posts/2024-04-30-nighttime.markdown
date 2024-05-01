@@ -21,7 +21,7 @@ This year, I had the opportunity to participate in a panel discussion at SXSW on
 
 But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone [^2]!
 
-![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpg)
+![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpeg)
 
 **But let's go step by step - how did this all start?**
 
