@@ -50,13 +50,13 @@ As this blog post is getting a bit lengthy, let me continue with the concepts we
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. [Link to the Panel Description](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
 
-[^2]: Thanks [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) for picking up the phone and for talking. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better.
+[^2]: Thanks [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) for picking up the phone and for talking. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better. Also [Kevin J. Gaston's work](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate) helped me so much.
 
 [^3]: See the [slides](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing).
 
 [^4]: [about pop conference and festival](https://www.aboutpop.de/) Stuttgart.
 
-[^5]: Check this out: Fabian, S.T., Sondhi, Y., Allen, P.E. et al. Why flying insects gather at artificial light. Nat Commun 15, 689 (2024). [https://doi.org/10.1038/s41467-024-44785-3](https://doi.org/10.1038/s41467-024-44785-3).
+[^5]: Check this recent paper out: Fabian, S.T., Sondhi, Y., Allen, P.E. et al. Why flying insects gather at artificial light. Nat Commun 15, 689 (2024). [https://doi.org/10.1038/s41467-024-44785-3](https://doi.org/10.1038/s41467-024-44785-3).
 
 [^6]: Acuto, Michele, et al. Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy. 1st ed., Bristol University Press, 2022. JSTOR, [https://doi.org/10.2307/j.ctv22jnkcq](https://doi.org/10.2307/j.ctv22jnkcq).
 
