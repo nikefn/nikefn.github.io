@@ -21,12 +21,11 @@ This year, I had the opportunity to participate in a panel discussion at SXSW on
 
 But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone [^2]!
 
-![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpeg)
+![Good Conference, good mood - let's go :)!](/assets/images/blog-sxsw/sxswpanel2.jpeg)*Good panel, good Conference, good mood - let's go :)!*
 
 **But let's go step by step - how did this all start?**
 
 Back in the days in 2022, when I started working at Fraunhofer IAO, I took over a project called the Nighttime Innovation Network from a former colleague. The Nighttime Innovation Network—a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
-
 
 
 The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group. Over time and over multiple workshop sessions we went from large to small and then to large again. Meaning first overarching themes and subtopics were identified, then challenges and possible solutions to those subtopics and then (going large again)[^3]. This process yielded a long list of possible ways forward, from which we compiled a more general and concise version of policy recommendations. It all sounds straightforward. I could present the findings at the [about pop conference](https://www.aboutpop.de/) conference on night-culture and we received positive feedback[^4].
@@ -35,7 +34,7 @@ However, one thing stayed with me—during all discussions, it was challenging t
 
 The project finished, and sadly, no follow-up funding was secured, so in my working days it was naturally replaced with other projects. But it continued to ruminate within me, and I began to focus mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
 
-![At NOEK conference - it clicked](/assets/images/blog-sxsw/noekpanel.jpg)
+![At NOEK conference - it clicked](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - it clicked*
 
 **A nocturnal Aha-Moment**
 
@@ -48,7 +47,7 @@ I vividly remember this panel discussion as many things became clearer to me. Th
 
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
 
-![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)
+![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)*Happy times at SXSW, Photo shot by Andrea Escobar*
 
 In the aftermath of this conference I intensified my reading. Afterwards, it was all magic — I got invited to SXSW, met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
 
