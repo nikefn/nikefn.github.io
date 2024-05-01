@@ -38,7 +38,7 @@ layout: page
 	<li><a href="https://nikefn.github.io//sustday">Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</a></li>
 	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
 	<li>Seminar work on "Coersive Conservation", a topic that stuck with me until today, <a href="https://drive.google.com/file/d/1rYbzzxlnQjsUBrjvVfn9fW1h2pGEZHiY/view?usp=sharing" target="_blank">see presentation on it</a></li>
-	<li>Playing Music for People - <a href="https://soundcloud.com/effe/" target="_blank">dj effekt</a> and good times</li>
+	<li>Playing Music for Friends - <a href="https://soundcloud.com/effe/" target="_blank">dj effekt</a> and good times</li>
 
 
 </ul>
