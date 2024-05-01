@@ -17,7 +17,7 @@ permalink: nighttime
 
 ### My personal Night-Shift: Finding Out about the Importance of a Topic
 
-This year, I had the opportunity to participate in a panel discussion at SXSW on ["The Sustainable Nightlife of the Future"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/) - how exciting![^1]
+This year, I had the opportunity to participate in a panel discussion at SXSW on the ["Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/) - how exciting![^1]
 
 But besides this exciting opportunity, the fact of being able to go to Austin, meeting interesting people and talking on a panel, over the past years the topic grew closely to my heart. ***I genuinely believe that linking the environmental transition a lot of cities worldwide pursue with culture and nightlife could benefit both worlds drastically. And guess what - I'm not alone!***[^2]
 
@@ -28,15 +28,15 @@ But besides this exciting opportunity, the fact of being able to go to Austin, m
 
 Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague - a series of workshops aimed at resolving conflicts between different interest groups in urban nights.
 
-Due to my former engagements as waiter, bartender and kitchen helper at [Wagenhallen Stuttgart](https://wagenhallen.de/) Stuttgart, and some of my volunteering activities, I had hands-on experience on how nightculture can look like from *both ends* and the issues that may arise. Now in this workshop, even my city's first night mayor participated. All was pretty exciting for me!
+Due to former engagements as waiter, bartender and kitchen helper at [Wagenhallen Stuttgart](https://wagenhallen.de/) Stuttgart, and some of my volunteering activities, I had hands-on experience on how nightculture can look like from *both ends* and the issues that may arise. Now in this workshop, even my city's first night mayor participated. All was pretty exciting for me!
 
-The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group.
+The workshops (all online due to Covid-aftermath) [followed a consistent structure, I linked the slides for you here](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group.
 
 Over time and over multiple workshop sessions together we went through identifying overarching themes and subtopics to related challenges and possible solutions[^3]. This process yielded a long list of possible ways forward, from which we compiled a more general and concise version of policy recommendations. I could present the findings at the [about pop conference](https://www.aboutpop.de/) conference on night-culture and we received positive feedback[^4].
 
-However, one thing stayed with me—during all discussions, it was challenging to keep myself and everyone else *'on track'*. We were constantly tempted to switch between *different layers* of the problem — from e.g. an *individual* dispute at a specific time and place in the night, to the *'bigger picture'*, and *individual* participants' recommendations on best practices and *personal* experiences. Nevertheless, we managed and the outcome was useful and well-received. *This experience got very important in thinking up our new concepts with vibelab and the others.*
+However, one thing stayed with me — during all discussions, also the one during the conference, it was challenging to keep myself and everyone else *'on track'*. We were constantly tempted to switch between *different layers* of the problem — from e.g. an *individual* dispute at a specific time and place in the night, to the *'bigger picture'*, and *individual* participants' recommendations on best practices and *personal* experiences. Nevertheless, we did manage and the outcome was useful and well-received! *Still, this experience proved useful when thinking up our new concepts with Vibelab and the others.*
 
-The project finished, and sadly, no follow-up funding was secured, so in my working days the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) was naturally replaced with other projects. But it continued to ruminate inside me, and I began reading mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
+The project finished, and sadly, no follow-up funding was secured, so in my working days the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) was naturally replaced with other projects. But it continued to ruminate inside me, and I began reading mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and I could get hold of the newly published book [Managing Cities at Night: A Practitioner Guide](https://doi.org/10.2307/j.ctv22jnkcq)[^6].
 
 ![Going to NOEK conference - sharing the obvious](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - sharing on how the night is hiding in plain sight*
 
@@ -57,10 +57,11 @@ My thought process went something like this:
 
 In the aftermath of this conference I intensified my reading with the publications by [Kevin J. Gaston's](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate), [Vibelab's](https://vibe-lab.org/#meettheteam) and [Jordi Nofre's](https://novaresearch.unl.pt/en/persons/jordi-nofre) texts.
 
-***And then - it was all magic*** - [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
+***And then - it was all magic*** - I reached out to Lutz and to Jordi, [I proudly travelled to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
 
+*As 2024 goes on, with the help of my supervisors we could set-up a consortium on green soundproofing and start with the development of the 'Industry Network Smart City @ Night'. Several other ideas are in the pipeline and I'd be so happy to share and possibly get you reading this text on board :).*
 
-*As this blog post is getting a bit lengthy, let me continue with the concepts we came up with in the next one :) - Thanks for reading. btw - this is my first blogpost, yay :)*
+*Wow, this blog post is got a bit lengthy, let me continue with the concepts we came up with in the next one - Thanks for reading; btw - this is my first blogpost, yay*
 
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. [Link to the Panel Description](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
