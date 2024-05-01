@@ -47,7 +47,7 @@ It wasn't until 2023 that I was invited to speak on a panel titled ['The Night -
 My thought process went something like this:
 
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
-- Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *(for a disclaimer see footnote)*[^9]
+- Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic...  The topics are covered but side-by-side .. *(for a disclaimer see footnote)*[^9]
 - ***All the discussions I had with colleagues and friends on the topic came back to me, wow!***
 
 
