@@ -13,12 +13,14 @@ layout: page
 <h2>Current and past projects I am/was involved in professionally:</h2>
 
 <ul>
+
 	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a>/li>
 	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
 <li><a href="https://nikefn.github.io//accsess" target="_blank">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/" target="_blank">Innovationsnetzwerk Nachtkultur</a></li>
 <li>Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</li>
 <li><a href="https://drive.google.com/file/d/1W9rY3TUrs_97DUkp4gHjWqzB6krOMLYk/view?usp=sharing" target="_blank">Seminar on Feedback, on talking to one another, Scientific Poster Design and Qualitative Research with Interviews. For Bachelor Students; University of Hohenheim</a></li>
+
 </ul>
 
 
@@ -28,6 +30,7 @@ layout: page
 <h2>Current and past projects of personal interest and hobbies:</h2>
 
 <ul>
+
 	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
 	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
 	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
