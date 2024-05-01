@@ -26,7 +26,7 @@ A key aspect of SPARCS, led by Fraunhofer alongside [BABLE][2], is the Work Pack
 
 Please see the presentation I held for the ['Global Green Growth Week 2023'][3] on slideshare:
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/2sLN9dtwhAk3Wq?startSlide=1" width="429" height="357" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshows/presentation-in-gggweek-agendahu-sessionpdf/266606807" title="Presentation in GGGWeek Agenda-HU session.pdf" target="_blank">Presentation in GGGWeek Agenda-HU session.pdf</a></strong> </div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/2sLN9dtwhAk3Wq?startSlide=1" width="429" height="357" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://drive.google.com/file/d/1c2Vyp9v8yIO6sx892ehqRT94X-S3azQR/view?usp=sharing" title="Presentation in GGGWeek Agenda - HU session.pdf" target="_blank">Presentation in GGGWeek Agenda - HU session.pdf</a></strong> </div>
 
 
 [1]: https://cordis.europa.eu/project/id/864242
