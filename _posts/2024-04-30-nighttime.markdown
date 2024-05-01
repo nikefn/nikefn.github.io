@@ -1,8 +1,8 @@
 ---
-title: "Nighttime"
+title: "My personal Night-Shift: Finding Out about the Importance of a Topic"
 layout: post
 date: 2024-04-30 01:48
-image:
+image: /assets/images/blog-sxsw/panelsxsw.jpg
 headerImage: true
 tag:
 - blog
@@ -40,8 +40,9 @@ I vividly remember this panel discussion as many things became clearer to me. Th
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
 - Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic....[^9]
 
-
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
+
+![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)
 
 In the aftermath of this conference I intensified my reading. Afterwards, it was all magic — I got invited to SXSW, met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
 
