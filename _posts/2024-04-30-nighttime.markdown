@@ -44,14 +44,17 @@ It wasn't until 2023 that I was invited to speak on a panel titled ['The Night -
 I vividly remember this panel discussion as many things became clearer to me. Those connections gave me hints on how to possibly navigate out of the challenging discussions mentioned earlier. My thought process went something like this:
 
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
-- Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *for a disclaimer see footnote*[^9]
-- ***Before the conference and panel all the discussions I had with colleagues and friends on the topic came back to me, wow***
+- Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *(for a disclaimer see footnote)*[^9]
+- ***Before the conference and panel all the discussions I had with colleagues and friends on the topic came back to me, wow!***
+
 
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
 
 ![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)*Happy times at SXSW, Photo shot by Andrea Escobar*
 
-In the aftermath of this conference I intensified my reading. Then afterwards, it was all magic — [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
+In the aftermath of this conference I intensified my reading with the publications by [Kevin J. Gaston's](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate), [Vibelab's](https://vibe-lab.org/#meettheteam) and [Jordi Nofre's](https://novaresearch.unl.pt/en/persons/jordi-nofre) texts.
+
+***And then - it was all magic*** - [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
 
 
 *As this blog post is getting a bit lengthy, let me continue with the concepts we came up with in the next one :) - Thanks for reading. btw - this is my first blogpost, yay :)*
