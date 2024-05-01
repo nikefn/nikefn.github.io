@@ -25,13 +25,15 @@ But besides this exciting opportunity, the fact of being able to go to Austin, m
 
 **But let's go step by step - how did this all start?**
 
-Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague. The Nighttime Innovation Network—a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
+Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from a former colleague - a series of workshops aimed at resolving conflicts between different interest groups in urban nights. Even my city's first night mayor participated. All was pretty exciting for me!
 
-The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group. Over time and over multiple workshop sessions we went from large to small and then to large again. Meaning first overarching themes and subtopics were identified, then challenges and possible solutions to those subtopics and then (going large again)[^3]. This process yielded a long list of possible ways forward, from which we compiled a more general and concise version of policy recommendations. It all sounds straightforward. I could present the findings at the [about pop conference](https://www.aboutpop.de/) conference on night-culture and we received positive feedback[^4].
+The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by me, then breakout sessions in different groups, then discussion in big group.
 
-However, one thing stayed with me—during all discussions, it was challenging to keep myself and everyone else 'on track'. We were constantly tempted to switch between different layers of the problem—from an individual dispute at a specific time and place in the night, to the 'bigger picture', and individual participants' recommendations on best practices and personal experiences. Nevertheless, the outcome was useful and well-received.
+Over time and over multiple workshop sessions together we went through identifying overarching themes and subtopics to related challenges and possible solutions[^3]. This process yielded a long list of possible ways forward, from which we compiled a more general and concise version of policy recommendations. I could present the findings at the [about pop conference](https://www.aboutpop.de/) conference on night-culture and we received positive feedback[^4].
 
-The project finished, and sadly, no follow-up funding was secured, so in my working days it was naturally replaced with other projects. But it continued to ruminate within me, and I began to focus mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
+However, one thing stayed with me—during all discussions, it was challenging to keep myself and everyone else *'on track'*. We were constantly tempted to switch between *different layers* of the problem — from e.g. an *individual* dispute at a specific time and place in the night, to the *'bigger picture'*, and *individual* participants' recommendations on best practices and *personal* experiences. Nevertheless, we managed and the outcome was useful and well-received.
+
+The project finished, and sadly, no follow-up funding was secured, so in my working days the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) was naturally replaced with other projects. But it continued to ruminate inside me, and I began reading mostly on nocturnal [insects](https://www.science.org/content/article/where-have-all-insects-gone) and their [relationship to light](https://doi.org/10.1038/s41467-024-44785-3) [^5] and found the book *Managing Cities at Night: A Practitioner Guide*[^6].
 
 ![At NOEK conference - it clicked](/assets/images/blog-sxsw/noekpanel.jpg) *At NOEK conference - it clicked*
 
@@ -39,16 +41,17 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked, and I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them, yet none touched on the topic of the night.
 
-I vividly remember this panel discussion as many things became clearer to me. Those connections also gave me hints on how to possibly navigate out of the challenging discussions mentioned earlier. My thought process went something like this:
+I vividly remember this panel discussion as many things became clearer to me. Those connections gave me hints on how to possibly navigate out of the challenging discussions mentioned earlier. My thought process went something like this:
 
 - Aha, day and night are roughly equal in duration, yet our projects primarily focus on daytime.[^8]
 - Hm, but we had the Innovation Network that happened for the night. But wait, funding just ran out and everybody went their way. Inside my other projects we are not covering the topic.... *for a disclaimer see footnote*[^9]
+- ***Before the conference and panel all the discussions I had with colleagues and friends on the topic came back to me, wow***
 
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
 
 ![Happy times at SXSW, Photo shot by Andrea Escobar](/assets/images/blog-sxsw/groupsxsw.jpg)*Happy times at SXSW, Photo shot by Andrea Escobar*
 
-In the aftermath of this conference I intensified my reading. Afterwards, it was all magic — [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
+In the aftermath of this conference I intensified my reading. Then afterwards, it was all magic — [I got invited to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. One statement from the panel by Lutz resonated with me — that due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address. Well - how more important can it all get?!
 
 
 *As this blog post is getting a bit lengthy, let me continue with the concepts we came up with in the next one :) - Thanks for reading. btw - this is my first blogpost, yay :)*
