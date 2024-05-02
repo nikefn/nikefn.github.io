@@ -1,5 +1,5 @@
 ---
-title: "Personal/Hobby: To build a Birdhouse"
+title: "To build a Birdhouse"
 layout: post
 tag: personal
 date: 2023-12-22 12:13
