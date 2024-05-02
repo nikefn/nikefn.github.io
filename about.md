@@ -53,9 +53,6 @@ layout: page
 
 <ul>
 
-<li>Email (personal): <a href="mailto:niklas.effenberger@gmail.com">niklas.effenberger@gmail.com</a></li>
-<li>Email (work):  <a href="mailto:niklas.effenberger@iao.fraunhofer.de">niklas.effenberger@iao.fraunhofer.de</a></li>
-<li>On LinkedIn: <a href="https://www.linkedin.com/in/niklaseffenberger/" target="_blank">linkedin.com/in/niklaseffenberger</a></li>
-<li>for other social media etc. see front page...</li>
+<li>Email: <a href="mailto:niklas.effenberger@gmail.com">niklas.effenberger@gmail.com</a></li>
 
 </ul>
