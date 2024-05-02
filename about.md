@@ -14,7 +14,7 @@ layout: page
 
 <ul>
 
-	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a>/li>
+	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
 	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
 <li><a href="https://nikefn.github.io//accsess" target="_blank">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/" target="_blank">Innovationsnetzwerk Nachtkultur</a></li>
@@ -43,5 +43,18 @@ layout: page
 	<li>Seminar work on "Coersive Conservation", a topic that stuck with me until today, <a href="https://drive.google.com/file/d/1rYbzzxlnQjsUBrjvVfn9fW1h2pGEZHiY/view?usp=sharing" target="_blank">see presentation on it</a></li>
 	<li>Playing Music for Friends - <a href="https://soundcloud.com/effe" target="_blank">dj effekt</a> and good times</li>
 
+
+</ul>
+
+
+
+<h2>Be in touch...</h2>
+
+<ul>
+
+<li>Email (personal): <a href="mailto:niklas.effenberger@gmail.com">niklas.effenberger@gmail.com</a></li>
+<li>Email (work):  <a href="mailto:niklas.effenberger@iao.fraunhofer.de">niklas.effenberger@iao.fraunhofer.de</a></li>
+<li>On LinkedIn: <a href="https://www.linkedin.com/in/niklaseffenberger/" target="_blank">linkedin.com/in/niklaseffenberger</a></li>
+<li>for other social media etc. see front page...</li>
 
 </ul>
