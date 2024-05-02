@@ -1,5 +1,5 @@
 ---
-title: "Work/Fraunhofer: URBREATH - Nature-Based Solutions"
+title: "Fraunhofer: URBREATH - Nature-Based Solutions"
 layout: post
 tag: nature-based-solutions
 date: 2024-03-03 19:20

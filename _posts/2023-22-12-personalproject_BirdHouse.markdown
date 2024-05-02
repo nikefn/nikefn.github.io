@@ -6,7 +6,7 @@ date: 2023-12-22 12:13
 img: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
 projects: true
 author: niklaseffenberger
-summary: "I build a birdhouse and found out about my connection to nature"
+summary: "I built a birdhouse"
 permalink: birdhouse
 ---
 

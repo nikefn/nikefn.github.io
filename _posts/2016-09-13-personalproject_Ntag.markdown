@@ -1,16 +1,16 @@
 ---
-title: "Personal/Volunteering: Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
+title: "Nachhaltigkeitstage Uni Hohenheim - Food Waste and Michelin Star Cooking"
 layout: post
 tag: personal
 date: 2023-10-16 15:37
 img: /assets/images/proj-personal/ntag/cooking.jpg
 projects: true
 author: niklaseffenberger
-summary: "Nachhaltigkeitstage Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking"
+summary: "Nachhaltigkeitstage Uni Hohenheim - Food Waste and Michelin Star Cooking"
 permalink: sustday
 ---
 
-## Nachhaltigkeitstag Uni Hohenheim - A Take on Food Waste and Michelin Star Cooking
+## Nachhaltigkeitstag Uni Hohenheim - Food Waste and Michelin Star Cooking
 
 
 Reflecting back in time and specifically on the years 2015 to 2017 brings me back to a project close to my heart: the 'Nachhaltigkeitstag' (lit. translation *Sustainability Day*) at the University of Hohenheim.
