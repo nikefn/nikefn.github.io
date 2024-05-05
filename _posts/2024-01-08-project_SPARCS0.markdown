@@ -1,5 +1,5 @@
 ---
-title: "Work/Fraunhofer: SPARCS - Positive Energy Districts"
+title: "Fraunhofer: SPARCS - Positive Energy Districts"
 layout: post
 tag: research
 date: 2024-03-01 15:38
