@@ -30,9 +30,9 @@ But besides this exciting opportunity, besides the fact of being able to travel 
 
 **But let's go step by step - how did this all start?**
 
-Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from [my predecessor Jenni](https://blog.iao.fraunhofer.de/author/jennifer-krauss/): A series of workshops aimed at resolving conflicts between different interest groups in urban nights.
+Back in the days in 2022, when I started working at [Fraunhofer IAO](https://www.morgenstadt.de/de/ueberuns/team.html), I took over a project called the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) from [my predecessor Jenni](https://blog.iao.fraunhofer.de/author/jennifer-krauss/): A series of workshops aimed at resolving conflicts between different interest groups in urban nights. Participants included artists, representatives of nighttime advocacy groups, public authorities (public order office), police, firefighters, security personnel, club and bar owners, and city officials, including [Stuttgart's first Night Mayor](https://wrs.region-stuttgart.de/ansprechpartner-innen/nils-runge/).
 
-Due to former engagements as waiter, bartender and kitchen helper at [Wagenhallen Stuttgart](https://wagenhallen.de/), and due to some of my volunteering activities, I had hands-on experience on how nightculture can look like from *both ends*. And the issues that may come with it. Now in this workshop, even [my city's first night mayor Nils Runge](https://wrs.region-stuttgart.de/ansprechpartner-innen/nils-runge/) participated. All was pretty exciting for me!
+Due to former engagements as waiter, bartender and kitchen helper at [Wagenhallen Stuttgart](https://wagenhallen.de/), and due to some of my volunteering activities, I had hands-on experience on how nightculture can look like from *both ends*. And the issues that may come with it. Now in this workshop, even [my city's first Night Mayor](https://wrs.region-stuttgart.de/ansprechpartner-innen/nils-runge/) participated. All was pretty exciting for me!
 
 The workshops (all online due to Covid-aftermath) [followed a consistent structure](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing): Intro done by [Hendrik Meier from Vibelab](https://hamburgkonzerte.de/agentur/)[^10] and me, then breakout sessions in different groups, then discussion in big group. Then [Hendrik](https://hamburgkonzerte.de/agentur/) and me synthesising the findings on paper.
 
@@ -50,10 +50,13 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) at the NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked. I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them dealt with cities, yet none of them touched on the topic of the night.
 
+Only now, I understood, that during the Nighttime Innovation lab  the exclusive participation of socioeconomic actors, with no ecological or environmental experts involved.
+
 My thinking went like this:
 
 - "Aha... day and night are roughly equal in duration, yet our projects primarily focus on daytime..."[^8]
 - "Hmmm, but we had the *Innovation Network* that happened for the night.... Wait a second... funding ran out and everybody went their way. Inside my other projects I am not asked about the topic...  They are covered only in parallel - _either_ the ecological/sustainable city's perspective _or_ the nocturnal-socioeconomics side..[^9]"
+- Only now, it came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present. 
 - *All the discussions I had with colleagues and friends on the topic came back to me, wow!*
 - *And attending [NOEK](https://noek-conference.com/) reinforced my understanding, how common this theme is*
 

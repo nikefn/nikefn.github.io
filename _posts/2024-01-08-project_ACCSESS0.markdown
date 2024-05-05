@@ -1,5 +1,5 @@
 ---
-title: "Work/Fraunhofer: ACCSESS - Carbon Capture Usage and Storage"
+title: "Fraunhofer: ACCSESS - Carbon Capture Usage and Storage"
 layout: post
 tag: research
 date: 2024-02-08 15:38

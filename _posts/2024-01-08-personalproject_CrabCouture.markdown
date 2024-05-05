@@ -1,5 +1,5 @@
 ---
-title: "Personal/Hobby: Crab Couture"
+title: "Crab Couture"
 layout: post
 tag: personal
 date: 2024-01-01 23:52
