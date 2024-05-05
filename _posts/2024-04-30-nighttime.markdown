@@ -50,13 +50,11 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) at the NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked. I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them dealt with cities, yet none of them touched on the topic of the night.
 
-Only now, I understood, that during the Nighttime Innovation lab  the exclusive participation of socioeconomic actors, with no ecological or environmental experts involved.
-
 My thinking went like this:
 
 - "Aha... day and night are roughly equal in duration, yet our projects primarily focus on daytime..."[^8]
 - "Hmmm, but we had the *Innovation Network* that happened for the night.... Wait a second... funding ran out and everybody went their way. Inside my other projects I am not asked about the topic...  They are covered only in parallel - _either_ the ecological/sustainable city's perspective _or_ the nocturnal-socioeconomics side..[^9]"
-- Only now, it came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present. 
+- Only now, it came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present.
 - *All the discussions I had with colleagues and friends on the topic came back to me, wow!*
 - *And attending [NOEK](https://noek-conference.com/) reinforced my understanding, how common this theme is*
 
