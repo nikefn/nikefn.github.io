@@ -71,12 +71,12 @@ In the aftermath of this conference I intensified my reading with the texts by [
 
 *As 2024 goes on, with the help of my supervisors we could set-up a consortium on green soundproofing and start with the development of the 'Industry Network -Smart City @ Night-'. Several other ideas are in the pipeline and I'd be so happy to share and possibly get -you, reading this text- on board :).*
 
-*Wow, this blog post is getting a bit lengthy, let me continue with the concepts we came up with in the next one - Thanks for reading; btw - this is my first blogpost, yay*
+*I will continue with the concepts we came up with in my next blog post - Thanks for reading; btw - this is my first blogpost, yay*
 
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. See also [description of our panel](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
 
-[^2]: First and foremost Lutz from Vibelab. As well a big thank you to [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) replying to my mails and for talking with me. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better. Also [Kevin J. Gaston's work](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate) helped me so much.
+[^2]: First and foremost Lutz from Vibelab. As well [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre) who replied my mails and took time talking to me. [Jordi's research](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate) helped me a lot in understanding the topic better. Also [Kevin J. Gaston's work](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate) helped me very much.
 
 [^3]: See the [slides](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing).
 
