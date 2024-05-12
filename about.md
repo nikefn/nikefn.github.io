@@ -19,7 +19,7 @@ layout: page
 <li><a href="https://nikefn.github.io//accsess" target="_blank">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
 <li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/" target="_blank">Innovationsnetzwerk Nachtkultur</a></li>
 <li>Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</li>
-<li><a href="https://drive.google.com/file/d/1W9rY3TUrs_97DUkp4gHjWqzB6krOMLYk/view?usp=sharing" target="_blank">Seminar on Feedback, Scientific Poster Design. For Bachelor Students/a></li>
+<li><a href="https://drive.google.com/file/d/1W9rY3TUrs_97DUkp4gHjWqzB6krOMLYk/view?usp=sharing" target="_blank">Seminar on Feedback, Scientific Poster Design. For Bachelor Students</a></li>
 
 </ul>
 
