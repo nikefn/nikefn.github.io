@@ -48,7 +48,7 @@ The project finished, and sadly, no follow-up funding was secured, so in my work
 
 **A nocturnal Aha-Moment**
 
-It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/) at the NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked. I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them dealt with cities, yet none of them touched on the topic of the night.
+It wasn't until 2023 that I was invited to speak on a panel titled ['The Night - The Forgotten Time in City Development'](https://noek-conference.com/#panel08) at the NOEK Conference in Mannheim[^7]. Just by reading the title, it clicked. I saw what I did not see before: All the projects I was involved with at Fraunhofer dealt with cities, and all the frameworks and initiatives within them dealt with cities, yet none of them touched on the topic of the night.
 
 My thinking went like this:
 
@@ -56,7 +56,7 @@ My thinking went like this:
 - "Hmmm, but we had the *Innovation Network* that happened for the night.... Wait a second... funding ran out and everybody went their way. Inside my other projects I am not asked about the topic...  They are covered only in parallel - _either_ the ecological/sustainable city's perspective _or_ the nocturnal-socioeconomics side..[^9]"
 - It came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present.
 - *All the discussions I had with colleagues and friends on the topic came back to me, wow!*
-- *And attending [NOEK](https://noek-conference.com/) reinforced my understanding, how common this theme is*
+- *And attending [NOEK](https://noek-conference.com/#panel08) reinforced my understanding, how common this theme is*
 
 
 **Morgenstadt Twilight Innovations - Moving forward and trying to find a way**
@@ -84,9 +84,9 @@ In the aftermath of this conference I intensified my reading with the texts by [
 
 [^5]: See this recent paper: Fabian, S.T., Sondhi, Y., Allen, P.E. et al. Why flying insects gather at artificial light. Nat Commun 15, 689 (2024). [https://doi.org/10.1038/s41467-024-44785-3](https://doi.org/10.1038/s41467-024-44785-3).
 
-[^6]: Book, released just in the right time for me: Acuto, Michele, et al. Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy. 1st ed., Bristol University Press, 2022. JSTOR, [https://doi.org/10.2307/j.ctv22jnkcq](https://www.jstor.org/stable/j.ctv22jnkcq).
+[^6]: Book, released just in the right time for me: Acuto, Michele, et al. Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy. 1st ed., Bristol University Press, 2022. JSTOR, [https://doi.org/10.2307/j.ctv22jnkcq](https://www.jstor.org/stable/j.ctv22jnkcq). *(see p. 110 for explicit mention and call  for action sustainability-nighttime; throughout the book only minor role)*
 
-[^7]: By happy coincidence - initially my supervisor was invited to go but hat a conflicting event. Link to [NOEK Conference Mannheim](https://noek-conference.com/).
+[^7]: By happy coincidence - initially my supervisor was invited to go but hat a conflicting event. Link to [NOEK Conference Mannheim](https://noek-conference.com/#panel08).
 
 [^8]: *Writing this makes me feel kinda silly - this is all so obvious, right?!*
 
