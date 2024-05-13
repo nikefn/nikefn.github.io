@@ -42,7 +42,7 @@ layout: page
 	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
 	<li>Seminar work on "Coersive Conservation", an interesting topic, <a href="https://drive.google.com/file/d/1rYbzzxlnQjsUBrjvVfn9fW1h2pGEZHiY/view?usp=sharing" target="_blank">see presentation on it</a></li>
 	<li>Playing Music for Friends - <a href="https://soundcloud.com/effe" target="_blank">dj effekt</a> and good times</li>
-	<li>Civil Service at <a href="https://www.bundjugend-bw.de/" target="_blank">Young Friends of the Earth Baden-Württemberg</a></li>
+	<li>Civil Service at <a href="https://www.bundjugend-bw.de/lgs" target="_blank">Young Friends of the Earth Baden-Württemberg</a></li>
 
 
 </ul>
