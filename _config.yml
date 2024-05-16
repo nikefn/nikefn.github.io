@@ -41,7 +41,7 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
-facebook: niklaseffenberger
+#facebook: niklaseffenberger
 instagram: jazzyjeffe71
 linkedin: niklaseffenberger
 github: nikefn
@@ -83,7 +83,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: false
