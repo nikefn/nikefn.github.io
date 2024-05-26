@@ -80,7 +80,7 @@ In the aftermath of this conference I intensified my reading with the texts by [
 
 [^3]: See the [slides](https://drive.google.com/file/d/1NNyccauycP9rLKWHcROoYFiSQzGsh395/view?usp=sharing).
 
-[^4]: [about pop conference and festival](https://www.aboutpop.de/) Stuttgart. A special 'thank-you' to [Stuttgart's first night mayor Nils Runge](https://wrs.region-stuttgart.de/ansprechpartner-innen/nils-runge/) for saving us a spot in the agenda for our discussions.
+[^4]: [about pop conference and festival](https://www.aboutpop.de/) Stuttgart. A special thank-you to [Stuttgart's first night mayor Nils Runge](https://wrs.region-stuttgart.de/ansprechpartner-innen/nils-runge/) for saving us a spot in the agenda for our discussions.
 
 [^5]: See this recent paper: Fabian, S.T., Sondhi, Y., Allen, P.E. et al. Why flying insects gather at artificial light. Nat Commun 15, 689 (2024). [https://doi.org/10.1038/s41467-024-44785-3](https://doi.org/10.1038/s41467-024-44785-3).
 
