@@ -65,7 +65,7 @@ My thinking went like this:
 
 In the aftermath of this conference I intensified my reading with the texts by [Kevin J. Gaston](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate), [Vibelab](https://vibe-lab.org/#meettheteam) and [Jordi Nofre](https://novaresearch.unl.pt/en/persons/jordi-nofre).
 
-***And then - it was all magic*** - I reached out to [Lutz](https://vibe-lab.org/#meettheteam) and to [Jordi](https://novaresearch.unl.pt/en/persons/jordi-nofre), [I enthusiastically travelled to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. *One statement from the panel by Lutz resonated with me: That due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address.*
+***And then - it was all magic*** - I reached out to [Lutz](https://vibe-lab.org/#meettheteam) and to [Jordi](https://novaresearch.unl.pt/en/persons/jordi-nofre), [I enthusiastically travelled to SXSW](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), met many like-minded people, and experienced many new 'click' moments. *One statement from the panel by Lutz resonated with me: That due to rising temperatures, urban life will likely shift towards the evening and night, making the topic ever more crucial to address.[^11]*
 
 *I thought to myself:* ***"Well - how more important can it all get?!"***
 
@@ -93,3 +93,6 @@ In the aftermath of this conference I intensified my reading with the texts by [
 [^9]: *please note: This is simplified and reflecting my personal journey. I am trying to target the bigger picture with my argument and I do not want to discredit initiatives that already move in this and in bridging both worlds. What I personally observed is that in this context, topics related to sustainability are often approached from the cultural/societal sphere's vision and concept, not as someone from the ecological or city-development sphere might frame them. This goes vice-versa. I vividly remember a discussion between an lighting-experienced ecologist and a cultural/societal night-time advocate, where finding common ground was extremely difficult.*
 
 [^10]: [Hendrik](https://hamburgkonzerte.de/agentur/) was Germany's first publicly elected night-mayor. He was working in the city of Mannheim. A nice place. At the time of the workshop he was affiliated with Vibelab.
+
+
+[^11]: You can already see this happening in the real world. See an article from September 9, 2023 in the [Washington Post - "Extreme heat is forcing America’s farmers to go nocturnal"](https://www.washingtonpost.com/business/2023/09/09/heat-night-harvesting-farmers/)*(paywall)*.
