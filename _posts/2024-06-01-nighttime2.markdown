@@ -11,11 +11,11 @@ tag:
 category: blog
 blog: true
 author: niklaseffenberger
-description: Seeing in the Dark: Nighttime’s Potential in Urban Innovation
+description: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 permalink: nighttimefutures
 ---
 
-*Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)](https://www.nasa.gov/image-article/measuring-white-dwarf-star/)*
+*Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)]("https://www.nasa.gov/image-article/measuring-white-dwarf-star/"")*
 
 *This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night in urban development.*
 
