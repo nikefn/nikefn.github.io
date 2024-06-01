@@ -1,0 +1,176 @@
+---
+title: "The Night: The Forgotten Time in City Development"
+layout: post
+date: 2024-06-01 23:48
+image: https://www.nasa.gov/wp-content/uploads/2023/03/139459main_image_feature_468_ys_full.jpg
+headerImage: true
+tag:
+- blog
+- personal
+- nighttime
+category: blog
+blog: true
+author: niklaseffenberger
+description: Nighttime-Culture and Sustainable City Transformation going hand in hand
+permalink: nighttimefutures
+---
+
+<sub><sup>Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)](https://www.nasa.gov/image-article/measuring-white-dwarf-star/)</sup></sub>
+
+*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night in urban development.*
+
+### Introduction: The Night - The Forgotten Time in City Development
+
+In my discussions about urban development at Fraunhofer, whenever I bring up the topic of the urban night, I often encounter a certain mix of reactions: Usually either a grin or a confused look. A reaction that seems to ask, "this is a fun topic, but what exactly is the connection to what we're doing here?“. Being in a *professional* context, people want talk about *professional* topics. These reactions suggests a perception that night is a leisure time, separate from *’serious’* urban issues.
+
+To me, it seems like there’s an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for leisure, socialising, and relaxation - not for addressing significant societal challenges, right?
+
+Much like in my previous blogost, I want to challenge that notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
+
+With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my thoughts around this notion. This blog post will explore those around three core ideas:
+
+1. **Might the disconnect between after-work life and the sustainable city development agenda be what's slowing our progress towards major urban transitions?**
+
+2.  **To tackle the global challenges we face, we need creativity and a willingness to break away from old patterns - qualities that are often more accessible after working hours; away from the constraints of formal professional settings.**
+
+3. **I believe that the reasons sustainable/green city development and cultural engagement aren’t central to mainstream urban planning - especially globally - are similar. Addressing one can inform and enhance the other, potentially unlocking synergies that benefit cities as a whole.**
+
+### The Night: Why Is It Underrepresented?
+
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecol-econ.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+
+***What literature says:***
+
+The diagram above summarises the key points drawn from three publications given in the following. These points made a lasting impression on me; however, please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich our understanding of this topic.
+
+From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. It highlights a common trend among urban planners, policymakers, and researchers: most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+
+n the realm of ecological science, two articles by Kevin J. Gaston, "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023), have resonated with me deeply. Simplifying these detailed studies, I’ve identified key observations applicable to both ecological and socioeconomic aspects of nighttime:
+
+- Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research.
+- Its significance is frequently underestimated, leading to its underrepresentation in both ecological and urban planning discussions.
+- The preference among ecologists, like their counterparts in urban planning, to work during daytime contributes to the scarcity of focus on nocturnal studies.
+
+The Challenge with Economics and Economic Metrics
+
+Like every sector, cities are fundamentally driven by economic considerations, which aim to create a thriving environment for their inhabitants. However, this economic focus often fits awkwardly with both cultural and ecological initiatives. Let me give you two illustrative examples:
+
+Socioeconomic Aspects:
+During almost all of my side gigs while studying and working in hospitality/nightlife, I received my payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
+
+
+Ecological Considerations:
+Think about the lifecycle of a typical urban parking spot. Initially, there's a one-time investment to pave the area. Install a parking meter, and the city enjoys a steady inflow of cash from users.
+
+Now, replace that parking spot with a public garden or a tree. While the initial costs might be similar for removing asphalt and planting, the ongoing expenses for maintenance like gardening and watering present a less appealing economic case under traditional city budgeting models. Despite numerous studies showing the financial and social benefits of greener urban spaces, widespread adoption remains limited.
+
+Bridging the Gap:
+What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic costs? Consider the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?
+
+
+The Dominating Narratives
+
+Through my experiences in both sustainability and socioeconomic sectors, including my role at the Nighttime-Innovation lab at Fraunhofer since 2022, I have observed a critical gap in how these two spheres intersect and influence city planning:
+
+Large-Scale Integration Lacking: There is a notable absence of a systematic, large-scale linkage between ecological sustainability and the socioeconomic aspects of nightlife. Each sphere often attempts to address problems based on its own understanding, without substantial cross-disciplinary collaboration. The link yet has to be made in an systematic way on large scale (e.g. in the multilateral sustainable city development my employer Fraunhofer and the Department of Urban Systems Engineering pursues).
+
+Small-Scale Conflict Mediation Dominates: In the realm of nightlife and socioeconomics, the focus often remains on resolving immediate, localised conflicts (e.g., between a bar and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole.
+
+
+Footnotes:
+
+Ecological Connections and Light Pollution: Discussions around ecology in urban night settings frequently center on 'light pollution,' a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations. The discourse typically frames this issue as a trade-off between ensuring vibrant, safe nightlife and protecting ecological interests. Notably, research indicates that reducing urban lighting does not necessarily correlate with increased crime rates, yet the fear persists, deeply ingrained in human and societal concerns about darkness.
+
+Research and Implementation Gaps: Studies show that the most significant contributions to light pollution often occur in peripheral areas, such as parking lots and suburban streets, rather than dense urban centrers. While there are numerous successful pilot projects around the world that address these issues with innovative engineering solutions, they rarely advance beyond the pilot stage due to high costs and complexity, limiting their broader adoption.
+
+Debates on Lighting and Safety: I recall a particularly telling debate between an ecologist experienced in lighting issues and a nighttime economy advocate. The discussion revolved around the need to reduce lighting to prevent biodiversity loss versus the need to avoid creating spaces that feel unsafe. Such discussions highlight the difficulty in finding ‚middle‘ ground where ecological and human needs align, suggesting that more dialogues are necessary to bridge these viewpoints.
+
+
+### The Benefits - What Do Culture and Ecology Offer?
+
+Both culture and ecology significantly enrich urban life, providing a host of amenities that enhance the liveability and appeal of cities. These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies. The synergistic relationship between these spheres enhances the overall quality of life, making cities not just places of employment but also hubs of vibrant, sustainable living.
+
+![Figure both Spheres next to each other](assets/images/blog-night/noct-ecol-econ.png)*Cultural vibrancy and ecological health side-by-side*
+
+The comparison of nocturanal socioeconomics and ecology, as illustrated above, highlights their intertwined roles in creating desirable urban environments. This interaction is not merely additive but synergising, enhancing each aspect's benefits and thus making a compelling case for their integrated development within urban planning frameworks.
+
+Here's a refined version of the paragraph discussing new, synergistic ways to link culture and ecology within urban settings:
+
+---
+
+### Finding a New Way with Easy-to-Grasp Synergistic Links
+
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecol-econ.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+
+**Rethinking Urban Assessment and Steering:** The European Union and the European Commission have been innovating urban assessment methods since the Framework Programme 7 (FP7), focusing on societal and urban area research. These efforts are crucial and point towards the need for a paradigm shift in how we understand and manage our cities.
+
+**Bridging Nighttime Culture and Urban Ecology:** There's a growing necessity for new, straightforward approaches to connect the cultural vibrancy of nightlife with the ecological health of urban spaces. But how can we achieve this effectively?
+
+**Practical Solutions: City Attractiveness and Green Soundproofing:** Every city aims to enhance its attractiveness to draw tourists, top professionals, and residents, which in turn stimulates innovation and economic growth. This is evident in cities that consistently rank highly globally, all of which boast dynamic nightlife and extensive green spaces.
+
+**Incentives and Consequences:**
+- **Socioeconomic:** Attractiveness not only pulls in talent and innovation but also sustains economic vitality. If cities fail to innovate in integrating culture with ecology, they risk losing their brightest minds to more proactive cities.
+- **Ecological:** Acknowledging the equal importance of night and day in urban ecosystems is essential. Neglecting this balance can lead to a significant loss of ecological and cultural richness.
+
+**Integration of Measures:** Environmental strategies are typically incorporated into urban planning with established funding and legal mandates. However, these are often focused on daytime activities. Extending these considerations to include night culture, which already has robust social structures like the Night Mayor in Stuttgart, could foster deeper community engagement and participation during post-work hours.
+
+**Synergies from Integration:**
+- **Cultural and Ecological Integration:** By bringing nature closer to urban cultural scenes, we enhance the livability and sustainability of cities. Culture benefits directly from the political and financial backing for environmental initiatives.
+- **Overall City Benefits:** The integration leads to more efficient resource use and boosts the city's long-term appeal and sustainability.
+- **Opportunities for the Private Sector:** Evening hours typically see higher public openness to new experiences, offering fresh opportunities for businesses and cultural activities.
+
+
+
+
+### Green Soundproofing: Bridging Ecology with Urban Culture
+
+As we explore new ways to weave together the fabric of nighttime culture and ecological sustainability, let me give a hands-one example that easily show this possible synergy: Green Soundproofing. This approach not only addresses the practical aspects of urban living but also could offer a blueprint for integrating green initiatives seamlessly into the cultural and social sphere of cities:
+
+**Why Green Soundproofing?**
+
+Green Soundproofing represents a straightforward and easy-to-grasp link that aligns environmental goals with cultural vitality. It is a universally applicable solution for cities worldwide. Every urban area can benefit from increased greenery, so why not integrate this with cultural development? Typically, this approach has been applied to areas adjacent to major roads just outside city centres, and not extensively within urban cores.
+
+Despite its potential, the integration of sustainability with nighttime culture remains a niche topic, largely due to existing small-scale and often confrontational strategies. By adopting bold examples that possibly scale, the topic and the synergies may move out of their niche. When established, the more delicate topics like light pollution may be easier addresseable.
+
+I have discussed this concept in various contexts, and I consistently received enthusiastic responses once the benefits are fully understood - underscoring its significance.
+
+
+The idea is simple – by establishing a green, modular, and mobile noise protection solution, a synergistic connection between urban climate change adaptation, night culture, and social needs is created:
+
+
+- **Environmental Impact:** The system would combat the urban heat island effect by providing shade during the day and facilitating evaporative cooling at night. It would also support urban biodiversity by serving as a habitat for various insect species like fireflies or bumblebees.
+
+- **Social Benefits:** By reducing noise pollution, the green barriers would improve the compatibility of lively urban areas with residential neighbourhoods around. This setup enables more profound interactions between residents and visitors in public spaces like pubs and cafés around topics of climate change and urban liveability.
+
+- **Scalability and Flexibility:** Designed to be modular and mobile, this solution can be easily adapted and replicated across different parts of the city, reflecting a versatile approach to urban environmental challenges.
+
+Currently, this is still in the conceptual phase. I firmly believe the potential for Green Soundproofing to revolutionise urban environments is immense.
+
+
+
+### In Conclusion
+
+Reflecting on why night-time issues remain underrepresented in urban planning reinforces my belief in the need for integrating efforts across both cultural and ecological dimensions. **Ultimately, strategies that promote sustainable or green city development are inherently beneficial for cultural and socioeconomic initiatives, and vice versa.**
+
+To illustrate this point, let's consider a scene from [Jim Jarmusch's "Night on Earth"](https://www.imdb.com/title/tt0102536/), where a taxi driver, Isaach de Bankolé, picks up a blind passenger, Béatrice Dalle. Their dialogue highlights misconceptions about limitations:
+
+>Taxi Driver: "It must be really hard to be blind, you're unable to do so many things."  
+Blind Woman: "Listen, jerk, I can do anything you can and a lot of things you'll never do. I'm blind, that's all."  
+Taxi Driver: "You can't drive a car, for example."  
+Blind Woman: "And you can?"
+
+Ironically, the driver, who lacks adequate driving skills, soon has an accident after this exchange.
+
+This metaphor extends beyond the surface, suggesting that urban development has perhaps been 'blind' to the potential of the night. Traditional metrics, like monetary evaluations, may not fully capture the essence of what night-time offers a city.
+
+Earlier this year, I attended the "Blind Date with Stuttgart" exhibition, an event that transformed participants' understanding of their environment by navigating the city in complete darkness, guided by blind individuals. This profound experience demonstrated that losing one sense can dramatically enhance others, providing new insights and pathways.
+
+**City development, like vision, requires a full spectrum of senses.** Perhaps it's not about making cities 'see' the night in conventional ways, but about developing a new 'sense' for how the urban environment functions around the clock. By adopting new metrics and embracing holistic views, we can truly integrate the unique contributions of night-time into the broader urban fabric.
+
+This approach doesn't just illuminate existing frameworks - it transforms them, encouraging us to feel the city's rhythm, both day and night, and to recognise the invaluable contributions of all its phases.
+
+<!--
+
+You will see: These thoughts do not go about taking the fun ouf the night, but about bringing the fun into the sustainable city development through a genuine linkage of both worlds.
+
+I will start with an overview of who/what/ and why? and then by the example of green-soundproofing of showing how future possibilities could look like. -->
