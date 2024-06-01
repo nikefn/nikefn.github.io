@@ -53,8 +53,8 @@ It wasn't until 2023 that I was invited to speak on a panel titled ['The Night -
 My thinking went like this:
 
 - "Aha... day and night are roughly equal in duration, yet our projects primarily focus on daytime..."[^8]
-- "Hmmm, but we had the *Innovation Network* that happened for the night.... Wait a second... funding ran out and everybody went their way. Inside my other projects I am not asked about the topic...  They are covered only in parallel - _either_ the ecological/sustainable city's perspective _or_ the nocturnal-socioeconomics side..[^9]"
-- It came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present.
+- "Hmmm, but we had the *Innovation Network* that happened for the night.... Wait a second... funding ran out and everybody went their way. Inside my other projects I am not asked about the topic...  
+- It came to me that during the Nighttime Innovation Lab, there was the exclusive participation of socioeconomic actors, without the ecological or environmental view present. The topics are covered only in parallel - _either_ the ecological/sustainable city's perspective _or_ the nocturnal-socioeconomics side..[^9]"
 - *All the discussions I had with colleagues and friends on the topic came back to me, wow!*
 - *And attending [NOEK](https://noek-conference.com/#panel08) reinforced my understanding, how common this theme is*
 
