@@ -2,7 +2,7 @@
 title: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 layout: post
 date: 2024-06-01 23:48
-image: "https://www.nasa.gov/wp-content/uploads/2023/03/139459main_image_feature_468_ys_full.jpg"
+image: assets\images\blog-night\white-dwarf-nasa.webp
 headerImage: true
 tag:
 - blog
@@ -11,29 +11,31 @@ tag:
 category: blog
 blog: true
 author: niklaseffenberger
-description: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
+description: Seeing in the Dark - Nighttime’s Potential in Urban Innovation
 permalink: nighttimefutures
 ---
 
-*Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)]("https://www.nasa.gov/image-article/measuring-white-dwarf-star/"")*
+*Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)](https://www.nasa.gov/image-article/measuring-white-dwarf-star/)*
 
-*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night in urban development.*
+*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.[^1]*
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
-In my discussions about urban development at Fraunhofer, whenever I bring up the topic of the urban night, I often encounter a certain mix of reactions: Usually either a grin or a confused look. A reaction that seems to ask, "this is a fun topic, but what exactly is the connection to what we're doing here?“. Being in a *professional* context, people want talk about *professional* topics. These reactions suggests a perception that night is a leisure time, separate from *’serious’* urban issues.
+I spend most of my working time on projects on sustainable city development. Whenever I bring up the topic of the urban night in this professional context, I often encounter a certain mix of reactions: Usually either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, people want talk about *professional* topics. These reactions suggests a perception that night is a leisure time, separate from *'serious'* urban issues.
 
-To me, it seems like there’s an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for leisure, socialising, and relaxation - not for addressing significant societal challenges, right?
+To me, it seems like there's an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for leisure, socialising, and relaxation - not for addressing significant societal challenges, right?
 
-Much like in my previous blogost, I want to challenge that notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
+Much like in my previous blogpost, I want to challenge that notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
 
-With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my thoughts around this notion. This blog post will explore those around three core ideas:
+With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my thoughts around this idea. This blog post will explore those around three core thoughts:
 
-1. **Might the disconnect between after-work life and the sustainable city development agenda be what's slowing our progress towards major urban transitions?**
+1.  **To tackle the global challenges we face, we need creativity and a willingness to break away from old patterns - qualities that are often more accessible in the after working hours, when we can easier move away from the constraints of formal professional settings.**
 
-2.  **To tackle the global challenges we face, we need creativity and a willingness to break away from old patterns - qualities that are often more accessible after working hours; away from the constraints of formal professional settings.**
+2. **The underlying reasons sustainable/green city development and cultural engagement/nightlife aren't central to mainstream urban planning are similar: Ill-fitted metrics. If the underlying reasons resemble, overlaps should be able to be identified; consequently addressing one could inform and enhance the other. Synergies should exist and/or be able to developed.**
 
-3. **I believe that the reasons sustainable/green city development and cultural engagement aren’t central to mainstream urban planning - especially globally - are similar. Addressing one can inform and enhance the other, potentially unlocking synergies that benefit cities as a whole.**
+3. **Ultimately, might not the disconnect between after-work life and the sustainable city development agenda be a major factor what's slowing our progress towards major urban transitions?**
+
+
 
 ### The Night: Why Is It Underrepresented?
 
@@ -41,11 +43,11 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 ***What literature says:***
 
-The diagram above summarises the key points drawn from three publications given in the following. These points made a lasting impression on me; however, please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich our understanding of this topic.
+The diagram above summarises the key points drawn from the three publications given in the following. These points made a lasting impression on me; however, please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich our understanding of this topic.
 
-From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. It highlights a common trend among urban planners, policymakers, and researchers: most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. It highlights a common trait among urban planners, policymakers, and researchers: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-n the realm of ecological science, two articles by Kevin J. Gaston, "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023), have resonated with me deeply. Simplifying these detailed studies, I’ve identified key observations applicable to both ecological and socioeconomic aspects of nighttime:
+In ecology, two articles by Kevin J. Gaston resonated deeply with me: "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023). Interestingly, the key observations in those articles are applicable to both ecological and socioeconomic aspects of nighttime, when reading 'ecology' just replace it with 'socioeconomics' in your head and think if this makes sense:
 
 - Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research.
 - Its significance is frequently underestimated, leading to its underrepresentation in both ecological and urban planning discussions.
@@ -152,27 +154,41 @@ Currently, this is still in the conceptual phase. I firmly believe the potential
 
 Reflecting on why night-time issues remain underrepresented in urban planning reinforces my belief in the need for integrating efforts across both cultural and ecological dimensions. **Ultimately, strategies that promote sustainable or green city development are inherently beneficial for cultural and socioeconomic initiatives, and vice versa.**
 
-To illustrate this point, let's consider a scene from [Jim Jarmusch's "Night on Earth"](https://www.imdb.com/title/tt0102536/), where a taxi driver, Isaach de Bankolé, picks up a blind passenger, Béatrice Dalle. Their dialogue highlights misconceptions about limitations:
+A couple of weeks ago, I watched [Jim Jarmusch's "Night on Earth"](https://www.imdb.com/title/tt0102536/), where a taxi driver picks up a blind passenger[^99]. The dialogue goes like this:
 
 >Taxi Driver: "It must be really hard to be blind, you're unable to do so many things."  
 Blind Woman: "Listen, jerk, I can do anything you can and a lot of things you'll never do. I'm blind, that's all."  
 Taxi Driver: "You can't drive a car, for example."  
 Blind Woman: "And you can?"
 
-Ironically, the driver, who lacks adequate driving skills, soon has an accident after this exchange.
+Ironically, the driver soon has an accident after this exchange.
 
-This metaphor extends beyond the surface, suggesting that urban development has perhaps been 'blind' to the potential of the night. Traditional metrics, like monetary evaluations, may not fully capture the essence of what night-time offers a city.
+To me, this dialogue set in motion a stream of thought. I see that this could be understood as metaphor for the topic of this blog post. Urban development has perhaps been *'blind'* to the full potential the night and culture have to offer. With the urban re-greening initiatives underway but in a rather ambient pace, also urban development may does not *'see'* the full benefitial value of re-naturing cities. (footnote FPD Wahlplakat Stuttgart)
 
-Earlier this year, I attended the "Blind Date with Stuttgart" exhibition, an event that transformed participants' understanding of their environment by navigating the city in complete darkness, guided by blind individuals. This profound experience demonstrated that losing one sense can dramatically enhance others, providing new insights and pathways.
+Earlier this year, I attended the "Blind Date with Stuttgart" exhibition, an event that transformed participants' understanding of their environment by navigating a replica of common places in Stuttgart in complete darkness. We were guided by blind individuals. It was unimaginable how difficult I found it to find my way. Yet very quickly I and the other participants had to rely on out other senses - feeling, hearing and scenting.
 
-**City development, like vision, requires a full spectrum of senses.** Perhaps it's not about making cities 'see' the night in conventional ways, but about developing a new 'sense' for how the urban environment functions around the clock. By adopting new metrics and embracing holistic views, we can truly integrate the unique contributions of night-time into the broader urban fabric.
+And this is where I see a possible connection to the topic at hand:
 
-This approach doesn't just illuminate existing frameworks - it transforms them, encouraging us to feel the city's rhythm, both day and night, and to recognise the invaluable contributions of all its phases.
+**City development, to grasp all possible benefits, disbenefits and pathways, requires a full spectrum of senses.** Perhaps it's not about making cities *'see'* the night or about *taking cities' 'blindness'* towards the incredible potential of culture through conventional pathways, by e.g. adapting conventionally used metrics, coming up with new KPIs or merging existing ones into more sophisticated units. We tried this with extensive sustainable urban development programmes in the past decades.
+
+Maybe it is more about *developing a new 'sense'* or *readjusting towards other, maybe forgotten 'senses'* for how the urban environment functions around the clock.
+
+Just like the blind woman in the taxi, we could accept that we may be blind in some areas. But ultimately this does not affect our ability to govern and to participate actively and in an full posession of our intellectual capabilities.
+
+I am curious if we can try and transform existing frameworks; encouraging us to feel the city's rhythm, both day and night, and to recognise the invaluable contributions of all its phases.
+
+
 
 
 
 
 A special thank you to Lutz for revising this text.
+
+
+
+
+
+[^99]: Taxi driver played by Isaach de Bankolé and blind woman played by Béatrice Dalle.
 
 
 <!--
