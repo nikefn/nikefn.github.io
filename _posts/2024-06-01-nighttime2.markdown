@@ -25,15 +25,15 @@ I spend most of my working time on projects on sustainable city development. Whe
 
 To me, it seems like there's an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for leisure, socialising, and relaxation - not for addressing significant societal challenges, right?
 
-Much like in my previous blogpost, I want to challenge that notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
+Much like in my previous blogpost, I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
 
 With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my thoughts around this idea. This blog post will explore those around three core thoughts:
 
-1.  **To tackle the global challenges we face, we need creativity and a willingness to break away from old patterns - qualities that are often more accessible in the after working hours, when we can easier move away from the constraints of formal professional settings.**
+1.  **To tackle the global challenges we face, we need creativity and the cognitive ability to break away from old patterns - qualities that are often more accessible in the after working hours**, when we can easier move away from the constraints of formal professional settings.**
 
-2. **The underlying reasons sustainable/green city development and cultural engagement/nightlife aren't central to mainstream urban planning are similar: Ill-fitted metrics. If the underlying reasons resemble, overlaps should be able to be identified; consequently addressing one could inform and enhance the other. Synergies should exist and/or be able to developed.**
+2. **The underlying reasons sustainable/green city development and cultural engagement/nightlife aren't already central to mainstream urban planning are similar: Difficulties in attributing the benefits they provide for society as a whole in economic terms.**  If the underlying reasons they are overlooked resemble each other, overlaps should be able to be identified; and consequently ameliorating one sphere could inform and enhance the other. Synergies should exist and/or be able to be actively developed and used.
 
-3. **Ultimately, might not the disconnect between after-work life and the sustainable city development agenda be a major factor what's slowing our progress towards major urban transitions?**
+3. **Cosequently, could it be, that the disconnect between after-work life and the sustainable city development agenda is a major factor of what's slowing our progress towards major urban transitions?**
 
 
 
@@ -43,22 +43,22 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 ***What literature says:***
 
-The diagram above summarises the key points drawn from the three publications given in the following. These points made a lasting impression on me; however, please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich our understanding of this topic.
+The diagram above summarises the key points drawn from three publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments from these publications made a lasting impression on me and I tried summarising their essence in the following; please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich the understanding of the topic. Plus there are many more relevant publications.
 
-From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. It highlights a common trait among urban planners, policymakers, and researchers: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. The one thing that stuck with me was, that it highlights a common trait among urban planners, policymakers, and researchers: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-In ecology, two articles by Kevin J. Gaston resonated deeply with me: "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023). Interestingly, the key observations in those articles are applicable to both ecological and socioeconomic aspects of nighttime, when reading 'ecology' just replace it with 'socioeconomics' in your head and think if this makes sense:
+Regarding ecology, two articles by Kevin J. Gaston resonated with me: "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023). And interestinly, the way I see it, the key observations in those articles are applicable to both ecological and socioeconomic aspects of nighttime. I consequently added the possible relevance for the socioeconomic sector in brackets behind the original argument from Gaston et al.
 
-- Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research.
-- Its significance is frequently underestimated, leading to its underrepresentation in both ecological and urban planning discussions.
-- The preference among ecologists, like their counterparts in urban planning, to work during daytime contributes to the scarcity of focus on nocturnal studies.
+- Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. The night is not only there for sleeping. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development)*.
+- Its significance is frequently underestimated, leading to its underrepresentation in both ecological considerations *(...and urban planning discussions).*
+- The preference among ecologists to work during daytime contributes to the scarcity of focus on nocturnal studies. *(just like their counterparts in urban planning)*
 
 The Challenge with Economics and Economic Metrics
 
-Like every sector, cities are fundamentally driven by economic considerations, which aim to create a thriving environment for their inhabitants. However, this economic focus often fits awkwardly with both cultural and ecological initiatives. Let me give you two illustrative examples:
+Like in any sector, economic considerations are a driving factor (if not THE driving factor) cities are fundamentally driven by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants. However, this economic focus often fits awkwardly with both cultural and ecological initiatives. Let me give you two illustrative examples:
 
 Socioeconomic Aspects:
-During almost all of my side gigs while studying and working in hospitality/nightlife, I received my payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
+During almost all of my side gigs while studying and working in hospitality/nightlife, I received my wage payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
 
 
 Ecological Considerations:
