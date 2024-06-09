@@ -21,7 +21,7 @@ permalink: nighttimefutures
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
-I spend most of my working time on projects on sustainable city development. Whenever I bring up the topic of the urban night in this professional context, I often encounter a certain mix of reactions: Usually either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, people want talk about *professional* topics. These reactions suggests a perception that night is a leisure time, separate from *'serious'* urban issues.
+I spend most of my working time on projects on sustainable city development. When I bring up the topic of the urban night in this professional context, I often encounter a certain mix of reactions: Usually either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, people want talk about *professional* topics. These reactions suggests a perception that night is a leisure time, separate from *'serious'* urban issues.
 
 To me, it seems like there's an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for leisure, socialising, and relaxation - not for addressing significant societal challenges, right?
 
@@ -39,17 +39,17 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 ### The Night: Why Is It Underrepresented?
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecol-econ.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](aassets/images/blog-night/noct-ecosocio.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
 ***What literature says:***
 
-The diagram above summarises the key points drawn from three publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments from these publications made a lasting impression on me and I tried summarising their essence in the following; please note that this summary is not exhaustive. These publications offer a broad range of examples and arguments that enrich the understanding of the topic. Plus there are many more relevant publications.
+The diagram above summarises key points from my reading on nighttime socioeconomics and ecology. The arguments that made a lasting impression are outlined below. Note that this summary is not exhaustive; numerous publications enrich the understanding of this topic.
 
-From a societal perspective, the book "Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy" by Michele et al., published in 2022, provides a comprehensive overview. The one thing that stuck with me was, that it highlights a common trait among urban planners, policymakers, and researchers: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+Societal perspective: The one thing that stuck with me was, that it highlights a common trait among urban planners, policymakers, and researchers: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-Regarding ecology, two articles by Kevin J. Gaston resonated with me: "Nighttime Ecology: The 'Nocturnal Problem' Revisited" (2019) and "Anthropogenic Changes to the Nighttime Environment" (2023). And interestinly, the way I see it, the key observations in those articles are applicable to both ecological and socioeconomic aspects of nighttime. I consequently added the possible relevance for the socioeconomic sector in brackets behind the original argument from Gaston et al.
+Ecological perspective: Interestinly, the way I see it, a lot of the key observations from my readings of articles if this context are applicable to both ecological and socioeconomic aspects of nighttime. I consequently added the possible relevance for the socioeconomic sector in brackets behind the original argument I summarised:
 
-- Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. The night is not only there for sleeping. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development)*.
+- Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development and its relevance is systematically undererstimated)*.
 - Its significance is frequently underestimated, leading to its underrepresentation in both ecological considerations *(...and urban planning discussions).*
 - The preference among ecologists to work during daytime contributes to the scarcity of focus on nocturnal studies. *(just like their counterparts in urban planning)*
 
