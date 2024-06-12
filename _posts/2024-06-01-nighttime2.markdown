@@ -88,27 +88,20 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 - **Large-Scale Integration Lacking** - There is a notable absence of a systematic, large-scale linkage between ecological sustainability and the socioeconomic aspects of the after-work time. Each sphere often attempts to address problems related to sustainability based on its own understanding, without substantial cross-disciplinary collaboration. The link yet has to be made in an systematic way on large scale (e.g. in the multilateral sustainable city development my employer Fraunhofer and the Department of Urban Systems Engineering pursues).
 
+[^2]: And I'm confident that teaming up with Lutz Leichsenring and Vibelab can do the job :)!
+
 - **Small-Scale Conflict Mediation Dominates** - In the realm of nightlife and socioeconomics, the focus often remains on resolving immediate, localised conflicts (e.g., between a bar, a restaurant and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole. Again, because the link mentioned above is not systematically made.
 
 - **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and their collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *An example here could be the 'light pollution' debate, which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)*
 
-
-[^2]: See this book on how London's nightlife evolved and how it is (for philisophists) to take a night stroll: Beaumont, M. (2016). *Nightwalking: A Nocturnal History of London*. Verso. https://www.versobooks.com/products/56-nightwalking
-
-
-
-
 [^2]: Maybe it is so prominent because it is one of the clearest links when thinking about a natural night (dark) and nightly human activity (illuminated). Notably, research indicates that reducing urban lighting does not necessarily correlate with increased crime rates. Yet a fear of removing lighting persists, deeply ingrained in human and societal concerns about darkness. Since this is deeply engrained it, it is certainly not easy convincing people otherwise, even the most rational beings. Interesting read: Zhong CB, Bohns VK, Gino F. [Good lamps are the best police: darkness increases dishonesty and self-interested behavior.](https://pubmed.ncbi.nlm.nih.gov/20424061/) Psychol Sci. 2010 Mar;21(3):311-4. doi: 10.1177/0956797609360754.
 
-The two polarized (rigorous) requirements are a challenging starting point for discussion.
+[^2]: Artificial light paved the way for lively urban neighborhoods after dark, see e.g. this book on how London's nightlife evolved and how it is (for philisophists) to take a night stroll: Beaumont, M. (2016). *Nightwalking: A Nocturnal History of London*. Verso. https://www.versobooks.com/products/56-nightwalking. Or how city-lighting changed everything from work to pleasure: Schlör, Joachim. [Nights in the Big City: Paris, Berlin, London 1840-1930.](https://search.worldcat.org/de/title/1074448006) Reaktion Books, 1998.
 
 
-[^5]: Good reads: Sabine Hossenfelder Backreaction March 2022 - ["Is light pollution a real problem?"](http://backreaction.blogspot.com/2022/03/is-light-pollution-real-problem.html). And ["Illuminating the Effects of Light Pollution."](https://www.nytimes.com/interactive/2016/04/07/science/light-pollution-effects-environment.html), The New York Times, Apr 2016 (paywall).
-
+[^5]: Good watch/reads: Sabine Hossenfelder Backreaction March 2022 - ["Is light pollution a real problem?"](http://backreaction.blogspot.com/2022/03/is-light-pollution-real-problem.html) (Spoiler: Yes, it is!). And ["Illuminating the Effects of Light Pollution."](https://www.nytimes.com/interactive/2016/04/07/science/light-pollution-effects-environment.html), The New York Times, Apr 2016 (paywall).
 
 [^3]: Studies show that significant contributions to light pollution often occur in peripheral areas, such as parking lots and suburban streets, rather than dense urban centrers. While there are numerous successful pilot projects around the world that address these issues with innovative engineering solutions, they rarely advance beyond the pilot stage due to high costs and complexity, limiting their broader adoption. See e.g. unexpected sources of light pollution like a massive greenhouse in Maine or oil fields in N-Dakota: ["Mysterious Light Sources", Altair Space](https://altairspace.com/2020/03/02/mysterious-light-sources/) (2 March 2020). See2, streetlights are not the primary contributors: Gill, Victoria. ["Light pollution's wasted energy seen from space." BBC](https://www.bbc.com/news/science-environment-54721921) (Oct 2020). See3, the engineering solution. To me looking a bit like taken out of a horror movie: [Bat-friendly lighting in Gladsaxe, Denmark. Afry enginnering.](https://afry.com/en/project/bat-friendly-lighting-in-gladsaxe-denmark) n.d.
-
-[^2]: City-lighting changed everything from work to pleasure. See e.g.: Schlör, Joachim. [Nights in the Big City: Paris, Berlin, London 1840-1930.](https://search.worldcat.org/de/title/1074448006) Reaktion Books, 1998.
 
 [^4]: Debates on Lighting and Safety: I recall a particularly telling debate between an ecologist experienced in lighting issues and a nighttime economy advocate. The discussion revolved around the need to reduce lighting to prevent biodiversity loss versus the need to avoid creating spaces that feel unsafe. Such discussions highlight the difficulty in finding 'middle' ground where ecological and human needs align, suggesting that more dialogues, work and dedication are necessary to bridge these viewpoints. When you think about the beginning of why streets were lit up: It was street lighting that enabled nocturnal life in the cities in the first place.
 
@@ -121,7 +114,9 @@ Both culture and ecology significantly enrich urban life, providing a host of am
 
 Socioeconomics and Ecology both individually contribute to the above mentioned urban attractiveness. For some of the mentioned characteristics they do not only contribute to attractiveness, which is a more or less optional urban development area, but also to vital urban functions that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. Without those, a city will only poorly function.
 
-The Figure above hightlights their individual role within the urban system ... *What could be possible if we try bridging and synergising both?*
+- What happens if a city is not safe/stable to live in? Yes, easy answer: People will try moving somewhere else.
+
+- The Figure above hightlights their individual role within the urban system ... *What could be possible if we try bridging and synergising both?*
 
 
 
@@ -129,28 +124,64 @@ The Figure above hightlights their individual role within the urban system ... *
 
 ![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecol-econ.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
+Okay, good we know now.... But what do?!
+
+To me, we should try finding an easy beginning where we most likely will face little confrontation but enable those much-spoken synergies in a visible way. The link needs to be easy for everyone to understand the connections and the benefits what thinking about the "other sphere" can provide. Then over time, we may add the more delicate topics that maybe require more discussions and negotiations.
+
+Together with Lutz Leichsenring from **Vibelab**, my employer **Fraunhofer IAO** and the Department of Urban Systems Engineering started this process. Among other conferences and thanks to Lutz and Vibelab, I could take part in the *['South by Southwest Conference and Festival - SXSW'](https://www.sxsw.com/)* and the panel *["The Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/)*. This was the onset of our common considerations and since then we meet every couple of weeks to inspire us and to **push things forward.**
+
+***Push Things to Where?!***
+
+- One of the easiest links you may find bridging those spheres is Green Soundproofing. I wrote an article on our company blog about this and soon afterwards a couple (!) of German cities reached out and showed their interest. The thought is easy: We spend so much on greening our cities, why not include nighttime culture and get *double the benefit*.
+- Well, listen closely: Coming soon to your city. **Vibelab and Fraunhofer will make it happen :)**
+
+... We will provdide a detailed description of our Green Soundproofing concept, the other initiative in the making (*"Urban Systems Network Smart City @ Night"*) and other ideas in the upcoming blogpost. Open-Source and free, just like the night :)...
+
+
+### In Conclusion
+
+Reflecting on why night-time issues remain underrepresented in urban planning reinforces my belief in the need for integrating efforts across both cultural and ecological dimensions. **Ultimately, strategies that promote sustainable or green city development are inherently beneficial for cultural and socioeconomic initiatives, and ***vice versa.*****
+
+A couple of weeks ago, I watched [Jim Jarmusch's "Night on Earth"](https://www.imdb.com/title/tt0102536/), where a taxi driver picks up a blind passenger[^99]. The dialogue goes like this:
+
+>Taxi Driver: "It must be really hard to be blind, you're unable to do so many things."  
+Blind Woman: "Listen, jerk, I can do anything you can and a lot of things you'll never do. I'm blind, that's all."  
+Taxi Driver: "You can't drive a car, for example."  
+Blind Woman: "And you can?"
+
+The joke is, that the driver soon has an accident after this talk.
+
+To me, this dialogue set in motion a stream of thought. I see that this could be understood as metaphor for the topic of this blog post. Urban development has perhaps been *'blind'* to the full potential night and culture have to offer. With the urban re-greening initiatives underway but in a rather ambient pace, also urban development may does not *'see'* the full benefitial value of re-naturing cities.
+
+Earlier this year, I attended the "Blind Date with Stuttgart" exhibition, an event that transformed participants' understanding of their environment by navigating a replica of common places in Stuttgart in complete darkness. We were guided by blind individuals. It was unimaginable how difficult I found it to find my way. Yet very quickly I and the other participants had to rely on our other senses - feeling, hearing and scenting.
+
+And this is where I see a possible connection to the topic at hand:
+
+**City development, to grasp all possible benefits, disbenefits and pathways, requires a full spectrum of senses.** Perhaps it's not about making cities *'see'* the night or about *taking cities' 'blindness'* towards the incredible potential of culture through conventional pathways, by e.g. adapting conventionally used economic metrics, coming up with new KPIs or merging existing ones into more sophisticated units. We tried this with extensive sustainable urban development programmes in the past decades.
+
+Maybe it is more about *developing a new 'sense'* or *readjusting towards other, maybe forgotten 'senses'* for how the urban environment functions around the clock. Could developing the bespoken synergies be a way? Let us find out. And if you want, let us find out together.
+
+[^9]: (footnote FPD Wahlplakat Stuttgart 2024, "wir bewahren Parkplätze").
+
+[^9]:Wikipedia aricle on nocturnality in animals and adaptations that enable life and activity during the night. E.g. enhanced sensory functions and behavioral traits to navigate and exploit darkness efficiently: 'Nocturnality.' Wikipedia, The Free Encyclopedia, 6 June 2024. [Wikipedia](https://en.wikipedia.org/wiki/Nocturnality)."
+
+Are night-owls more social? Findings from a BUL study indicating that night-owls individuals possess a higher volume of grey matter in the precuneus region of the brain, which is associated with social behavior: Pilgrim, Tim. "Night owls have more grey matter in their brains than early birds." Phys.org, 11 June 2020. [Phys.org](https://phys.org/news/2020-06-night-owls-grey-brains-early.html).
+
+[^2]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Basic Books. Groundbreaking and visionary book. Gehl's principles for designing human-centred cities align with the ideas presented here and how urban design can enhance both ecological and social spaces.
 
 
 
 
+A special thank you to Lutz for revising this text.
 
 
-**Rethinking Urban Assessment and Steering:** The European Union and the European Commission have been innovating urban assessment methods since the Framework Programme 7 (FP7), focusing on societal and urban area research. These efforts are crucial and point towards the need for a paradigm shift in how we understand and manage our cities.
 
-**Bridging Nighttime Culture and Urban Ecology:** There's a growing necessity for new, straightforward approaches to connect the cultural vibrancy of nightlife with the ecological health of urban spaces. But how can we achieve this effectively?
 
-**Practical Solutions: City Attractiveness and Green Soundproofing:** Every city aims to enhance its attractiveness to draw tourists, top professionals, and residents, which in turn stimulates innovation and economic growth. This is evident in cities that consistently rank highly globally, all of which boast dynamic nightlife and extensive green spaces.
+[^99]: Taxi driver played by Isaach de Bankolé and blind woman played by Béatrice Dalle.
 
-**Incentives and Consequences:**
-- **Socioeconomic:** Attractiveness not only pulls in talent and innovation but also sustains economic vitality. If cities fail to innovate in integrating culture with ecology, they risk losing their brightest minds to more proactive cities.
-- **Ecological:** Acknowledging the equal importance of night and day in urban ecosystems is essential. Neglecting this balance can lead to a significant loss of ecological and cultural richness.
 
-**Integration of Measures:** Environmental strategies are typically incorporated into urban planning with established funding and legal mandates. However, these are often focused on daytime activities. Extending these considerations to include night culture, which already has robust social structures like the Night Mayor in Stuttgart, could foster deeper community engagement and participation during post-work hours.
 
-**Synergies from Integration:**
-- **Cultural and Ecological Integration:** By bringing nature closer to urban cultural scenes, we enhance the livability and sustainability of cities. Culture benefits directly from the political and financial backing for environmental initiatives.
-- **Overall City Benefits:** The integration leads to more efficient resource use and boosts the city's long-term appeal and sustainability.
-- **Opportunities for the Private Sector:** Evening hours typically see higher public openness to new experiences, offering fresh opportunities for businesses and cultural activities.
+<div class="breaker">AB HIER NICHT BENUTZTE GEDANKEN:</div>
 
 
 
@@ -182,36 +213,30 @@ Currently, this is still in the conceptual phase. I firmly believe the potential
 
 [^2]: Gehl, J. (2010). [*Cities for People*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Island Press. Groundbreaking and visionary book. Gehl's principles for designing human-centred cities align with the ideas presented here and how urban design can enhance both ecological and social spaces.
 
-### In Conclusion
 
-Reflecting on why night-time issues remain underrepresented in urban planning reinforces my belief in the need for integrating efforts across both cultural and ecological dimensions. **Ultimately, strategies that promote sustainable or green city development are inherently beneficial for cultural and socioeconomic initiatives, and vice versa.**
 
-A couple of weeks ago, I watched [Jim Jarmusch's "Night on Earth"](https://www.imdb.com/title/tt0102536/), where a taxi driver picks up a blind passenger[^99]. The dialogue goes like this:
 
->Taxi Driver: "It must be really hard to be blind, you're unable to do so many things."  
-Blind Woman: "Listen, jerk, I can do anything you can and a lot of things you'll never do. I'm blind, that's all."  
-Taxi Driver: "You can't drive a car, for example."  
-Blind Woman: "And you can?"
 
-Ironically, the driver soon has an accident after this exchange.
 
-To me, this dialogue set in motion a stream of thought. I see that this could be understood as metaphor for the topic of this blog post. Urban development has perhaps been *'blind'* to the full potential the night and culture have to offer. With the urban re-greening initiatives underway but in a rather ambient pace, also urban development may does not *'see'* the full benefitial value of re-naturing cities. (footnote FPD Wahlplakat Stuttgart)
 
-Earlier this year, I attended the "Blind Date with Stuttgart" exhibition, an event that transformed participants' understanding of their environment by navigating a replica of common places in Stuttgart in complete darkness. We were guided by blind individuals. It was unimaginable how difficult I found it to find my way. Yet very quickly I and the other participants had to rely on out other senses - feeling, hearing and scenting.
+**Rethinking Urban Assessment and Steering:** The European Union and the European Commission have been innovating urban assessment methods since the Framework Programme 7 (FP7), focussing on societal and urban area research. These efforts are crucial and point towards the need for a paradigm shift in how we understand and manage our cities.
 
-And this is where I see a possible connection to the topic at hand:
+**Bridging Nighttime Culture and Urban Ecology:** There's a growing necessity for new, straightforward approaches to connect the cultural vibrancy of nightlife with the ecological health of urban spaces. But how can we achieve this effectively?
 
-**City development, to grasp all possible benefits, disbenefits and pathways, requires a full spectrum of senses.** Perhaps it's not about making cities *'see'* the night or about *taking cities' 'blindness'* towards the incredible potential of culture through conventional pathways, by e.g. adapting conventionally used metrics, coming up with new KPIs or merging existing ones into more sophisticated units. We tried this with extensive sustainable urban development programmes in the past decades.
+**Practical Solutions: City Attractiveness and Green Soundproofing:** Every city aims to enhance its attractiveness to draw tourists, top professionals, and residents, which in turn stimulates innovation and economic growth. This is evident in cities that consistently rank highly globally, all of which boast dynamic nightlife and extensive green spaces.
 
-Maybe it is more about *developing a new 'sense'* or *readjusting towards other, maybe forgotten 'senses'* for how the urban environment functions around the clock.
+**Incentives and Consequences:**
+- **Socioeconomic:** Attractiveness not only pulls in talent and innovation but also sustains economic vitality. If cities fail to innovate in integrating culture with ecology, they risk losing their brightest minds to more proactive cities.
+- **Ecological:** Acknowledging the equal importance of night and day in urban ecosystems is essential. Neglecting this balance can lead to a significant loss of ecological and cultural richness.
 
-[^9]:Wikipedia aricle on nocturnality in animals and adaptations that enable life and activity during the night. E.g. enhanced sensory functions and behavioral traits to navigate and exploit darkness efficiently: 'Nocturnality.' Wikipedia, The Free Encyclopedia, 6 June 2024. [Wikipedia](https://en.wikipedia.org/wiki/Nocturnality)."
+**Integration of Measures:** Environmental strategies are typically incorporated into urban planning with established funding and legal mandates. However, these are often focused on daytime activities. Extending these considerations to include night culture, which already has robust social structures like the Night Mayor in Stuttgart, could foster deeper community engagement and participation during post-work hours.
 
-Are night-owls more social? Findings from a BUL study indicating that night-owls individuals possess a higher volume of grey matter in the precuneus region of the brain, which is associated with social behavior: Pilgrim, Tim. "Night owls have more grey matter in their brains than early birds." Phys.org, 11 June 2020. [Phys.org](https://phys.org/news/2020-06-night-owls-grey-brains-early.html).
+**Synergies from Integration:**
+- **Cultural and Ecological Integration:** By bringing nature closer to urban cultural scenes, we enhance the livability and sustainability of cities. Culture benefits directly from the political and financial backing for environmental initiatives.
+- **Overall City Benefits:** The integration leads to more efficient resource use and boosts the city's long-term appeal and sustainability.
+- **Opportunities for the Private Sector:** Evening hours typically see higher public openness to new experiences, offering fresh opportunities for businesses and cultural activities.
 
-[^2]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Basic Books. Groundbreaking and visionary book. Gehl's principles for designing human-centred cities align with the ideas presented here and how urban design can enhance both ecological and social spaces.
 
-**Florida, Richard.** **. , 2002. Florida’s concept of harnessing creative energies for urban development can be seen as a metaphor for incorporating night-time cultures into broader city planning frameworks, highlighting a need for innovative approaches to urban challenges.
 
 
 
@@ -221,18 +246,6 @@ Just like the blind woman in the taxi, we could accept that we may be blind in s
 
 I am curious if we can try and transform existing frameworks; encouraging us to feel the city's rhythm, both day and night, and to recognise the invaluable contributions of all its phases.
 
-
-
-
-
-
-A special thank you to Lutz for revising this text.
-
-
-
-
-
-[^99]: Taxi driver played by Isaach de Bankolé and blind woman played by Béatrice Dalle.
 
 
 <!--
