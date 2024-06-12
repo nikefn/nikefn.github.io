@@ -191,10 +191,6 @@ A special thank you to Lutz for revising this text.
 
 
 
-<div class="breaker"></div>
-
-<div class="breaker"></div>
-
 ### AB HIER NICHT BENUTZTE GEDANKEN:
 
 
