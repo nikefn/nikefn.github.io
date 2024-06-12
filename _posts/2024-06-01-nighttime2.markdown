@@ -1,7 +1,7 @@
 ---
 title: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 layout: post
-date: 2024-06-01 23:48
+date: 2024-06-13 23:48
 image: assets\images\blog-night\white-dwarf-nasa.webp
 headerImage: true
 tag:
@@ -82,7 +82,8 @@ Like in any sector, economic considerations are a driving factor (if not *THE* d
 [^17]: (footnote FPD Wahlplakat Stuttgart 2024, "wir bewahren Parkplätze").
 
 **In a Nutshell: Qualitative Aspects outweigh Monetary Benefits**
-I'd could image the thinking goes like this: Monetary metrics of a parking spot are easy to measure. Monetary metrics of a tree are difficult to measure and require new frameworks and an extra effort. In the same sense for culture: It's hard to quantify and measuring requires new frameworks and an extra effort - why not stick with the more straightforward sectors?
+
+In the example above, I could image the budgetary thinking going like this: Monetary metrics of a parking spot are easy to measure. Monetary metrics of a tree are difficult to measure and require new frameworks and an extra effort. In the same sense for culture: It's hard to quantify and measuring requires new frameworks and an extra effort - why not stick with the more straightforward sectors?
 
 But to me, could not the viewpoint and angle be ill-fitted from a start:
 
@@ -100,7 +101,7 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 - **Small-Scale Conflict Mediation Dominates** - In the realm of nightlife and socioeconomics, the focus often remains on resolving immediate, localised conflicts (e.g., between a bar, a restaurant and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole. Again, because the link mentioned above is not systematically made.
 
-- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and their collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *An example here could be the 'light pollution'[^10] debate, which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)[^12][^13][^14]*
+- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and its collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *An example here could be the 'light pollution'[^10] debate, which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)[^12][^13][^14]*
 
 [^10]: Maybe it is so prominent because it is one of the clearest links when thinking about a natural night (dark) and nightly human activity (illuminated). Notably, research indicates that reducing urban lighting does not necessarily correlate with increased crime rates. Yet a fear of removing lighting persists, deeply ingrained in human and societal concerns about darkness. Since this is deeply engrained it, it is certainly not easy convincing people otherwise, even the most rational beings. Interesting read: Zhong CB, Bohns VK, Gino F. [Good lamps are the best police: darkness increases dishonesty and self-interested behavior.](https://pubmed.ncbi.nlm.nih.gov/20424061/) Psychol Sci. 2010 Mar;21(3):311-4. doi: 10.1177/0956797609360754.
 
@@ -118,14 +119,17 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 Both culture and ecology significantly enrich urban life, providing a host of amenities that enhance the liveability and appeal of cities. These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies.
 
+Fair enough, but here I want to make a bold and (to me) straightforward assumption, that culture and ecology both are at the very core of why some cities continue to thrive while others perish:
+
+- ***What happens if a city is not safe/stable to live in? Yes, easy answer: If they can, People will try moving somewhere else.***
+- ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
+- ***What happens if a city is not healthy for its inhabitants or for them to raise their kids? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
+
 ![Figure both Spheres next to each other](assets/images/blog-night/noct-ecol-econ.png)*Cultural vibrancy and ecological health side-by-side*
 
-Socioeconomics and Ecology both individually contribute to the above mentioned urban attractiveness. For some of the mentioned characteristics they do not only contribute to attractiveness, which is a more or less optional urban development area, but also to vital urban functions that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. Without those, a city will only poorly function.
+For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to vital urban functions that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. Without those, a city will only poorly function.
 
-- ***What happens if a city is not safe/stable to live in? Yes, easy answer: People will try moving somewhere else.***
-- ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
-
-- The Figure above hightlights the individual role of socioeconomics and ecology within the urban system ... *What could be possible if we try bridging and synergising both?*
+The Figure above hightlights the individual role of socioeconomics and ecology within the urban system ... *What could be possible if we try bridging and synergising both?*
 
 [^16]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Basic Books.
 
@@ -136,7 +140,7 @@ Socioeconomics and Ecology both individually contribute to the above mentioned u
 
 Okay, good we know now.... But what do?!
 
-To me, we should try finding an easy beginning where we most likely will face little confrontation but enable those much-spoken synergies in a visible way. The link needs to be easy for everyone to understand the connections and the benefits what thinking about the *"other sphere"* can provide. Then over time, we may add the more delicate topics that maybe require more discussions and negotiations.
+To me, we should try finding an easy beginning. A beginning where we most likely will face little confrontation but enable those much-spoken synergies in a visible way. The link needs to be easy for everyone to understand the connections and the benefits what thinking about the *"other sphere"* can provide. Then over time, we may add the more delicate topics that maybe require more discussion and negotiation.
 
 Together with Lutz Leichsenring from **Vibelab**, my employer **Fraunhofer IAO** and the Department of Urban Systems Engineering started this process. Among other conferences and thanks to Lutz and Vibelab, I could take part in the *['South by Southwest Conference and Festival - SXSW'](https://www.sxsw.com/)* and the panel *["The Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/)*. This was the onset of our common considerations and since then we meet every couple of weeks to inspire us and to **push things forward.**
 
