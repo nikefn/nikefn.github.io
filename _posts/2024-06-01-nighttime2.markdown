@@ -21,7 +21,7 @@ permalink: nighttime2
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
-I spend most of my working time on projects on sustainable city development. When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.
+I spend most of my working time on projects on sustainable city development. When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.
 
 Maybe one could even say, that there's an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for the less serious ones - and definitely not for addressing significant societal challenges, right?
 
@@ -31,7 +31,7 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 1.  **To tackle the global challenges we face, we need creativity and the cognitive ability to break away from old patterns - qualities that are often more accessible in the after working hours**, when we can easier move away from the constraints of formal professional settings.
 
-2. **The underlying reasons sustainable/green city development and cultural engagement/nightlife aren't already central to mainstream urban planning are similar: Difficulties in attributing the benefits they provide for society as a whole in economic terms.**  If the underlying reasons why they are overlooked resemble each other, overlaps should be able to be identified; and consequently ameliorating one sphere could inform and enhance the other. Synergies should exist and/or be able to be actively developed and used.
+2. **The underlying reasons sustainable/green city development and cultural engagement/nightlife aren't already central to mainstream urban planning are similar: Difficulties in attributing the benefits they provide for society as a whole in economic terms.**  If the underlying reasons why they are overlooked resemble each other, overlaps should be able to be identified; and consequently ameliorating one sphere could inform and enhance the other simultaneously. Therefore, synergies between the two should exist and be actively developed and used.
 
 3. **Cosequently, could it be, that the disconnect between after-work life and the sustainable city development agenda is a major factor of what's slowing our progress towards major urban transitions?**
 
@@ -45,9 +45,9 @@ The figure below summarises the key points drawn from the publications I read in
 
 ***What literature says:***
 
-Societal Perspective: What most stuck with me was an often describen and seemingly a common and prevalent trait among urban planners, policymakers and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+Societal Perspective: What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-Interesting theory: did nocturnal life in mammals evolve as a survival strategy during the era when dinosaurs dominated the daylight, influencing the development of the mammalian eye? Sohn, Emily. "The eyes of mammals reveal a dark past." Nature, 10 April 2019. [Nature](https://www.nature.com/articles/d41586-019-01109-6).
+[^2]: Interesting theory: Did the ability for a nocturnal life in mammals evolve as a survival strategy during an era when dinosaurs dominated the daylight, influencing the development of the mammalian eye? Sohn, Emily. "The eyes of mammals reveal a dark past." Nature, 10 April 2019. [Nature](https://www.nature.com/articles/d41586-019-01109-6).
 
 The article discusses the hypothesis that .
 
@@ -58,30 +58,28 @@ Ecological Perspective: Interestinly, to me, most of the key observations in art
 - The preference among ecologists to work during daytime contributes to the scarcity of focus on nocturnal studies. *(Just like their counterparts in urban planning)*
 
 
-
 ***The Challenge with Economics and Economic Metrics***
 
-Like in any sector, economic considerations are a driving factor (if not THE driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors. However, this economic focus often is a difficult fit with both cultural and ecological initiatives. Let me give you two illustrative examples:
+Like in any sector, economic considerations are a driving factor (if not *THE* driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors. However, this economic focus often is a difficult fit with both cultural and ecological initiatives. Let me give you two illustrative examples:
 
-**Socioeconomic Aspects:**
+**Socioeconomic Aspects: Prevailing Informality**
 - During almost all of my side gigs while studying and working in hospitality/nightlife, I received my wage payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. It is therefore not fully represented in financial KPIs of a city. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
 
-**Ecological Considerations:**
+**Ecological Considerations: The Parking Spot Problem**
 - Think about the lifecycle of a typical urban parking spot. Initially, there's a one-time investment to pave the area. Install a parking meter, and the city enjoys a steady inflow of cash from users.
 - Now, replace that parking spot with a public garden or a tree. While the initial costs might be similar for removing asphalt and planting, the ongoing expenses for maintenance like gardening and watering present a less appealing economic case under traditional city budgeting models. Despite numerous studies showing the financial and social benefits of greener urban spaces, widespread adoption remains limited without public intervention.
 
-**Qualitative Aspects outweigh Monetary Benefits**
-I'd could image the thinking goes like this: Monetary metrics of a parking spot are easy to measure. Monetary metrics of a tree are difficult to measure and require new frameworks and an extra effort. In the same sense for culture: It's hard to quantify and measuring requires frameworks and an extra effort - why not stick with the more straightforward sectors?
+[^2]: A city planner from Eindhoven told me this illustrive example during the research for my Master Thesis. Until today, to me this is one of the clearest explanation on how economic metrics sometimes fail for common goods like greenery.
+[^2]: Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. https://doi.org/10.1007/978-3-030-93325-8
+[^2]: Kabisch, N., Korn, H., Stadler, J., & Bonn, A. (Eds.). (2017). *Nature-Based Solutions to Climate Change Adaptation in Urban Areas: Linkages Between Science, Policy, and Practice* (1st ed.). Springer Cham. https://doi.org/10.1007/978-3-319-56091-5
+
+**In a Nutshell: Qualitative Aspects outweigh Monetary Benefits**
+I'd could image the thinking goes like this: Monetary metrics of a parking spot are easy to measure. Monetary metrics of a tree are difficult to measure and require new frameworks and an extra effort. In the same sense for culture: It's hard to quantify and measuring requires new frameworks and an extra effort - why not stick with the more straightforward sectors?
 
 But to me, could not the viewpoint and angle be ill-fitted from a start:
 
 ***What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic benefits?*** *Consider the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?*
 
-
-[^2]: Kabisch, N., Korn, H., Stadler, J., & Bonn, A. (Eds.). (2017). *Nature-Based Solutions to Climate Change Adaptation in Urban Areas: Linkages Between Science, Policy, and Practice* (1st ed.). Springer Cham. https://doi.org/10.1007/978-3-319-56091-5
-Here's the title of the book with capital letters at the beginning of each word:
-
-[^2]: Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. https://doi.org/10.1007/978-3-030-93325-8
 
 
 **The Missing Link**
