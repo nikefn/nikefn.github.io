@@ -20,14 +20,11 @@ permalink: nighttime2
 *This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.[^1]*
 
 
-***To Put as Title: Seeing in the Dark - Nighttime’s Potential in Urban Innovation***
 
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
 I spend most of my working time on projects on sustainable city development. When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.
-
-Maybe one could even say, that there's an unspoken rule that serious topics belong to the daytime, while nighttime is reserved for the less serious ones - and definitely not for addressing significant societal challenges, right?
 
 Much like in my previous blogpost, I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
 
@@ -51,7 +48,7 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 The figure below summarises the key points drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology[^5]. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following; please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.jpg)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
 ***What literature says:***
 
@@ -140,7 +137,7 @@ The Figure above hightlights the individual role of socioeconomics and ecology w
 
 ### Finding Ways Forward - Finding the Synergies
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecol-econ.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics in Synergie](assets/images/blog-night/noct-synergies.png)*Nocturnal Ecology and Nocturnal Socioeconomics in Synergy*
 
 Okay, good we know now.... But what do?!
 
