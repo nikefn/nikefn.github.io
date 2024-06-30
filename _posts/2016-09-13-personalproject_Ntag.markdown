@@ -22,7 +22,7 @@ Reflecting back in time and specifically on the years 2015 to 2017 brings me bac
 
 
 
-Synopsis: *From 2015-2017 I was tasked with organising the "Sustainability Day" at the university alongside a team of dedicated colleagues. The event featured a collaborative meal preparation by young refugees and students, guided by chefs from a local Michelin-starred restaurant, serving approximately 500 guests. Ingredients consisted of vegetables that were not sold in supermarkets due to their appearance but were otherwise perfectly edible. The day also provided a platform for attendees to engage in meaningful discussions with politicians and decision-makers. In recognition of our collective efforts, the initiative was honoured in 2017 as one of the top five in the regional "Sustainable Development" programme by the State Minister of the Environment in Baden-Württemberg.*
+Synopsis: *From 2015-2017 I was tasked with organising the "Sustainability Day" at the university alongside a team of dedicated colleagues. The event featured a collaborative meal preparation by young refugees and students, guided by chefs from a local Michelin-starred restaurant, serving approximately 300 guests. Ingredients consisted of vegetables that were not sold in supermarkets due to their appearance but were otherwise perfectly edible. The day also provided a platform for attendees to engage in meaningful discussions with politicians and decision-makers. In recognition of our collective efforts, the initiative was honoured in 2017 as one of the top five in the regional "Sustainable Development" programme by the State Minister of the Environment in Baden-Württemberg.*
 
 
 
