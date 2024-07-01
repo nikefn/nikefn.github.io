@@ -38,7 +38,7 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 
 
-[^1]: This book gave me this thought: Metzinger, T. (2023). *Bewusstseinskultur: Spiritualität, intellektuelle Redlichkeit und die planetare Krise*. Berlin Verlag.
+[^1]: In line of the idea here and a great read that proposes a radical shift towards a so called *'consciousness culture'*. To foster a future marked by compassion and self-respect . Written by philosopher and neuroscientist Thomas Metzinger (2023): *Bewusstseinskultur: Spiritualität, intellektuelle Redlichkeit und die planetare Krise*. Berlin Verlag. EAN 978-3-8270-1488-7
 [^2]: Gehl, J. (2010). [*Cities for People*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Island Press. Groundbreaking and visionary book. Gehl's principles for designing human-centred cities align with the ideas presented here and how urban design can enhance both ecological and social spaces.
 [^3]: Kabisch, N., Korn, H., Stadler, J., & Bonn, A. (Eds.). (2017). *Nature-Based Solutions to Climate Change Adaptation in Urban Areas: Linkages Between Science, Policy, and Practice* (1st ed.). Springer Cham. https://doi.org/10.1007/978-3-319-56091-5
 [^4]: Görtler, M. (2015). Zeitforschung aus sozial-ökologischer Perspektive. *Ökologisches Wirtschaften - Fachzeitschrift, 30*(4), 17–18. https://doi.org/10.14512/OEW300417
@@ -52,7 +52,7 @@ The figure below summarises the key points drawn from the publications I read in
 
 ***What literature says:***
 
-Societal Perspective[^6]: What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+Societal Perspective[^6] [^18]: What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
 
 Ecological Perspective[^6]: Interestinly, to me, most of the key observations in articles from this context could be applied to both ecological and socioeconomic aspects of nighttime. I added the possible relevance for the socioeconomic sector in brackets behind the original arguments I took from my ecological readings:
@@ -65,11 +65,13 @@ Ecological Perspective[^6]: Interestinly, to me, most of the key observations in
 
 [^6]: Selection of readings: [Jordi Nofre](https://scholar.google.es/citations?hl=en&user=CMtTJQsAAAAJ&view_op=list_works&sortby=pubdate): "The Urban Ecological Transition and the Future of Europe’s Nightlife Industry" (2023),doi: 10.1080/16078055.2022.2162112; [Kevin J. Gaston](https://scholar.google.co.uk/citations?hl=en&user=np4zMp8AAAAJ&view_op=list_works&sortby=pubdate): "The Nocturnal Problem Revisited" (2019), doi: 10.1086/702250 and "Anthropogenic Changes to the Nighttime Environment" (2023), doi: 10.1093/biosci/biad017; Acuto, Michele, et al. Managing Cities at Night: A Practitioner Guide to the Urban Governance of the Night-Time Economy. 1st ed., Bristol University Press, 2022. JSTOR, [https://doi.org/10.2307/j.ctv22jnkcq](https://www.jstor.org/stable/j.ctv22jnkcq).
 
+[^18]: Several articles of the 2019 Special Issue *"Temporal Justice in the City. Concepts and Perspectives for Planning Practice"* published by the [Academy for Territorial Development](https://www.arl-net.de/de/shop/zeitgerechte-stadt.html) and Henckel, Dietrich; Kramer, Caroline Eds.; helped me by a lot. [Link](https://www.arl-net.de/de/shop/zeitgerechte-stadt.html).
+
 
 
 ***The Challenge with Economics and Economic Metrics***
 
-Like in any sector, economic considerations are a driving factor (if not *THE* driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors. However, this economic focus often is a difficult fit with both cultural and ecological initiatives. Let me give you two illustrative examples:
+Like in any sector, economic considerations are a driving factor (if not *THE* driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors, which serves as basis for anything else. However, this economic focus often is a difficult fit with both cultural and ecological initiatives. Let me give you two illustrative examples:
 
 **Socioeconomic Aspects: Prevailing Informality[^6]**
 - During almost all of my side gigs while studying and working in hospitality/nightlife, I received my wage payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. It is therefore not fully represented in financial KPIs of a city. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
@@ -82,15 +84,22 @@ Like in any sector, economic considerations are a driving factor (if not *THE* d
 [^8]: Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. https://doi.org/10.1007/978-3-030-93325-8
 [^17]: (footnote FPD Wahlplakat Stuttgart 2024, "wir bewahren Parkplätze").
 
+
 **In a Nutshell: Qualitative Aspects outweigh Monetary Benefits**
 
-In the example above, I could image the budgetary thinking going like this: Monetary metrics of a parking spot are easy to measure. Monetary metrics of a tree are difficult to measure and require new frameworks and an extra effort. In the same sense for culture: It's hard to quantify and measuring requires new frameworks and an extra effort - why not stick with the more straightforward sectors?
+There's a reason, why the above mentioned economic metrics are ever so popular: Simplicity. City administrators, planners, politicians, and executives often operate under tight deadlines, needing to make swift but far-reaching decisions. They rely on clear, quantitative data - best displayed on ([visual dashboards](https://doi.org/10.22269/150309))[^19] - to inform and justify their decisions.
 
-But to me, could not the viewpoint and angle be ill-fitted from a start:
+Integrating ([new frameworks of calculus, that integrate e.g. the environment](https://doi.org/10.1007/978-3-030-93325-8)[^8], requires extra effort: Data collection, harmonisation, training, IT infrastructure etc. So, why not stick with simpler, straightforward metrics?
 
-***What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic benefits?*** *Consider the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?*
+But to me, could not the viewpoint and angle be a difficult fit from a start:
 
+***What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic benefits?*** *Imagine the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?*
 
+Still, either way you turn it: In the real world as of now, there’s no escaping of economic metrics. Even if economic benefits are not at all the target of the things you try to set in motion with culture and green city development.
+
+***And we need to change that. Little by little :)..***
+
+[^19]: Cool article on how long the idea of having a dashboard to grasp ongoings in a city is out there: Shannon Mattern, “Mission Control: A History of the Urban Dashboard,” Places Journal, March 2015. https://doi.org/10.22269/150309
 
 **The Missing Link**
 
