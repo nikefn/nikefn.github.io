@@ -24,11 +24,11 @@ permalink: nighttime2
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
-I spend most of my working time on projects on sustainable city development. When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.
+I spend most of my working time on projects on [projects on sustainable city development](https://nikefn.github.io/projects/). When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues[^18].
 
-Much like in my previous blogpost, I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
+Much like in my [previous blogpost](https://nikefn.github.io//nighttime), I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?***
 
-With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my thoughts around this idea. This blog post will explore those around three core thoughts:
+With insights from colleagues at [Fraunhofer](https://blog.iao.fraunhofer.de/lichter-aus-zukunft-an-die-nacht-als-schluessel-fuer-zukunftsfaehige-staedte/), [vibelab](https://vibe-lab.org/), and [beyond](https://novaresearch.unl.pt/en/persons/jordi-nofre), I've shaped my thoughts around this idea. This blog post will explore those around three core thoughts:
 
 1.  **To tackle the global challenges we face, we need creativity and the cognitive ability to break away from old patterns - qualities that are often more accessible in the after working hours**, when we can easier move away from the constraints of formal professional settings.[^1]
 
@@ -36,9 +36,7 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 3. **Cosequently, could it be, that the disconnect between after-work life and the sustainable city development agenda is a major factor of what's slowing our progress towards major urban transitions?[^4]**
 
-
-
-[^1]: In line of the idea here and a great read that proposes a radical shift towards a so called *'consciousness culture'*. To foster a future marked by compassion and self-respect . Written by philosopher and neuroscientist Thomas Metzinger (2023): *Bewusstseinskultur: Spiritualität, intellektuelle Redlichkeit und die planetare Krise*. Berlin Verlag. EAN 978-3-8270-1488-7
+[^1]: In line of the idea here a great read that proposes a radical shift towards a so called *'consciousness culture'*. To foster a future marked by compassion and self-respect . Written by philosopher and neuroscientist Thomas Metzinger (2023): *Bewusstseinskultur: Spiritualität, intellektuelle Redlichkeit und die planetare Krise*. Berlin Verlag. EAN 978-3-8270-1488-7
 [^2]: Gehl, J. (2010). [*Cities for People*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Island Press. Groundbreaking and visionary book. Gehl's principles for designing human-centred cities align with the ideas presented here and how urban design can enhance both ecological and social spaces.
 [^3]: Kabisch, N., Korn, H., Stadler, J., & Bonn, A. (Eds.). (2017). *Nature-Based Solutions to Climate Change Adaptation in Urban Areas: Linkages Between Science, Policy, and Practice* (1st ed.). Springer Cham. https://doi.org/10.1007/978-3-319-56091-5
 [^4]: Görtler, M. (2015). Zeitforschung aus sozial-ökologischer Perspektive. *Ökologisches Wirtschaften - Fachzeitschrift, 30*(4), 17–18. https://doi.org/10.14512/OEW300417
@@ -46,7 +44,9 @@ With insights from colleagues at Fraunhofer, Vibelab, and beyond, I've shaped my
 
 ### The Night: Why Is It Underrepresented?
 
-The figure below summarises the key points drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology[^5]. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following; please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
+The [figure below](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.jpg) summarises the key points drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology[^5][^18]. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following[^19].
+
+[^19]: Please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
 ![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.jpg)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
@@ -71,31 +71,34 @@ Ecological Perspective[^6]: Interestinly, to me, most of the key observations in
 
 ***The Challenge with Economics and Economic Metrics***
 
-Like in any sector, economic considerations are a driving factor (if not *THE* driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors, which serves as basis for anything else. However, this economic focus often is a difficult fit with both cultural and ecological initiatives. Let me give you two illustrative examples:
+Like in any sector, economic considerations are a driving factor (if not *THE* driving factor) cities are fundamentally influenced by. Like the economy as a whole, cities aim to create an economically sound and thriving environment for their inhabitants and economic actors, which serves as basis for anything else. However, this economic focus often is [a difficult fit with both cultural and ecological initiatives](https://aeon.co/ideas/against-metrics-how-measuring-performance-by-numbers-backfires). Let me give you two illustrative examples:
 
 **Socioeconomic Aspects: Prevailing Informality[^6]**
 - During almost all of my side gigs while studying and working in hospitality/nightlife, I received my wage payment in cash. These transactions never made it into official economic statistics or tax-related key performance indicators (KPIs). This situation reflects a broader reality: A significant portion of nighttime economy is informally managed, often out of necessity due to stringent regulations. It is therefore not fully represented in financial KPIs of a city. Simply increasing enforcement, such as deploying more tax officers, is not a practical solution.
 
-**Ecological Considerations: The Parking Spot Problem[^7] [^8]**
-- Think about the lifecycle of a typical urban parking spot. Initially, there's a one-time investment to pave the area. Install a parking meter, and the city enjoys a steady inflow of cash from users.
+**Ecological Considerations: The Parking Spot Problem[^7] [^8] [^20]**
+- Think about the lifecycle of a [typical urban parking spot](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing). Initially, there's a one-time investment to pave the area. Install a parking meter, and the city enjoys a steady inflow of cash from users.
 - Now, replace that parking spot with a public garden or a tree. While the initial costs might be similar for removing asphalt and planting, the ongoing expenses for maintenance like gardening and watering present a less appealing economic case under traditional city budgeting models[^17]. Despite numerous studies showing the financial and social benefits of greener urban spaces, widespread adoption remains limited without public intervention.
 
-[^7]: A city planner from Eindhoven told me this illustrive example during the research for my Master Thesis. Until today, to me this is one of the clearest explanation on how economic metrics sometimes fail for common goods like greenery.
-[^8]: Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. https://doi.org/10.1007/978-3-030-93325-8
+[^7]: A city planner from Eindhoven told me this illustrive example during the research for my Master Thesis. Until today, to me this is one of the clearest explanation on how economic metrics sometimes fail for [common goods like greenery](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).
+[^8]: See: Chausson A et al. (2023) *Going beyond market-based mechanisms to finance nature-based solutions and foster sustainable futures*. PLOS Clim 2(4): e0000169 [doi.org/10.1371/journal.pclm.0000169](https://doi.org/10.1371/journal.pclm.0000169). **and** Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. https://doi.org/10.1007/978-3-030-93325-8.
 [^17]: (footnote FPD Wahlplakat Stuttgart 2024, "wir bewahren Parkplätze").
+[^20]: Good read: *The hidden force that shapes everything around us: Parking.* [Marin Cogan in Vox, 2023](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing).
+
+
 
 
 **In a Nutshell: Qualitative Aspects outweigh Monetary Benefits**
 
 There's a reason, why the above mentioned economic metrics are ever so popular: Simplicity. City administrators, planners, politicians, and executives often operate under tight deadlines, needing to make swift but far-reaching decisions. They rely on clear, quantitative data - best displayed on ([visual dashboards](https://doi.org/10.22269/150309))[^19] - to inform and justify their decisions.
 
-Integrating ([new frameworks of calculus, that integrate e.g. the environment](https://doi.org/10.1007/978-3-030-93325-8)[^8], requires extra effort: Data collection, harmonisation, training, IT infrastructure etc. So, why not stick with simpler, straightforward metrics?
+Integrating ([new frameworks of calculus, that integrate e.g. the environment](https://doi.org/10.1007/978-3-030-93325-8)[^8], requires extra effort: Data collection, harmonisation, staff training, IT infrastructure etc. So, why not stick with simpler, straightforward metrics?
 
 But to me, could not the viewpoint and angle be a difficult fit from a start:
 
 ***What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic benefits?*** *Imagine the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?*
 
-Still, either way you turn it: In the real world as of now, there’s no escaping of economic metrics. Even if economic benefits are not at all the target of the things you try to set in motion with culture and green city development.
+Yet, either way you turn it: In the real world as of now, there’s no escaping economic metrics. Even if economic benefits are not the target of the things you try to set in motion with culture and green city development.
 
 ***And we need to change that. Little by little :)..***
 
@@ -103,20 +106,20 @@ Still, either way you turn it: In the real world as of now, there’s no escapin
 
 **The Missing Link**
 
-Through my experiences in both sustainability and socioeconomic sectors of city development, including my role at the Nighttime-Innovation lab at Fraunhofer since 2022, I have observed a critical gap in how these two spheres intersect and influence city planning. Let me give you my main observations in concise bullet points:
+Through my experiences in both sustainability and socioeconomic sectors of city development, including my role at the [Nighttime Innovation Network](https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/) at [Fraunhofer](https://www.morgenstadt.de/de/ueberuns/team.html) since 2022, I have observed a critical gap in how these two spheres intersect and influence city planning. Let me give you my main observations in concise bullet points:
 
-- **Large-Scale Integration Lacking** - There is a notable absence of a systematic, large-scale linkage between ecological sustainability and the socioeconomic aspects of the after-work time. Each sphere often attempts to address problems related to sustainability based on its own understanding, without substantial cross-disciplinary collaboration. The link yet has to be made in an systematic way on large scale (e.g. in the multilateral sustainable city development my employer Fraunhofer and the Department of Urban Systems Engineering pursues)[^9].
+- **Large-Scale Integration Lacking** - There is a notable absence of a systematic, large-scale linkage between ecological sustainability and the socioeconomic aspects of the after-work time. Each sphere often attempts to address problems related to sustainability based on its own understanding, without substantial cross-disciplinary collaboration. The link yet has to be made in an systematic way on large scale (e.g. in the [multilateral sustainable city development my employer Fraunhofer and the Department of Urban Systems Engineering pursues](https://www.morgenstadt.de/en/projekte/city_labs.html))[^9].
 
-[^9]: And I'm confident that teaming up with Vibelab can do the job :)!
+[^9]: And I'm confident that Fraunhofer teaming up with vibelab can do the job :)!
 
-- **Small-Scale Conflict Mediation Dominates** - In the realm of nightlife and socioeconomics, the focus often remains on resolving immediate, localised conflicts (e.g., between a bar, a restaurant and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole. Again, because the link mentioned above is not systematically made.
+- **Small-Scale Conflict Mediation Dominates** - In the realm of nightlife and socioeconomics, the focus often remains on resolving [immediate, localised conflicts](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/ruido-y-ocio-nocturno-un-conflicto-de-intereses-o-un-problema-de-salud-publica-/8028620/0) (e.g., between a bar, a restaurant and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole. Again, because the link mentioned above is seldom systematically made.
 
-- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and its collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *An example here could be the 'light pollution'[^10] debate, which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)[^12][^13][^14]*
+- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and its collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *[An example here could be the 'light pollution' debate](https://data.europa.eu/doi/10.2779/906521) [^10] , which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)[^12][^13][^14]*
+
 
 [^10]: Maybe it is so prominent because it is one of the clearest links when thinking about a natural night (dark) and nightly human activity (illuminated). Notably, research indicates that reducing urban lighting does not necessarily correlate with increased crime rates. Yet a fear of removing lighting persists, deeply ingrained in human and societal concerns about darkness. Since this is deeply engrained it, it is certainly not easy convincing people otherwise, even the most rational beings. Interesting read: Zhong CB, Bohns VK, Gino F. [Good lamps are the best police: darkness increases dishonesty and self-interested behavior.](https://pubmed.ncbi.nlm.nih.gov/20424061/) Psychol Sci. 2010 Mar;21(3):311-4. doi: 10.1177/0956797609360754.
 
 [^11]: Artificial light paved the way for lively urban neighborhoods after dark, see e.g. this book on how London's nightlife evolved and how it is (for philisophists) to take a night stroll: Beaumont, M. (2016). *Nightwalking: A Nocturnal History of London*. Verso. https://www.versobooks.com/products/56-nightwalking. Or how city-lighting changed everything from work to pleasure: Schlör, Joachim. [Nights in the Big City: Paris, Berlin, London 1840-1930.](https://search.worldcat.org/de/title/1074448006) Reaktion Books, 1998.
-
 
 [^12]: Good watch/reads: Sabine Hossenfelder Backreaction March 2022 - ["Is light pollution a real problem?"](http://backreaction.blogspot.com/2022/03/is-light-pollution-real-problem.html) (Spoiler: Yes, it is!). And ["Illuminating the Effects of Light Pollution."](https://www.nytimes.com/interactive/2016/04/07/science/light-pollution-effects-environment.html), The New York Times, Apr 2016 (paywall).
 
@@ -127,9 +130,9 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 ### The Benefits - What Do Culture and Ecology Offer, Why Are They Both Vital for Cities?
 
-Both culture and ecology significantly enrich urban life, providing a host of amenities that enhance the liveability and appeal of cities. These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies.
+Both culture and ecology significantly enrich urban life, providing a host of amenities that [enhance the liveability and appeal of cities](https://www.euronews.com/next/2023/08/18/vienna-named-worlds-most-liveable-city-again-in-2023-other-european-cities-slipped-out-of-). These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies.
 
-Fair enough, but here I want to make a bold and (to me) straightforward assumption, that culture and ecology both are at the very core of why some cities continue to thrive while others perish:
+Fair enough, but here I want to make a bold and (to me) straightforward assumption, that culture and ecology both are at the very core of why some cities continue to thrive while others descend:
 
 - ***What happens if a city is not safe/stable to live in? Yes, easy answer: If they can, People will try moving somewhere else.***
 - ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
@@ -137,11 +140,12 @@ Fair enough, but here I want to make a bold and (to me) straightforward assumpti
 
 ![Figure both Spheres next to each other](assets/images/blog-night/noct-ecol-econ.png)*Cultural vibrancy and ecological health side-by-side*
 
-For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to vital urban functions that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. Without those, a city will only poorly function.
+For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc) that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. Without those, a city will only poorly function.
 
 The Figure above hightlights the individual role of socioeconomics and ecology within the urban system ... *What could be possible if we try bridging and synergising both?*
 
 [^16]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Basic Books.
+
 
 
 ### Finding Ways Forward - Finding the Synergies
@@ -152,11 +156,11 @@ The Figure above hightlights the individual role of socioeconomics and ecology w
 
 To me, we should try finding an easy beginning. A beginning where we most likely will face little confrontation but enable those much-spoken synergies in a visible way. The link needs to be easy for everyone to understand the connections and the benefits what thinking about the *"other sphere"* can provide. Then over time, we may add the more delicate topics that maybe require more discussion and negotiation.
 
-Together with Lutz Leichsenring from **Vibelab**, my employer **Fraunhofer IAO** and the Department of Urban Systems Engineering started this process. Among other conferences and thanks to Lutz and Vibelab, I could take part in the *['South by Southwest Conference and Festival - SXSW'](https://www.sxsw.com/)* and the panel *["The Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/)*. This was the onset of our common considerations and since then we meet every couple of weeks to inspire us and to **push things forward.**
+Together with Lutz Leichsenring from **Vibelab**, my employer **Fraunhofer IAO** and the[Department of Urban Systems Engineering](https://www.muse.iao.fraunhofer.de/de/ueber_uns/team_stadtsystemgestaltung.html) started this process. Among other conferences and thanks to Lutz and Vibelab, I could take part in the *['South by Southwest Conference and Festival - SXSW'](https://www.sxsw.com/)* and the panel *["The Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/)*. This was the onset of our common considerations and since then we meet every couple of weeks to inspire us and to **push things forward.**
 
 ***Push Things to Where?!***
 
-- One of the easiest links you may find bridging those spheres is Green Soundproofing. I wrote an article on our company blog about this and soon afterwards a couple (!) of German cities reached out and showed their interest. The thought is easy: We spend so much on greening our cities, why not include nighttime culture and get *double the benefit?*
+- One of the easiest links you may find bridging those spheres is Green Soundproofing. I wrote an [article on our company blog about this](https://blog.iao.fraunhofer.de/lichter-aus-zukunft-an-die-nacht-als-schluessel-fuer-zukunftsfaehige-staedte/) and soon afterwards a couple (!) of German cities reached out and showed their interest. The thought is easy: We spend so much on greening our cities, why not include nighttime culture and get *double the benefit?*
 - Well, listen closely: Coming to your city soon. **Vibelab and Fraunhofer will make it happen :)!**
 
 ... We will provdide a detailed description of our Green Soundproofing concept, the other initiative in the making (*"Urban Systems Network Smart City @ Night"*) and other ideas in the upcoming blogpost. Open-Source and free, just like both night and nature should be :)...
