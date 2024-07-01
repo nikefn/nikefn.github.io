@@ -58,7 +58,7 @@ Ecological Perspective[^6]: Interestingly, to me, most of the key observations i
 
 - Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. I'd argue (night-)culture plays a critical role in societal balance. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development)*.
 - Its significance is frequently underestimated, leading to its underrepresentation in ecological considerations *(...and in urban planning discussions).*
-- The preference among ecologists to work during daytime contributes to the scarcity of focus on nocturnal studies. *(Just like their counterparts in urban planning)*
+- The preference among ecologists to work during daytime contributes to the scarcity of focus on nocturnal studies. *(Just like their counterparts in urban planning)*.
 
 [^5]: Interesting theory: Did the ability for a nocturnal life in mammals evolve as a survival strategy during an era when dinosaurs dominated the daylight, influencing the development of the mammalian eye? Sohn, Emily. "The eyes of mammals reveal a dark past." Nature, 10 April 2019. [Nature](https://www.nature.com/articles/d41586-019-01109-6).
 
@@ -92,7 +92,7 @@ Like in any sector, economic considerations are a driving factor (if not *THE* d
 
 There's a reason, why the above mentioned economic metrics are ever so popular: Simplicity. City administrators, planners, politicians, and executives often operate under tight deadlines, needing to make swift but far-reaching decisions. They rely on clear, quantitative data - best displayed on ([visual dashboards](https://doi.org/10.22269/150309))[^19] - to inform and justify their decisions.
 
-Integrating ([new frameworks of calculus, that integrate e.g. the environment](https://doi.org/10.1007/978-3-030-93325-8)[^8], requires extra effort: Data collection, harmonisation, staff training, IT infrastructure etc. So, why not stick with simpler, straightforward metrics?
+Integrating [new frameworks of calculus, that integrate e.g. the environment](https://doi.org/10.1007/978-3-030-93325-8)[^8], requires extra effort: Data collection, harmonisation, staff training, IT infrastructure etc. So, why not stick with simpler, straightforward metrics?
 
 But to me, could not the viewpoint and angle be a difficult fit from a start:
 
@@ -100,7 +100,7 @@ But to me, could not the viewpoint and angle be a difficult fit from a start:
 
 Yet, either way you turn it: In the real world as of now, there’s no escaping economic metrics. Even if economic benefits are not the target of the things you try to set in motion with culture and green city development.
 
-***And we need to change that. Little by little :)..***
+***Change comes gradually. And we may try being a part of it :)...***
 
 [^19]: Cool article on how long the idea of having a dashboard to grasp ongoings in a city is out there: Shannon Mattern, [“Mission Control: A History of the Urban Dashboard,” Places Journal, March 2015. https://doi.org/10.22269/150309](https://doi.org/10.22269/150309).
 
