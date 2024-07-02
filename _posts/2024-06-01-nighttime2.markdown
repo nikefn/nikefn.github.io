@@ -45,7 +45,7 @@ With insights from colleagues at [Fraunhofer](https://blog.iao.fraunhofer.de/lic
 
 ### The Night: Why Is It Underrepresented?
 
-The [figure below](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.jpg) summarises the key points drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology[^5] [^18]. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following[^19].
+The [figure below summarises the key points](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.jpg) drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology[^5] [^18]. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following[^19].
 
 [^19]: Please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
@@ -53,9 +53,9 @@ The [figure below](https://nikefn.github.io//assets/images/blog-night/noct-ecoso
 
 ***What literature says:***
 
-Societal Perspective[^6] [^18]: What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
+Societal Perspective[^4] [^6] [^18] [^19]: What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-Ecological Perspective[^6]: Interestingly, to me, most of the key observations in articles from this context could be applied to both ecological and socioeconomic aspects of nighttime. I added the possible relevance for the socioeconomic sector in brackets behind the original arguments I took from my ecological readings:
+Ecological Perspective[^3] [^6] [^7] [^8] [^20]: Interestingly, to me, most of the key observations in articles from this context could be applied to both ecological and socioeconomic aspects of nighttime. I added the possible relevance for the socioeconomic sector in brackets behind the original arguments I took from my ecological readings:
 
 - Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. I'd argue (night-)culture plays a critical role in societal balance. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development)*.
 - Its significance is frequently underestimated, leading to its underrepresentation in ecological considerations *(...and in urban planning discussions).*
@@ -99,9 +99,9 @@ But to me, could not the viewpoint and angle be a difficult fit from a start:
 
 ***What if the non-monetary benefits that both culture and nature bring to urban environments significantly outweigh their economic benefits?*** *Imagine the value of spending time with friends under a leafy tree outside a charming café, or the lasting memories created from a night out at a lively bar or club. How do we quantify these experiences? For those of us reflecting on our youth, how significant are these memories for you?*
 
-Yet, either way you turn it: In the real world as of now, there’s no escaping economic metrics. Even if economic benefits are not the target of the things you try to set in motion with culture and green city development.
+Yet, either way you turn it: **In the real world as of now, there’s no escaping economic metrics.** Even if economic benefits are not the target of the things you try to set in motion with culture and green city development.
 
-***Change comes gradually. And we may try being a part of it :)...***
+***But change comes gradually. And we may try being a part of it :)...***
 
 [^19]: Cool article on how long the idea of having a dashboard to grasp ongoings in a city is out there: Shannon Mattern, [“Mission Control: A History of the Urban Dashboard,” Places Journal, March 2015. https://doi.org/10.22269/150309](https://doi.org/10.22269/150309).
 
@@ -115,7 +115,7 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 - **Small-Scale Conflict Mediation Dominates** - In the realm of nightlife and socioeconomics, the focus often remains on resolving [immediate, localised conflicts](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/ruido-y-ocio-nocturno-un-conflicto-de-intereses-o-un-problema-de-salud-publica-/8028620/0) (e.g., between a bar, a restaurant and its neighbourhood) rather than fostering broader synergies that could benefit the city as a whole. Again, because the link mentioned above is seldom systematically made.
 
-- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and its collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *[An example here could be the 'light pollution' debate](https://data.europa.eu/doi/10.2779/906521) [^10] , which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this. (please see footnotes)[^12] [^13] [^14]*. Also within each sphere the prevailing discourses focus on *conflict resolution* rather than *creation of synergies* [^10] [^18] [^6].
+- **Focus on Conflict Resolving rather than on Synergies** - In the topic, discussions often circulate around human activity and its collision with the needs of ecology. Focussing on the conflicts can lead to a further mismatch between needs of ecology and current urban and economic realities. Realigning the focus on the development of synergies could possibly have a greater impact and positive entanglement of societal and ecological advocates. *[An example here could be the 'light pollution' debate](https://data.europa.eu/doi/10.2779/906521) [^10] , which is one of the center discourses in the field. It is a crucial topic to address. Yet, I think it is a term that inherently suggests conflict rather than cooperation between human needs and environmental considerations[^11]. Put very simply: Nature wants it dark, humans want it illuminated. It requires a lot of negiotiation and education to change this (please see footnotes[^12] [^13] [^14])*. Also within each sphere the prevailing discourses focus on *conflict resolution* rather than *creation of synergies* [^10] [^18] [^6].
 
 
 [^10]: Maybe it is so prominent because it is one of the clearest links when thinking about a natural night (dark) and nightly human activity (illuminated). Notably, research indicates that reducing urban lighting does not necessarily correlate with increased crime rates. Yet a fear of removing lighting persists, deeply ingrained in human and societal concerns about darkness. Since this is deeply engrained, it is certainly not easy convincing people otherwise, even the most rational beings. Interesting and controversially discussed read: Zhong CB, Bohns VK, Gino F. [Good lamps are the best police: darkness increases dishonesty and self-interested behavior.](https://pubmed.ncbi.nlm.nih.gov/20424061/) Psychol Sci. 2010 Mar;21(3):311-4. doi: 10.1177/0956797609360754.
@@ -131,7 +131,7 @@ Through my experiences in both sustainability and socioeconomic sectors of city 
 
 ### The Benefits - What Do Culture and Ecology Offer, Why Are They Both Vital for Cities?
 
-Both culture and ecology significantly enrich urban life, providing a host of amenities that [enhance the liveability and appeal of cities](https://www.euronews.com/next/2023/08/18/vienna-named-worlds-most-liveable-city-again-in-2023-other-european-cities-slipped-out-of-). These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies.
+Both culture and ecology significantly enrich urban life, providing a host of amenities that [enhance the liveability and appeal of cities](https://www.euronews.com/next/2023/08/18/vienna-named-worlds-most-liveable-city-again-in-2023-other-european-cities-slipped-out-of-)[^2]. These two spheres are fundamental to the attractiveness of urban areas, influencing not only the residents and visitors but also playing a crucial role in where people choose to reside, especially in Western societies.
 
 Fair enough, but here I want to make a bold and (to me) straightforward assumption, that culture and ecology both are at the very core of why some cities continue to thrive while others descend:
 
@@ -141,7 +141,7 @@ Fair enough, but here I want to make a bold and (to me) straightforward assumpti
 
 ![Figure both Spheres next to each other](assets/images/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
 
-For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc) that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. **Without those, a city will only poorly function.**
+For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc)[^2] that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. **Without those, a city will only poorly function.**
 
 The Figure above hightlights the individual role of socioeconomics and ecology within the urban system ... ***What could be possible if we try bridging and synergising both?***
 
@@ -183,7 +183,7 @@ Blind Woman: "And you can?"
 
 The joke is, that the driver soon has an accident after this talk.
 
-To me, this dialogue set in motion a stream of thought. I see that this could be understood as metaphor for the topic of this blog post. *Urban development has perhaps been 'blind'* to the full potential night and culture have to offer. With the urban re-greening initiatives underway but in a rather ambient pace, also *urban development may does not 'see'* the full beneficial value of re-naturing cities.
+To me, this dialogue set in motion a stream of thought. I see that this could be understood as metaphor for the topic of this blog post. *Urban development has perhaps been 'blind'* to the full potential night and culture can offer. With the urban re-greening initiatives underway but in a rather ambient pace, also *urban development may does not 'see'* the full beneficial value of re-naturing cities.
 
 Earlier this year, I attended the *["Blind Date with Stuttgart"](https://www.stadtpalais-stuttgart.de/ausstellungen/blind-date-mit-stuttgart)* exhibition, an event that transformed participants' understanding of their environment by navigating a replica of common places in Stuttgart in complete darkness. We were guided by blind individuals. It was unimaginable how difficult I found it to find my way. *I and the other participants had to rely on our other senses - feeling, hearing and scenting.*
 
