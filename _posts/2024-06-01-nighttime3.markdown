@@ -28,7 +28,7 @@ I will start with an overview of who/what/ and why? and then by the example of g
 
 cha
 
-### Next Post: Practical Implementation of the Theory (published individually):
+### UNDER DEVELOPMENT Next Post: Practical Implementation of the Theory (published individually):
 
 
 
