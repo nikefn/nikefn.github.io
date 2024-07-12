@@ -13,7 +13,7 @@ category: blog
 blog: true
 author: niklaseffenberger
 description: Seeing in the Dark - Nighttime’s Potential in Urban Innovation
-permalink: nighttime2
+permalink: nighttime3
 ---
 
 You will see: These thoughts do not go about taking the fun ouf the night, but about bringing the fun into the sustainable city development through a genuine linkage of both worlds.
