@@ -11,7 +11,7 @@ tag:
 category: blog
 blog: true
 author: niklaseffenberger
-description: Seeing in the Dark - Nighttime’s Potential in Urban Innovation
+description: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 permalink: nighttime2
 ---
 
