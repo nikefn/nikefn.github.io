@@ -20,7 +20,7 @@ permalink: nighttime2
 *This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.*
 
 
-
+cha
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
@@ -45,11 +45,11 @@ With insights from colleagues at [Fraunhofer](https://blog.iao.fraunhofer.de/lic
 
 ### The Night: Why Is It Underrepresented?
 
-The [figure below summarises the key points](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.jpg) drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following[^19].
+The [figure below summarises the key points](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.png) drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following[^19].
 
 [^19]: Please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.jpg)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.png)*Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
 ***What literature says:***
 
