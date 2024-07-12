@@ -2,7 +2,7 @@
 title: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 layout: post
 date: 2024-07-10 23:48
-image: assets/images/blog-night/white-dwarf-nasa.webp
+image: https://nikefn.github.io//assets/images/blog-night/white-dwarf-nasa.webp
 headerImage: true
 tag:
 - blog
@@ -47,7 +47,7 @@ The [figure below summarises the key points](https://nikefn.github.io//assets/im
 
 [^21]: Please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](assets/images/blog-night/noct-ecosocio.png) *Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.png) *Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
 ***What literature says:***
 
@@ -137,7 +137,7 @@ Fair enough, but here I want to make the bold and (to me) straightforward assump
 - ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 - ***What happens if a city is not healthy for its inhabitants or for them to raise their kids? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 
-![Figure both Spheres next to each other](assets/images/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
+![Figure both Spheres next to each other](https://nikefn.github.io//assets/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
 
 For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc)[^2] that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. **Without those, a city will only poorly function.**
 
@@ -149,7 +149,7 @@ The Figure above hightlights the individual role of socioeconomics and ecology w
 
 ### Finding Ways Forward - Finding the Synergies
 
-![Nocturnal Ecology and Nocturnal Socioeconomics in Synergy](assets/images/blog-night/noct-synergies.png)*Proposition: Green Urbanism and Night-Culture in Synergy to enhance the Urban System as a whole.*
+![Nocturnal Ecology and Nocturnal Socioeconomics in Synergy](https://nikefn.github.io//assets/images/blog-night/noct-synergies.png)*Proposition: Green Urbanism and Night-Culture in Synergy to enhance the Urban System as a whole.*
 
 ***Okay, good we know now.... But what do?!***
 
