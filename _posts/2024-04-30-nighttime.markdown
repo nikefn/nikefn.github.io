@@ -76,6 +76,7 @@ In the aftermath of this conference I intensified my reading with the texts by [
 
 ---
 This post has been published on under the same title on [Nighttime.org](https://www.nighttime.org/features/my-personal-night-shift-finding-out-about-the-importance-of-a-topic/)
+
 ---
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. See also [description of our panel](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
