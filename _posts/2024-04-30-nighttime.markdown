@@ -13,6 +13,7 @@ blog: true
 author: niklaseffenberger
 description: Nighttime-Culture and Sustainable City Transformation going hand in hand
 permalink: nighttime
+published: true
 ---
 
 
@@ -72,6 +73,10 @@ In the aftermath of this conference I intensified my reading with the texts by [
 *As 2024 goes on, with the help of my supervisors we could set-up a consortium on green soundproofing and start with the development of the 'Industry Network -Smart City @ Night-'. Several other ideas are in the pipeline and I'd be so happy to share and possibly get -you, reading this text- on board :).*
 
 *I will continue with the concepts we came up with in my next blog post - Thanks for reading; btw - this is my first blogpost, yay*
+
+---
+This post has been published on under the same title on [Nighttime.org](https://www.nighttime.org/features/my-personal-night-shift-finding-out-about-the-importance-of-a-topic/)
+---
 
 [^1]: Thanks to my sponsors allowing me to participate at SXSW - [Lutz and Vibelab](https://vibe-lab.org/#meettheteam) for the invitation and the ongoing inspiring discussions. And to [The German Center for Research and Innovation New York](https://www.dwih-newyork.org/en/event/vibelab-sxsw-2024/) for the financial support. See also [description of our panel](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/).
 
