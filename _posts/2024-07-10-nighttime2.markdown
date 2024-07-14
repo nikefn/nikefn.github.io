@@ -137,7 +137,7 @@ Fair enough, but here I want to make the bold and (to me) straightforward assump
 - ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 - ***What happens if a city is not healthy for its inhabitants or for them to raise their kids? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 
-![Figure both Spheres next to each other](https://nikefn.github.io//assets/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
+![Figure both Spheres next to each other](https://nikefn.github.io//assets/images/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
 
 For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc)[^2] that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. **Without those, a city will only poorly function.**
 
