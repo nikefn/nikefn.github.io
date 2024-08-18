@@ -37,9 +37,9 @@ layout: page
 <ul>
 
 	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
-	<li>Fahrrad.de Advertisement and Commuting by (E-)Bike up the hill</li>
+	<li><a href="https://www.youtube.com/watch?v=6Eh5f7ukc6E&list=PLzC6SrXE0xPfQoT9Gz9BBhwsRp57vjJES">Fahrrad.de Advertisement</a> and Commuting by (E-)Bike up the hill</li> 
 	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
-	<li>Kitchen Stories from Wagenhallen Stuttgart</li>
+	<li>Working in Wagenhallen Kitchen</li>
 	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
 	<li>My  <a href="https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=drive_link" target="_blank">Master Thesis on 'The Governance of Nature-Based Solutions'</a> (if you're interested also see a <a href="https://www.youtube.com/watch?v=jGKvAwy1X8k" target="_blank">video of its presentation</a>, I held during a research visit at the <a href="https://ace.aua.am/gates/" target="_blank">American University of Armenia</a>)</li>
 	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
