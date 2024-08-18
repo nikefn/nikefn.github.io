@@ -7,7 +7,7 @@ layout: page
 <p>Hi, I'm Niklas. I enjoy exploring the intersection between nature and urban spaces, working at <a href="https://www.morgenstadt.de/de/ueberuns/team.html" target="_blank">Fraunhofer IAO</a> within the Urban Systems Engineering and <a href="https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering.html" target="_blank">Urban Governance Innovation team</a>. My role allows me to engage with a variety of people, valuing diverse perspectives and collaborative efforts towards sustainable advancements. Outside my project work, I'm passionate about brainstorming new ideas, such as enhancing nocturnal urban landscapes by exploring possible synergies between nocturnal ecology and nocturnal socioeconomics.</p>
 
 
-<p>On this site, you'll find both my professional journey, <a href="https://drive.google.com/file/d/1DZwtX85GwfLYoGGXAmMtg9I6XnlcO1NF/view?usp=sharing" target="_blank">including my CV</a> and details about <a href="https://nikefn.github.io/projects/">my projects</a> at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler" target="_blank">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
+<p>On this site, you'll find both my professional journey, <a href="https://drive.google.com/file/d/1lrDHhQwjOjhAoPAMI8Oztw3hmmaoK1M9/view?usp=share_link" target="_blank">including my CV</a> and details about <a href="https://nikefn.github.io/projects/">my projects</a> at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler" target="_blank">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
 
 
 
