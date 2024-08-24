@@ -1,7 +1,7 @@
 ---
 title: "My Academic Quest - Bridging Metrics and Meaning"
 layout: post
-date: 2024-08-24 03:42
+date: 2024-07-24 01:42
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
@@ -12,7 +12,7 @@ category: blog
 blog: true
 author: niklaseffenberger
 description: "Exploring the personal journey and motivation behind my doctoral research."
-permalink: /personal-motivation/
+permalink: pers-motivation
 ---
 
 *Header-Image Credit: [NASA Images at the Internet Archive](https://archive.org/details/AS11-44-6548)*
