@@ -1,5 +1,5 @@
 ---
-title: "My Academic Quest: Bridging Metrics and Meaning"
+title: "My Academic Quest - Bridging Metrics and Meaning"
 layout: post
 date: 2024-08-24 03:42
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
@@ -11,7 +11,7 @@ tag:
 category: blog
 blog: true
 author: niklaseffenberger
-description: Exploring the personal journey and motivation behind my doctoral research.
+description: "Exploring the personal journey and motivation behind my doctoral research."
 permalink: /personal-motivation/
 ---
 
