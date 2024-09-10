@@ -1,7 +1,7 @@
 ---
-title: "My Academic Quest - Bridging Metrics and Meaning"
+title: "The Journey to My Dissertation Exposé"
 layout: post
-date: 2024-07-24 01:42
+date: 2024-09-13 01:42
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
@@ -33,15 +33,13 @@ I am currently developing the exposé for my upcoming dissertation at [Fraunhofe
 
 As the title suggests, my research aims to explore the metrics and indicators used to assess and guide urban systems, with a particular focus on the interaction between quantitative or *numerical* metrics and qualitative indicators rooted in *narrative* data.
 
-In the management of complex human systems, such as cities, economic metrics often dominate decision-making processes. However, these metrics frequently fall short in sectors where economic gains are not the primary focus; such as culture, urban nature and most sustainability-related subjects. This gap has long been recognised, as seen in discussions around concepts like the 'Tragedy of the Commons'[^1]. This gap has long been recognised, as seen in discussions around concepts like the ''T'ragedy of the Commons'. To address this, recent decades have witnessed the development of alternative, often complex, metrics and indicators aimed at capturing the value of these overlooked sectors[^2] [^3].
+In the management of complex human systems, such as cities, economic metrics often dominate decision-making processes. However, these metrics frequently fall short in sectors where economic gains are not the primary target; such as culture, urban nature and most sustainability-related subjects ([see e.g. here](https://nikefn.github.io//nighttime2/))[^8]. This gap has long been recognised, as seen in discussions around concepts like the 'Tragedy of the Commons'[^1]. To address this, recent decades have witnessed the development of alternative metrics and indicators aimed at capturing the value of these overlooked sectors[^2] [^3] [^5].
 
-The logic behind this approach seems clear: If economics drive our current socioeconomic system, then anything that traditional economic metrics struggle to quantify should be made to fit within that framework, even if this requires increasing complexity in the indicators and metrics used. This approach seeks to provide decision-makers with a comprehensive overview, much like the GDP concept, which presents a seemingly neutral and easy-to-grasp number[^4].
+This approach tries to give decision-makers seemingly neutral numbers or charts, much like traditional economic metrics, but specifically designed to include previously overlooked sectors[^4]. The logic behind this approach seems clear: If economics drive our current socioeconomic system, anything that traditional economic metrics struggle to quantify — such as culture, nature, or human well-being — needs to be adapted to fit within the established monetary framework. There is a wide agreement on the importance of these sectors and the importance of taking them into account in decision-making (e.g. see the [UN Declaration on SDGs](https://sdgs.un.org/goals)[^9].
 
-As a result, one can observe a growing complexity in these indicators and metrics, as well as an increasing number of them, each attempting to provide the right answers and ensure that overlooked sectors receive the importance they deserve in decision-making[^5]. My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila, analysed an incredible number of 1,500 *smart and sustainable* city indicators in his dissertation to understand how they contribute to sustainable urban development[^7].
+The challenge lies in developing these alternative metrics without excessively increasing complexity. Given the complexities of the world — including site-specific characteristics and differences between cities, administrations and people — an ever-growing number of metrics has emerged in an attempt to address these questions in the right form, for the right question at a given location. And not only has the number of alternative metrics increased, but but also their complexity as more aspects of real-world conditions are taken into account to address the above mentioned sectors. This makes it difficult to keep track of the different available approaches, to understand which metrics and indicators to use when, how to correctly apply them and where possible pitfalls might lie. My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila, analysed an incredible number of 1,500 *smart and sustainable* city indicators in his dissertation [Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat) to understand how they contribute to sustainable urban development[^7].
 
-But despite this significant expansion of these alternative indicators and metrics, the anticipated transition to sustainability remains intangible and slow-moving[^6].
-
----
+And here's the thing: Despite this significant expansion of these alternative indicators and metrics, the anticipated transition to sustainability remains intangible and slow-moving[^6].
 
 [^1]: Ostrom, E. (1990). [*Governing the Commons: The Evolution of Institutions for Collective Action*](https://www.cambridge.org/core/books/governing-the-commons/260D8E5C0B510F86DC3A7C724BAFF941). Cambridge University Press.
 [^2]: Meadows, D. H., Randers, J., & Meadows, D. L. (2004). [*Limits to Growth: The 30-Year Update*](https://www.chelseagreen.com/product/the-limits-to-growth/). Chelsea Green Publishing.
@@ -50,10 +48,8 @@ But despite this significant expansion of these alternative indicators and metri
 [^5]: Raworth, K. (2017). [*Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*](https://www.chelseagreen.com/product/doughnut-economics/). Chelsea Green Publishing.
 [^6]: Rockström, J., Steffen, W., Noone, K., et al. (2009). [*A safe operating space for humanity*](https://www.nature.com/articles/461472a). Nature, 461(7263), 472-475.
 [^7]: Huovila, A. (2024). *Evaluation of Smart and Sustainable City Development: What Indicators Matter?* VTT Technical Research Centre of Finland. Available at: https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat
-
-
-
----
+[^8]: equally present in less frequently considered areas of urban life, such as the urban night, its culture and the ecology that unfolds after dark: Link to a previous blogpost: *"Seeing in the Dark - Nighttime’s Potential in Urban Innovation"* [https://nikefn.github.io//nighttime2/](https://nikefn.github.io//nighttime2/).
+[^9]: The SDGs were adopted by 193 UN member states in 2015 as part of the 2030 Agenda for Sustainable Development. They aim to tackle global issues like poverty and environmental degradation. To measure progress, the UN relies on a set of indicators to ensure countries are on track towards meeting these goals.
 
 
 ## My Journey Towards Understanding Qualitative Research
