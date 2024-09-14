@@ -92,7 +92,11 @@ When I joined [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) to work in
 
 After completing my Master’s, I joined the [Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en/) at Hohenheim, where I regularly attended a PhD colloquium. Listening to other students present their research and how they combine and apply both quantitative and qualitative methods in diverse contexts around the world helped me better understand the variety of contexts in which qualitative methods could be applied. This deepened my appreciation for these approaches. I also participated in the Chair’s journal club and began teaching seminars to Bachelor’s students, sharing what I had learned.
 
-Another turning point came when I attended the [ALTER-Net Summer School](https://www.alter-net.info/summer-school/). There, I observed a clear divide between researchers who relied on quantitative data and those who used qualitative methods. This made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
+Another turning point came when I attended the [ALTER-Net Summer School](https://www.alter-net.info/summer-school/). There, I observed a clear divide between researchers who relied on quantitative data and those who used qualitative methods.
+
+ Growing up in a natural-science based, logical reasoning and enlightment thinking/Humboldtian education system I think that for many of us it is just easier to follow and support straighforward calculations than ever complex reasonings behind "wicked" topics of sustainability approached with methods of social science. Yet This made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
+
+ This made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
 Over time, I’ve come to see that both quantitative and qualitative methods have their own strengths and limitations. The challenge, as I see it, is finding effective ways to combine them.
 
