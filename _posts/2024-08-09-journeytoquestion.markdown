@@ -19,7 +19,7 @@ permalink: pers-motivation
 
 ---
 
-## Dissertation Proposal: *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*
+### Dissertation Proposal: *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*
 
 ---
 
@@ -56,11 +56,14 @@ My interest in this topic didn’t develop overnight. It has taken time and I’
 [^9]: The SDGs were adopted by 193 UN member states in 2015 as part of the 2030 Agenda for Sustainable Development. They aim to tackle global issues like poverty and environmental degradation. To measure progress, the UN relies on a set of indicators to ensure countries are on track towards meeting these goals.
 
 
-## My Journey Towards Understanding Qualitative Research
+#### My Journey Towards Understanding Qualitative Research
 
 In the past, I worked with both quantitative and qualitative methods, but over time I began to see the limitations of relying only on numbers. This realisation didn’t come overnight; it took me quite some time to understand where and how qualitative research excels. Only slowly, I came to fully appreciate the value that qualitative research brings.
 
 While reflecting, I realised that this subject had been on my mind for quite a while, though I wasn’t always able to express it clearly. Over the last year, after much thought and exploration, I’ve developed a clearer sense of the direction I want to take in my dissertation. My interest and my aim is to find ways to give greater emphasis to areas like urban nature, culture, and knowledge in urban development, rather than focusing only on economic factors as bottom-line for decision-making.
+
+
+###### Educational Background and Early Experiences
 
 When I started my Bachelor’s in [Renewable Resources and Bioenergy](https://www.uni-hohenheim.de/en) at the [University of Hohenheim](https://www.uni-hohenheim.de/en), I was very much focused on numbers and facts. The natural sciences — biology, chemistry, and the like — reinforced this way of thinking. I believed that data, calculations and statistics were the most reliable way to understand the world’s questions. This belief was strenghtened during my time as a student assistant at the [Life-Cycle Engineering Department GaBi](https://www.iabp.uni-stuttgart.de/gabi/) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/), where I got a glimpse into Life-Cycle Assessment (LCA) models of materials, products, and services. These models were highly detailed and well thought out, which fascinated me.
 
@@ -79,6 +82,7 @@ Also, LCAs dealing with ex-post analysis about products and services and future 
 
 [^c]: Clark, M., & Tilman, D. (2017). *Comparative analysis of environmental impacts of agricultural production systems, agricultural input efficiency, and food choice*. Environmental Research Letters, 12(6), 064016. Available at: [https://doi.org/10.1088/1748-9326/aa6cd5](https://doi.org/10.1088/1748-9326/aa6cd5).
 
+###### Exposure to Qualitative Methods in Practice
 
 A key experience in my journey came during my time studying in Clermont-Ferrand in France in the programme *['Ingéniérie de Dévéloppement Territorial'](https://www.vetagro-sup.fr/formations/ingenieur-agronome/deroulement-des-etudes/)*. The class involved working closely with towns and cities, using methods like expert interviews, group discussions, SWOT analysis and scenario planning. Applying those methods in a real-world context, in another country and setting; struggling with the language and understanding; having to re-read everything multiple times and asking countless and endless questions; helped me a lot in gaining a deeper appreciation for qualitative methods and their value beyond just numbers.
 
@@ -90,6 +94,7 @@ I eventually finished my Bachelor's and then began my [Master’s in Bioeconomy]
 When I joined [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) to work in the [UNaLab Project](https://unalab.eu/) (Urban Nature Labs, a Horizon 2020 EU project on Nature-Based Solutions), my appreciation for qualitative methods continued to grow. For my Master’s thesis on ["The Governance of Nature-Based Solutions"](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=drive_link), I used qualitative methods such as expert interviews and grounded theory to better understand governance in urban re-greening. This experience helped me see how much can be uncovered through qualitative approaches, going beyond what numbers can show.  I was highly encouraged by the feedback (and by receiving the best grade hehe). It reassured me that this was a path worth pursuing further.
 
 
+
 After completing my Master’s, I joined the [Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en/) at Hohenheim, where I regularly attended a PhD colloquium. Listening to other students present their research and how they combine and apply both quantitative and qualitative methods in diverse contexts around the world helped me better understand the variety of contexts in which qualitative methods could be applied. This deepened my appreciation for these approaches. I also participated in the Chair’s journal club and began teaching seminars to Bachelor’s students, sharing what I had learned.
 
 Another turning point came when I attended the [ALTER-Net Summer School](https://www.alter-net.info/summer-school/). There, I observed a clear divide between researchers who relied on quantitative data and those who used qualitative methods.
@@ -98,8 +103,9 @@ Another turning point came when I attended the [ALTER-Net Summer School](https:/
 
  This made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
+###### Balancing Quantitative and Qualitative Approaches
 
- Growing up in a natural-science based, logical reasoning and enlightenment thinking education system, I think that maybe it was just easier for me to follow and support straightforward calculations than detailed and long reasonings with methods of social science. Yet, this made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
+ Growing up in a natural-science-based education system that emphasised logical reasoning and empirical methods, I think that maybe it was just easier for me to follow and grasp straightforward calculations than detailed and long reasonings with methods of social science. Yet, this made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
  Looking back, I see how much my thinking has changed.
  Over time, I’ve come to see that both quantitative and qualitative methods have their own strengths and limitations. Also, over time, I’ve come to recognise the essential role that qualitative research plays in addressing complex issues. My experiences have shaped a research question that I now feel deeply passionate about: How can we further strengthen important topics like culture, nature, and knowledge in city development? And how can we make sure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
