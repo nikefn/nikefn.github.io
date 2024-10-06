@@ -1,7 +1,7 @@
 ---
 title: "The Journey to My Dissertation Exposé"
 layout: post
-date: 2024-10-13 01:42
+date: 2024-10-20 01:42
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
@@ -28,33 +28,31 @@ permalink: pers-motivation
 > — Aristotle
 
 
-I am currently developing the proposal for my upcoming dissertation at the [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) and the [Department of Urban Systems Engineering](https://www.iao.fraunhofer.de/de/forschung/forschungsbereiche/stadtsystem-gestaltung.html), entitled *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development."*
+I am currently developing the proposal for my upcoming dissertation at [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) and the [Department of Urban Systems Engineering](https://www.iao.fraunhofer.de/de/forschung/forschungsbereiche/stadtsystem-gestaltung.html), titled *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*.
 
 As the title suggests, my research focuses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
-Managing complex human systems like cities often revolves around economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, such as culture, urban nature and most sustainability-related topics. This gap has been recognised for quite some time, as demonstrated in debates about concepts like the 'Tragedy of the Commons' - a situation where individuals acting independently according to their self-interest can ultimately deplete shared resources, despite understanding that depleting the common resource is against everyone's long-term best interests.[^1]
+Managing complex human systems like cities often revolves around economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, such as culture, urban nature and most sustainability-related topics. This fundamental gap of economic theory has been recognised for quite some time [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the 'Tragedy of the Commons'.[^1]
 
-To address this issue, alternative metrics and indicators have been developed in recent decades to better account for the value of these often neglected sectors.[^2][^3][^4] The idea behind these alternative approaches is to provide decision-makers with seemingly neutral figures or charts, similar to traditional economic metrics but designed to include the previously overlooked areas.
+To address this gap, alternative metrics and indicators have been developed in recent decades to better account for the value of these often neglected sectors.[^2][^3][^4] The idea behind these alternative approaches is to provide decision-makers with seemingly neutral figures or charts, similar to traditional economic metrics but designed to include the previously overlooked areas.
 
-There is broad consensus on the significance of these sectors and the need to include them in decision-making, as evidenced by the [United Nations' Declaration on Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).[ ^5 ]
+There is broad consensus on the significance of these sectors and the need to include them in decision-making, see e.g. the internationally ratified [United Nations' Declaration on Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).[^5]
 
-However, the difficulty lies in developing these alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world is inherently complex, with its diverse cities, administrations, people and site-specific characteristics. As a result, there is a growing number of metrics designed to fit specific questions or locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
+However, the difficulty lies in developing these alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. As a result, there is a growing number of metrics designed to fit specific questions or locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
 
-My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila, examined an impressive collection of 1,500 *smart and sustainable* city indicators in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators Matter?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6]
+An impressive testimony of this development is the excellent dissertation of my colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila. Aapo examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators Matter?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6].
 
 > **Yet, despite all this progress in developing alternative indicators and metrics, the long-awaited shift towards sustainability at scale remains elusive.**[^7]
 
 This brings me to my central question: What can we learn from this development and are there alternative pathways that might offer more insights?
 
-My interest in this topic did not develop overnight. It has taken time and I would like to share how my thoughts have evolved.
+... My interest in this topic did not develop overnight. It has taken time and I would like to share how my thoughts have evolved...
 
 ### My Journey Towards Understanding Qualitative Research
 
-#### Initial Emphasis on Quantitative Methods
-
 In the past, I worked with both quantitative and qualitative methods, but over time I began to see the limitations of relying solely on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
 
-While reflecting, I realised that this subject had been on my mind for quite a while, though I was not always able to express it clearly. Over the last year, after much thought and exploration, I have developed a clearer sense of the direction I want to take in my dissertation. My aim is to find ways to give greater emphasis to areas like urban nature, culture and knowledge in urban development, rather than focusing only on economic factors as the bottom line for decision-making.
+While reflecting, I realised that this subject had been on my mind for quite a while, though I was not always able to express it clearly. Over the last year, after much thought and exploration, I could develop a clearer sense of the direction I want to take in my dissertation. Ultimately, my aim is to find ways to give greater emphasis to areas like urban nature, culture, knowledge and *qualitative* factors in urban development that are usually hard to measure. Of course rather than focusing only on economic factors as the bottom line for decision-making.
 
 #### Educational Background and Early Experiences
 
@@ -86,7 +84,7 @@ Over time, I have come to see that both quantitative and qualitative methods hav
 
 ## References
 
-[^1]: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248.
+[^1]:  A situation where individuals acting independently according to their self-interest can ultimately deplete shared resources, despite understanding that depleting the common resource is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248.
 
 [^2]: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
 
@@ -103,3 +101,5 @@ Over time, I have come to see that both quantitative and qualitative methods hav
 [^8]: Clark, M., & Tilman, D. (2017). *Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency and Food Choice*. Environmental Research Letters, 12(6), 064016.
 
 [^9]: Danish Environmental Protection Agency. (2018). *Life Cycle Assessment of Grocery Carrier Bags*. Environmental Project No. 1985. Available at: [https://www2.mst.dk/Udgiv/publications/2018/02/978-87-93529-80-4.pdf](https://www2.mst.dk/Udgiv/publications/2018/02/978-87-93529-80-4.pdf).
+
+[^10]: Knut Wicksell, a Swedish economist disucussed the concept as early as 1896: [https://en.wikipedia.org/wiki/Knut_Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell).
