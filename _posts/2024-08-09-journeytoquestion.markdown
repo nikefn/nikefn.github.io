@@ -80,7 +80,7 @@ Another turning point came when I attended the [ALTER-Net Summer School](https:/
 
 Growing up in an education system based on the natural sciences that emphasised logical reasoning and empirical methods, I found it easier to follow and grasp straightforward calculations than detailed reasonings with methods of social science. Yet, this made me realise that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
-Over time, I have come to see that both quantitative and qualitative methods have their own strengths and limitations. Integrating both approaches can offer a more comprehensive understanding of complex issues like urban development. My experiences have shaped a research question that I now feel deeply passionate about: How can we further strengthen important topics like culture, nature and knowledge in city development? And how can we ensure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
+Over time, I have come to see that both quantitative and qualitative methods have their own strengths and limitations. Integrating both approaches can offer a more comprehensive understanding of complex issues like urban development. My experiences have shaped a research question that I now feel deeply passionate about: How can we further strengthen important topics that are hard to quantify. Like culture, nature and knowledge in city development? And how can we ensure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
 
 ## References
 
