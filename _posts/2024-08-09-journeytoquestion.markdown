@@ -30,7 +30,7 @@ permalink: pers-motivation
 
 I am currently developing the proposal for my upcoming dissertation at [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) and the [Department of Urban Systems Engineering](https://www.iao.fraunhofer.de/de/forschung/forschungsbereiche/stadtsystem-gestaltung.html), titled *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*.
 
-As the title suggests, my research focuses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
+As the title suggests, my research idea focuses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
 Managing complex human systems like cities often revolves around economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, such as culture, urban nature and most sustainability-related topics. This fundamental gap of economic theory has been recognised for quite some time [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the 'Tragedy of the Commons'.[^1]
 
