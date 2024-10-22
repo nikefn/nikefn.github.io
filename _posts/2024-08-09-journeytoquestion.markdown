@@ -1,7 +1,7 @@
 ---
 title: "The Journey to My Dissertation Exposé"
 layout: post
-date: 2024-10-20 01:42
+date: 2024-10-31 01:42
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
@@ -84,7 +84,7 @@ Over time, I have come to see that both quantitative and qualitative methods hav
 
 ## References
 
-[^1]:  A situation where individuals acting independently according to their self-interest can ultimately deplete shared resources, despite understanding that depleting the common resource is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248.
+[^1]:  A situation where individuals acting according to their self-interest can ultimately deplete shared resources, despite understanding that depleting these common resources is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248.
 
 [^2]: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
 
