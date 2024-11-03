@@ -75,7 +75,7 @@ What an honour: We were awarded with a sustainability award by the Environmental
 
 <div class="breaker"></div>
 
-Check out the [leaflet](assets/images/proj-personal/ntag/Leaflet_Nachhaltigkeitstag.pdf) and [documentation](assets/images/proj-personal/ntag/Dokumentation_Nachhaltigkeitstag.pdf) docs I wrote at the time.
+Check out the [leaflet](https://drive.google.com/file/d/1mqXZMGzWSxUPVbC5XvmGtjpm41Z-A81H/view?usp=drivesdk) and [documentation](https://drive.google.com/file/d/1y9qp7UplodiLqaTJqStvfKSVdtJvk3cX/view?usp=drivesdk) docs I wrote at the time.
 
 <div class="breaker"></div>
 
