@@ -32,7 +32,7 @@ I am currently developing the proposal for my upcoming dissertation at [Fraunhof
 
 As the title suggests, my research idea focusses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
-Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. 
+Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics.
 
 Think for example of a city that might show a strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the cities' cultural richness - factors that are inherently qualitative.
 
@@ -40,7 +40,7 @@ This fundamental gap of economic theory has been recognised for quite a while [^
 
 To address this gap, new, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors by incorporating qualitative data alongside quantitative measures[^2] [^3] [^4]. They attempt to bridge the gap by combining quantitative data, like numerical indicators of economic performance, with qualitative insights that include the nuances of e.g. cultural significance, community well-being and environmental health. The idea behind these alternative approaches is to provide decision-makers with neutral figures and charts, similar to those from traditional economic metrics, but designed to include the previously overlooked areas.
 
-However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately. 
+However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately.
 
 As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
 
@@ -86,13 +86,23 @@ And here I am:
 
 Growing up in an education system based on the natural sciences that emphasised logical reasoning and empirical methods, I found it easier to follow and grasp straightforward calculations than detailed reasonings done with methods of social science. Yet, in the past years I realised that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
-While quantitative metrics offer clarity and comparability, they sometimes are a difficult fit to capture the qualitative nuances of urban life. 
+While quantitative metrics offer clarity and comparability, they sometimes are a difficult fit to capture the qualitative nuances of urban life.
 
 My research aims to find methodologies that effectively integrate both, providing a more balanced framework for decision-making in urban development. My experiences have shaped a research question that I now feel deeply passionate about:
 
  How can we further strengthen important topics that are hard to quantify. Like culture, nature and knowledge in city development? And how can we ensure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
 
  Let's see :)...
+
+---
+
+[Check out the presentation I held for our PhD colloquium](https://drive.google.com/file/d/1nh3fD4GcnvVC-dEf8xmPjPTolreJk5Zv/view?usp=sharing)
+
+---
+
+
+
+
 
 ## References
 
