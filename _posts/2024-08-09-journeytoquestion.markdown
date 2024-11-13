@@ -50,7 +50,7 @@ My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo H
 
 This brings me to my central question: What can we learn from the development of these metrics? And are there alternative pathways to integrate qualitative narratives with quantitative goals?
 
-... My interest in this topic and on the interplay of quantitative and qualitative research did not develop overnight. It has taken time and I would like to share how my thoughts have evolved.
+... My interest in this topic and on the interplay of quantitative and qualitative research did not develop overnight. It has taken time and I would like to share how my thoughts evolved:
 
 ### My Journey Towards Understanding Qualitative Research
 
