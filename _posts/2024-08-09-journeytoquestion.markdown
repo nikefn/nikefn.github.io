@@ -1,7 +1,7 @@
 ---
 title: "The Journey to My Dissertation Exposé"
 layout: post
-date: 2024-11-01 13:00
+date: 2024-11-13 13:00
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
