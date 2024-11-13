@@ -34,7 +34,7 @@ As the title suggests, my research idea focusses on the metrics and indicators u
 
 Managing complex human systems like cities often turns around economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
 
-To address this gap, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors.[^2] [^3] [^4] The idea behind these alternative approaches is to provide decision-makers with seemingly neutral figures and charts, similar to traditional economic metrics, but designed to include the previously overlooked areas.
+To address this gap, new metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors.[^2] [^3] [^4] The idea behind these alternative approaches is to provide decision-makers with neutral figures and charts, similar to those from traditional economic metrics, but designed to include the previously overlooked areas.
 
 There is broad consensus on the significance of these sectors and the need to include them in decision-making, as proven by e.g. the internationally ratified [United Nations' Declaration on Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).[^5]
 
