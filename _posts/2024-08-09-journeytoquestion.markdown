@@ -34,7 +34,7 @@ As the title suggests, my research idea focusses on the metrics and indicators u
 
 Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. 
 
-Maybe think that a city might show a strong economic growth in quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the cities' cultural richness - factors that are inherently qualitative.
+Think for example of a city that might show a strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the cities' cultural richness - factors that are inherently qualitative.
 
 This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
 
