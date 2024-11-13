@@ -32,9 +32,9 @@ I am currently developing the proposal for my upcoming dissertation at [Fraunhof
 
 As the title suggests, my research idea focusses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
-Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. 
+Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. 
 
-Maybe think that a city might show strong economic growth through quantitative indicators like GDP, which doesn't necessarily reflect e.g. the residents' quality of life, happiness or cultural richness; factors that are inherently qualitative.
+Maybe think that a city might show a strong economic growth in quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the cities' cultural richness - factors that are inherently qualitative.
 
 This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
 
@@ -46,7 +46,7 @@ My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo H
 
 **Yet, despite all this progress in developing alternative indicators and metrics, the long-awaited shift towards sustainability at scale remains elusive.**[^7]
 
-This brings me to my central question: What can we learn from this development and are there alternative pathways that might offer more insights?
+This brings me to my central question: What can we learn from the development of these metrics? And are there alternative pathways to integrate qualitative narratives with quantitative goals?
 
 ... My interest in this topic and on the interplay of quantitative and qualitative research did not develop overnight. It has taken time and I would like to share how my thoughts have evolved.
 
