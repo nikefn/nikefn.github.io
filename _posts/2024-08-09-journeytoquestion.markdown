@@ -54,7 +54,7 @@ This brings me to my central question: What can we learn from the development of
 
 ### My Journey Towards Understanding Qualitative Research
 
-In the past, I worked with both quantitative and qualitative methods, but over time I began to realise the limitations of relying solely on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
+In the past, I worked with both quantitative and qualitative methods, but over time I began to realise the limitations of relying only on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
 
 While thinking about it, I figured that this subject had been on my mind for quite a while, though I was not able to express it clearly. Over the last year, after much thought and exploration, I could develop a clearer sense of the direction I want to take in my dissertation. Ultimately, my aim is to find ways to give greater emphasis to areas like urban nature, culture, knowledge and *qualitative* factors in urban development that are usually hard to measure. Rrather than focusing only on economic factors as the bottom line for decision-making.
 
