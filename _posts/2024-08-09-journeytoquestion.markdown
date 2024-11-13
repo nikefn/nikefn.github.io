@@ -32,7 +32,11 @@ I am currently developing the proposal for my upcoming dissertation at [Fraunhof
 
 As the title suggests, my research idea focusses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
-Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
+Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. 
+
+Maybe think that a city might show strong economic growth through quantitative indicators like GDP, which doesn't necessarily reflect e.g. the residents' quality of life, happiness or cultural richness; factors that are inherently qualitative.
+
+This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
 
 To address this gap, new, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors by incorporating qualitative data alongside quantitative measures[^2] [^3] [^4]. They attempt to bridge the gap by combining quantitative data, like numerical indicators of economic performance, with qualitative insights that include the nuances of e.g. cultural significance, community well-being and environmental health. The idea behind these alternative approaches is to provide decision-makers with neutral figures and charts, similar to those from traditional economic metrics, but designed to include the previously overlooked areas.
 
