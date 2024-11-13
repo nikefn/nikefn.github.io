@@ -84,9 +84,9 @@ And here I am:
 
 Growing up in an education system based on the natural sciences that emphasised logical reasoning and empirical methods, I found it easier to follow and grasp straightforward calculations than detailed reasonings done with methods of social science. Yet, in the past years I realised that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
- Integrating both approaches can offer a more comprehensive understanding of complex issues like urban development.
+While quantitative metrics offer clarity and comparability, they sometimes are a difficult fit to capture the qualitative nuances of urban life. 
 
- My experiences have shaped a research question that I now feel deeply passionate about:
+My research aims to find methodologies that effectively integrate both, providing a more balanced framework for decision-making in urban development. My experiences have shaped a research question that I now feel deeply passionate about:
 
  How can we further strengthen important topics that are hard to quantify. Like culture, nature and knowledge in city development? And how can we ensure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
 
