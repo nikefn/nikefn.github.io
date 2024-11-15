@@ -1,7 +1,7 @@
 ---
 title: "The Journey to My Dissertation Exposé"
 layout: post
-date: 2024-11-01 13:00
+date: 2024-11-13 13:00
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
@@ -32,25 +32,29 @@ I am currently developing the proposal for my upcoming dissertation at [Fraunhof
 
 As the title suggests, my research idea focusses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
-Managing complex human systems like cities often turns around economic metrics, which heavily influence decision-making. However, these economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics. This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
+Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics.
 
-To address this gap, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors.[^2] [^3] [^4] The idea behind these alternative approaches is to provide decision-makers with seemingly neutral figures and charts, similar to traditional economic metrics, but designed to include the previously overlooked areas.
+Think for example of a city that might show a strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the cities' cultural richness - factors that are inherently qualitative.
 
-There is broad consensus on the significance of these sectors and the need to include them in decision-making, as proven by e.g. the internationally ratified [United Nations' Declaration on Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).[^5]
+This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *'Tragedy of the Commons'* [^1].
 
-However, the difficulty lies in developing these alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
+To address this gap, new, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors by incorporating qualitative data alongside quantitative measures[^2] [^3] [^4]. They attempt to bridge the gap by combining quantitative data, like numerical indicators of economic performance, with qualitative insights that include the nuances of e.g. cultural significance, community well-being and environmental health. The idea behind these alternative approaches is to provide decision-makers with neutral figures and charts, similar to those from traditional economic metrics, but designed to include the previously overlooked areas.
+
+However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately.
+
+As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
 
 My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila , examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators Matter?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6].
 
 **Yet, despite all this progress in developing alternative indicators and metrics, the long-awaited shift towards sustainability at scale remains elusive.**[^7]
 
-This brings me to my central question: What can we learn from this development and are there alternative pathways that might offer more insights?
+This brings me to my central question: What can we learn from the development of these metrics? And are there alternative pathways to integrate qualitative narratives with quantitative goals?
 
-... My interest in this topic did not develop overnight. It has taken time and I would like to share how my thoughts have evolved.
+... My interest in this topic and on the interplay of quantitative and qualitative research did not develop overnight. It has taken time and I would like to share how my thoughts evolved:
 
 ### My Journey Towards Understanding Qualitative Research
 
-In the past, I worked with both quantitative and qualitative methods, but over time I began to realise the limitations of relying solely on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
+In the past, I worked with both quantitative and qualitative methods, but over time I began to realise the limitations of relying only on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
 
 While thinking about it, I figured that this subject had been on my mind for quite a while, though I was not able to express it clearly. Over the last year, after much thought and exploration, I could develop a clearer sense of the direction I want to take in my dissertation. Ultimately, my aim is to find ways to give greater emphasis to areas like urban nature, culture, knowledge and *qualitative* factors in urban development that are usually hard to measure. Rrather than focusing only on economic factors as the bottom line for decision-making.
 
@@ -84,13 +88,23 @@ And here I am:
 
 Growing up in an education system based on the natural sciences that emphasised logical reasoning and empirical methods, I found it easier to follow and grasp straightforward calculations than detailed reasonings done with methods of social science. Yet, in the past years I realised that while numbers can often be more straightforward, qualitative research offers a depth of understanding that is just as essential, even though it can be more challenging to apply in broader contexts.
 
- Integrating both approaches can offer a more comprehensive understanding of complex issues like urban development.
+While quantitative metrics offer clarity and comparability, they sometimes are a difficult fit to capture the qualitative nuances of urban life.
 
- My experiences have shaped a research question that I now feel deeply passionate about:
+My research aims to find methodologies that effectively integrate both, providing a more balanced framework for decision-making in urban development. My experiences have shaped a research question that I now feel deeply passionate about:
 
  How can we further strengthen important topics that are hard to quantify. Like culture, nature and knowledge in city development? And how can we ensure that they are not overshadowed by economics and given the attention they deserve in decision-making processes?
 
  Let's see :)...
+
+---
+
+[Check out the presentation I held for our PhD colloquium](https://drive.google.com/file/d/1nh3fD4GcnvVC-dEf8xmPjPTolreJk5Zv/view?usp=sharing)
+
+---
+
+
+
+
 
 ## References
 
