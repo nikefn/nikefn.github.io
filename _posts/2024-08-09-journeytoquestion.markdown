@@ -98,7 +98,7 @@ My research aims to find methodologies that effectively integrate both, providin
 
 ---
 
-[Check out the presentation I held for our PhD colloquium](https://drive.google.com/file/d/1nh3fD4GcnvVC-dEf8xmPjPTolreJk5Zv/view?usp=sharing)
+[If you're interested, please see the presentation I held for our PhD colloquium here](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing)
 
 ---
 
