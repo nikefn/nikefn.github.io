@@ -29,6 +29,17 @@ Please see the presentation I held for the ['Global Green Growth Week 2023'][3] 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/2sLN9dtwhAk3Wq?startSlide=1" width="429" height="357" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://drive.google.com/file/d/1c2Vyp9v8yIO6sx892ehqRT94X-S3azQR/view?usp=sharing" title="Presentation in GGGWeek Agenda - HU session.pdf" target="_blank">Presentation in GGGWeek Agenda - HU session.pdf</a></strong> </div>
 
 
+And see a video shot for a Consortium Meeting in Maia, Portugal:
+
+<iframe width="1280" height="720" src="https://youtu.be/Yu9i-bEuXzo?t=125" title="SPARCS City Forum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[https://youtu.be/Yu9i-bEuXzo](https://youtu.be/Yu9i-bEuXzo?t=125)
+
+
+
+
+
+
 [1]: https://cordis.europa.eu/project/id/864242
 [2]: https://www.bable-smartcities.eu/home.html
 [3]: https://globalgreengrowthweek.gggi.org/
