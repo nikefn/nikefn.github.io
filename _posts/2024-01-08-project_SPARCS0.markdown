@@ -31,7 +31,7 @@ Please see the presentation I held for the ['Global Green Growth Week 2023'][3] 
 
 And see a video shot for a Consortium Meeting in Maia, Portugal:
 
-<iframe width="1280" height="360" src="https://www.youtube.com/embed/Yu9i-bEuXzo?start=125" title="SPARCS City Forum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="360" src="https://www.youtube.com/embed/Yu9i-bEuXzo?start=253" title="SPARCS City Forum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [https://youtu.be/Yu9i-bEuXzo](https://youtu.be/Yu9i-bEuXzo?t=125)
 
