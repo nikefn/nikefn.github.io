@@ -2,7 +2,7 @@
 title: "Crab Couture"
 layout: post
 tag: personal
-date: 2024-01-01 23:52
+date: 2024-08-01 23:52
 img: /assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg
 projects: true
 author: niklaseffenberger
