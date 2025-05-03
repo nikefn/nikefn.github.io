@@ -52,6 +52,21 @@ layout: page
 
 </ul>
 
+<h2>Media...</h2>
+
+<ul>
+
+<li>For SPARCS Project: <a href="https://www.youtube.com/embed/Yu9i-bEuXzo?start=235">City Forum Maia, Portugal</a></li>
+
+<li>Morgenstadt Korea Feature: <a href="https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312">Maeil Business TV Special: Future Report - Building the City of Tomorrow</a></li>
+
+<li>Presentation at American University of Armenia: <a href="https://www.youtube.com/watch?v=jGKvAwy1X8k">Nature-Based Solutions to Urban Challenges of Climate Change</a></li>
+
+
+</ul>
+
+
+
 
 
 <h2>Be in touch...</h2>
