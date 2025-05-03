@@ -1,23 +1,35 @@
+<!---
 ---
-title: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
+title: "Genius is the Recovery of Childhood at Will"
 layout: post
-date: 2024-07-10 23:48
-image: https://nikefn.github.io//assets/images/blog-night/white-dwarf-nasa.webp
+date: 2025-06-10 23:48
+image: 
 headerImage: true
 tag:
 - blog
 - personal
-- nighttime
+- thoughts
 category: blog
 blog: true
 author: niklaseffenberger
-description: Seeing in the Dark - Nighttime’s Potential in Urban Innovation
-permalink: /nighttime2/
+description: Genius is the Recovery of Childhood at Will
+permalink: /genius/
 ---
+
 
 *Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)](https://www.nasa.gov/image-article/measuring-white-dwarf-star/)*
 
-*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.*
+
+I remember ; UN-general secretary; "listen to the kids"; I did not really understand back at that time, yet I now think I do understand.
+
+When I started preparing for my interview at Fraunhofer IAO/ Dept Urban Systems Engineering I got hold of a book 
+
+Costa, E. M. (2020). Humane and sustainable smart cities: A personal roadmap to transform your city after the pandemic. Academic Press.​
+ISBN-13: 978-0128191866
+ISBN-10: 0128191864
+Publisher: Academic Press
+
+
 
 
 ### Introduction: The Night - The Forgotten Time in City Development
@@ -208,4 +220,4 @@ This post has been published on under the same title on [Nighttime.org](https://
 
 ---
 
-
+-->
