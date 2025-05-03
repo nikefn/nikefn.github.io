@@ -56,7 +56,7 @@ layout: page
 
 <ul>
 
-<li>For SPARCS Project: <a href="https://www.youtube.com/embed/Yu9i-bEuXzo?start=235" target="_blank">City Forum Maia, Portugal</a></li>
+<li>For SPARCS Project: <a href="https://www.youtube.com/embed/Yu9i-bEuXzo?start=120" target="_blank">City Forum Maia, Portugal</a></li>
 
 <li>Morgenstadt Korea Feature: <a href="https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312" target="_blank">Maeil Business TV Special: Future Report - Building the City of Tomorrow</a></li>
 
