@@ -1,3 +1,5 @@
+<!---
+
 ---
 title: "Painting a Painting"
 layout: post
@@ -38,3 +40,5 @@ Links:
 [2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de](https://sta.uni-hohenheim.de/en)
 
 <div class="breaker"></div>
+
+-->
