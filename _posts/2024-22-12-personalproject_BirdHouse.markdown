@@ -53,7 +53,7 @@ In this regard also see the articles posted by the [New York Times in 2023](http
 
 <div class="breaker"></div>
 
-*In this sense - fingers crossed for 2024 to have someone move in :)!*
+*In this sense - fingers crossed for 2025 to have someone move in :)!*
 
 
 
