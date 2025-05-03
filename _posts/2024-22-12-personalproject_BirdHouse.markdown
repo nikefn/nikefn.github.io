@@ -13,9 +13,9 @@ permalink: birdhouse
 ## To build a Birdhouse
 
 
-![Me and my birdhouse](/assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg)Me & My Birdhouse, 2023
+![Me and my birdhouse](/assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg)Me & My Birdhouse, 2024
 
-In 2023 I found the book *["Vogelhäuser selbst gebaut" by Ramuz, McAllister and Magrill (2001)](https://search.worldcat.org/de/title/76711712)* in a giveaway box in my street and I was fascinated about the crazy designs it features. Look at this one:
+In 2024 I found the book *["Vogelhäuser selbst gebaut" by Ramuz, McAllister and Magrill (2001)](https://search.worldcat.org/de/title/76711712)* in a giveaway box in my street and I was fascinated about the crazy designs it features. Look at this one:
 
 ![Screenshot of UFO birdhouse](/assets/images/proj-personal/birdhouse/book_ufobirdhouse.jpeg)Ufo Birdhouse *(photo taken from the book ["Vogelhäuser selbst gebaut"](https://search.worldcat.org/de/title/76711712)*
 
@@ -25,7 +25,7 @@ However, I opted to go for a more classic design and paint it with bold colours.
 
 In 2023, sadly no tenants moved in. It was only later that I found in a document issued by *[NABU (The Nature And Biodiversity Conservation Union Germany)](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/01105.html)* that bright colors should be avoided when painting birdhouses, as birds prefer environments where they can stay hidden and secure with their young. Seems like a reasonable choice! Maybe also the timing of placing the birdhouse outside might not have been ideal - NABU offers advice on this topic as well.
 
-Let's see, maybe I will go for a repaint in 2024 and hoping for better success in attracting tenants.
+Let's see, maybe I will go for a repaint in 2025 and hoping for better success in attracting tenants.
 
 ![Painting the house](/assets/images/proj-personal/birdhouse/paintingthehouse.jpg)Primary coating in white
 
