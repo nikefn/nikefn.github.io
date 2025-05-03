@@ -60,7 +60,7 @@ layout: page
 
 <li>Morgenstadt Korea Feature: <a href="https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312" target="_blank">Maeil Business TV Special: Future Report - Building the City of Tomorrow</a></li>
 
-<li>Presentation at <a href="https://ace.aua.am/gates/" target="_blank">American University of Armenia</a>: <a href="https://www.youtube.com/watch?v=jGKvAwy1X8k" target="_blank">Nature-Based Solutions to Urban Challenges of Climate Change</a></li>
+<li>Presentation at American University of Armenia: <a href="https://www.youtube.com/watch?v=jGKvAwy1X8k" target="_blank">Nature-Based Solutions to Urban Challenges of Climate Change</a></li>
 
 
 </ul>
