@@ -40,7 +40,7 @@ layout: page
 	<li><a href="https://www.youtube.com/watch?v=6Eh5f7ukc6E&list=PLzC6SrXE0xPfQoT9Gz9BBhwsRp57vjJES">Fahrrad.de Advertisement</a> and Commuting by (E-)Bike up the hill</li>
 	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
 	<li>Working in Wagenhallen Kitchen</li>
-	<li>My Friend openend an Ice-Cream Shop - how cool is that?</li>
+	<li>My Friend openend an Ice-Cream Shop</li>
 	<li>My  <a href="https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=drive_link" target="_blank">Master Thesis on 'The Governance of Nature-Based Solutions'</a>)</li>
 	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
 	<li><a href="https://nikefn.github.io//sustday">Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</a></li>
