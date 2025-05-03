@@ -47,7 +47,10 @@ Last year, I saw a Sparrow flying around the edges of the roof at my parents' ho
 
 Experiencing this warmed my heart and gave me a sense of my connection to the natural world; to me, it emphasised the interplay between humans and nature, how we coexist and that we share the very same spaces around us.
 
-In this regard also see the articles posted by the [New York Times in 2023](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html) *(paywall)* and by [The Audubon Society in the same year](https://www.audubon.org/news/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests) about bird's nests built out of bird-countermeasures and materials thought up to deter birds (see picture below). Reading those articles reinforced my feeling of not only living alongside nature but coexisting together ‚with it and the beauty and joy it brings to me. Also, to me, it emphasises how collaborating with nature can be beneficial rather than obstructive.
+In this regard also see the incredible articles posted by the [New York Times in 2023](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html) *(paywall)* and by [The Audubon Society in the same year](https://www.audubon.org/news/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests) about bird's nests built out of bird-countermeasures and materials thought up to deter birds (see picture below).
+
+Those articles left me somewhat in awe: It really seems impossible to draw a neat line between ourselves and the natural world. We’re already interwoven, a division seems impossible, and even the sharpest technology or sheerest force cannot break this bond. Those nests made out of spikes could also be a metaphor of how sometimes choosing ways to work *with* nature instead of *against* it can be more sustainable in the long run.
+
 
 ![Eurasian Magpie nest constructed with anti-bird spikes, seen in a sugar maple tree in Antwerp, Belgium. Photo: Auke-Florian Hiemstra.](/assets/images/proj-personal/birdhouse/magpie-nest.webp)"Eurasian Magpie nest constructed with anti-bird spikes, seen in a sugar maple tree in Antwerp, Belgium." Photo: Auke-Florian Hiemstra, 2023. See link bottom of page.
 
