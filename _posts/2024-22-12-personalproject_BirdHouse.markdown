@@ -23,7 +23,7 @@ However, I opted to go for a more classic design and paint it with bold colours.
 
 ![The birdhouse design I chose](/assets/images/proj-personal/birdhouse/redwhitepainting.jpg)Classic design with red-white house painting
 
-In 2023, sadly no tenants moved in. It was only later that I found in a document issued by *[NABU (The Nature And Biodiversity Conservation Union Germany)](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/01105.html)* that bright colors should be avoided when painting birdhouses, as birds prefer environments where they can stay hidden and secure with their young. Seems like a reasonable choice! Maybe also the timing of placing the birdhouse outside might not have been ideal - NABU offers advice on this topic as well.
+In 2024, sadly no tenants moved in. It was only later that I found in a document issued by *[NABU (The Nature And Biodiversity Conservation Union Germany)](https://www.nabu.de/tiere-und-pflanzen/voegel/helfen/nistkaesten/01105.html)* that bright colors should be avoided when painting birdhouses, as birds prefer environments where they can stay hidden and secure with their young. Seems like a reasonable choice! Maybe also the timing of placing the birdhouse outside might not have been ideal - NABU offers advice on this topic as well.
 
 Let's see, maybe I will go for a repaint in 2025 and hoping for better success in attracting tenants.
 
