@@ -16,7 +16,7 @@ Since a while I worked with a couple of friends on a new brand idea: The Crab Co
 
 It all started out with messing with somewhat funny puns related to crabs and sealife. In this context: Do you know about punpedia? A  website gathering puns on all kinds of topics. And guess what, they have a sea-life edition: [Punpedia Ocean Puns List](https://punpedia.org/ocean-puns/),
 
-We want to think of our brand as sustainable, social start-up, giving away its revenue to sea-protection NGOs and to cancer research; this idea goes by our slogan "Love Crabs, Hate Cancer".
+We want to think of our brand as sustainable, social start-up, giving away its revenue to sea-protection NGOs and to cancer research; this idea goes by our slogan ***"Love Crabs, Hate Cancer"***.
 
 Since the great advancements in generative AI and the Dall:e integration into ChatGPT, I was able to come up with funny and nice looking graphics for our planned t-shirts and garments through the prompts I type. The generated images give me a somewhat bad feeeling as the model was trained on time-consuming, genuine and unique graphical works done by humans. With the OpenAI plus subscription you get access to their cumulated work without paying nor attributing the individual artist behind the design - and where would we be without those creative people?
 
