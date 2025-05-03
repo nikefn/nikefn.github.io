@@ -46,3 +46,6 @@ I tried printing some of the designs and pressed them on a t-shirt in our local 
 ![Hobbyhimmel workshop](/assets/images/proj-personal/crabcouture/hobbyhimmel_workshop.jpg)Inside view
 
 ![garment press](/assets/images/proj-personal/crabcouture/hobbyhimmel_hotone.jpg)Garment heat press 'The Hot One'
+
+
+![shirt print](/assets/images/proj-personal/crabcouture/shirt.jpg)Shirt Print
