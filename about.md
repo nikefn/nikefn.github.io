@@ -14,7 +14,6 @@ layout: page
 
 
 
-
 <h2>Current and past projects I am/was involved in professionally:</h2>
 
 <ul>
