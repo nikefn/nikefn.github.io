@@ -1,44 +1,25 @@
-<!---
-
 ---
 title: "Painting a Painting"
 layout: post
 tag: personal
-date: 2025-04-16 15:37
-%img: /assets/images/proj-personal/ntag/cooking.jpg%
+date: 2025-03-19 20:37
+img: /assets/images/proj-paint/0.jpeg
 projects: true
 author: niklaseffenberger
 summary: "Painting a Painting - planning it and finally doint it"
-permalink: sustday
+permalink: paint
 ---
 
 ## Painting a Painting
 
+I did it! I painted a painting :)! *Text to follow*
+
+![My Panting1](assets/images/proj-paint/0.jpeg)... and it's up on the wall in my living room!
+
+![My Panting2](assets/images/proj-paint/1.jpg) drying
+![My Panting3](assets/images/proj-paint/2.jpg) freestyle
 
 
-
-![My Panting](assets/images/proj-personal/ntag/cooking.jpg)My Painting
-
-
-
-
-For such a long time I wanted to paint a painting. I remember wishing for Christmas
-
-What is it with those things, you always imagine doing. Imagine doing them is so easy
-
-
-Not going the full way, inspired by coworking for diss with my colleguea, small progress adds up, meaningful
-
-I was inspired by
 
 
 <div class="breaker"></div>
-
-Links:
-[1] 1816 - The Year Without a Summer [see on wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
-
-[2] Chair of Societal Transition and Agriculture [sta.uni-hohenheim.de](https://sta.uni-hohenheim.de/en)
-
-<div class="breaker"></div>
-
--->
