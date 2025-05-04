@@ -36,6 +36,8 @@ layout: page
 
 <ul>
 
+
+	<li><a href="https://nikefn.github.io//paint">Painting a Painting</a></li>
 	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
 	<li><a href="https://www.youtube.com/watch?v=6Eh5f7ukc6E&list=PLzC6SrXE0xPfQoT9Gz9BBhwsRp57vjJES">Fahrrad.de Advertisement</a> and Commuting by (E-)Bike up the hill</li>
 	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
