@@ -1,10 +1,8 @@
 # main text of home
-title: Niklas Effenberger
-bio:
+title: "Niklas Effenberger"
+bio: "Urban Strategist · EU Project Lead · Bridging Nature, Cities & Governance"
 
-
-# twitter summary info
-description: Niklas Effenberger's personal site
+description: "Urban sustainability strategist and EU project lead specialising in nature-based solutions, climate resilience, and nighttime urbanism. Research at Fraunhofer IAO."
 
 
 
@@ -77,6 +75,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+hobbies: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

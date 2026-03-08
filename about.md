@@ -4,78 +4,52 @@ layout: page
 ---
 ![Niklas Effenberger]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I'm Niklas. I enjoy exploring the intersection between nature and urban spaces, working at <a href="https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html" target="_blank">Fraunhofer IAO</a> within the Urban Systems Engineering and <a href="https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering.html" target="_blank">Smart Urban Environments Team</a>. My role allows me to engage with a variety of people, valuing diverse perspectives and collaborative efforts towards sustainable advancements. Outside my project work, I'm passionate about brainstorming new ideas, such as enhancing nocturnal urban landscapes by exploring possible synergies between nocturnal ecology and nocturnal socioeconomics.</p>
+Hi, I'm Niklas. I work at the intersection of urban sustainability, governance, and technology. As a research lead at [Fraunhofer IAO](https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html) in Stuttgart, I lead work packages in large-scale EU programmes, build multi-stakeholder consortia and design replication pathways that help urban innovations travel from pilot cities to new contexts across Europe.
 
+My current flagship project is [URBREATH]({{ site.url }}/urbreath) (Horizon Europe, €15M), where I lead the Replication & Scaling work package — developing frameworks, training formats that enable cities to adopt nature-based solutions for climate resilience. Previously, I served as Replication Manager on [SPARCS]({{ site.url }}/sparcs) (H2020, €23M), guiding five European cities through the process of implementing positive energy districts. I also co-led the Societal Integration work package on [ACCSESS]({{ site.url }}/accsess) (H2020, €18M), focusing on governance and public acceptance of carbon capture technologies.
 
-<p>On this site, you'll find both my professional journey, <a href="https://drive.google.com/file/d/1lrDHhQwjOjhAoPAMI8Oztw3hmmaoK1M9/view?usp=share_link" target="_blank">including my CV</a> and details about <a href="https://nikefn.github.io/projects/">my projects</a> at Fraunhofer IAO, and a peek into my personal passions. I've shared links to my photography on <a href="https://unsplash.com/de/@neffler" target="_blank">Unsplash</a> and you may discover my interests in craftwork, music, and the arts.</p>
+Beyond daytime urbanism, I'm building a distinctive practice around *nighttime governance and urban nightlife sustainability*. A field where ecological, economic and social systems converge but are rarely addressed together. My comment ["My city never sleeps"](https://doi.org/10.1038/s44284-025-00244-8) was published in *Nature Cities* (2025), and I've contributed to the [Nighttime Economy & Recovery Report](https://nighttime.org) launched at the World Economic Forum in Davos 2026. I've spoken on this topic at [SXSW Austin](https://www.sxsw.com/), the [UN World Urban Forum (WUF12)](https://wuf.unhabitat.org/) in Cairo and the [NOEK Conference](https://noek-conference.com/) in Mannheim.
 
+I hold an M.Sc. in Bioeconomy from the University of Hohenheim (thesis: *The Governance of Nature-Based Solutions*), supported by a scholarship from the Hans-Böckler-Stiftung.
 
-
-
-
-
-<h2>Current and past projects I am/was involved in professionally:</h2>
-
-<ul>
-
-	<li><a href="https://nikefn.github.io//urbreath">The URBREATH Approach: Systemic Integration of Transformative Technical and Nature-based Solutions to Improve Climate Neutrality of European Cities and Regions and tackle Climate Change</a></li>
-	<li><a href="https://nikefn.github.io//sparcs">SPARCS: Sustainable energy Positive & zero cARbon CommunitieS</a></li>
-<li><a href="https://nikefn.github.io//accsess" target="_blank">ACCSESS: Providing access to cost-efficient, replicable, safe and flexible CCUS</a></li>
-<li><a href="https://digitalakademie-bw.de/startschuss-innovationsnetzwerk-nachtkultur/" target="_blank">Innovationsnetzwerk Nachtkultur</a></li>
-<li>Fraunhofer Think Tank Pioneer Programme Bioeconomy and Methane Value Chains</li>
-<li><a href="https://drive.google.com/file/d/1W9rY3TUrs_97DUkp4gHjWqzB6krOMLYk/view?usp=sharing" target="_blank">Seminar on Feedback, Scientific Poster Design. For Bachelor Students</a></li>
-
-</ul>
+I believe sustainable cities require bridging silos, between research and practice, between daytime planning and nighttime governance, between technology and human systems. If you work on urban futures, nature-based solutions, or the governance of innovation at any scale, I'd welcome a conversation.
 
 
 
+## Talks & Media
 
+- **SXSW Austin** (2024): "Transformation of Nightlife for a Sustainable Tomorrow" — NighttimeLab panel
+- **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, "24-Hour Cities Against Climate Change"
+- **Smart City Expo World Congress, Barcelona** (2023): EU replication session and project presentation
+- **Stuttgarter Wissenschaftsfestival** (2024): "Stuttgart as a Morgenstadt" (800+ attendees)
+- **Futuromundo Congress, Stuttgart** (2025): Moderator, Future Urban Economies Forum
+- **TV**: [Maeil Business TV Special: "Building the City of Tomorrow"](https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312)
+- **Radio**: [Deutschlandfunk Kultur — "Mit neuer Energie für die Stadt von Morgen"](https://www.deutschlandfunkkultur.de/mit-neuer-energie-fuer-die-stadt-von-morgen-dlf-kultur-232d5bab-100.html)
+- **Video**: [URBREATH – Nature-Based Solutions across EU climatic zones](https://www.youtube.com/watch?v=dhcI8UE7tBU)
+- **Video**: [Nature-Based Solutions invited talk at American University of Armenia](https://www.youtube.com/watch?v=jGKvAwy1X8k)
+- **Video**: [SPARCS City Forum Maia, Portugal](https://www.youtube.com/embed/Yu9i-bEuXzo?start=120)
 
-<h2>Current and past projects of personal interest and hobbies:</h2>
+---
 
-<ul>
+## Publications
 
+- **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities* (Cities After Dark Issue). [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
+- Fatima, Z.; **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
+- **Effenberger, N.** et al. (2024): "Positive Energy Districts in Project SPARCS – Replication Summary Report for EU-27." [SPARCS GA No. 864242 Topic: LC-SC3-SCC-1-2018-2019-2020 D5.1](https://sparcs.info/en/deliverables/d5-1-replication-summary-report/) 
+- Sponagel, C.; **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung…" *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
 
-	<li><a href="https://nikefn.github.io//paint">Painting a Painting</a></li>
-	<li><a href="https://nikefn.github.io//crabcouture">Crab Couture - a sustainable fashion brand; about bringing ideas to life with the help of generative AI; open craft space/workshop Stuttgart</a></li>
-	<li><a href="https://www.youtube.com/watch?v=6Eh5f7ukc6E&list=PLzC6SrXE0xPfQoT9Gz9BBhwsRp57vjJES">Fahrrad.de Advertisement</a> and Commuting by (E-)Bike up the hill</li>
-	<li><a href="https://nikefn.github.io//birdhouse">To Build a Birdhouse</a></li>
-	<li>Working in Wagenhallen Kitchen</li>
-	<li>My Friend openend an Ice-Cream Shop</li>
-	<li>My  <a href="https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=drive_link" target="_blank">Master Thesis on 'The Governance of Nature-Based Solutions'</a>)</li>
-	<li>Sustainability Week Uni Hohenheim - Our take on the topic through Utopian Thinking - does it make sense?</li>
-	<li><a href="https://nikefn.github.io//sustday">Nachhaltigkeitstage Uni Hohenheim - A take on Food Waste and Michelin Star Cooking</a></li>
-	<li>Gärtnerei Willmann - Working on a Demeter certified Organic Farm</li>
-	<li>Seminar work on "Coersive Conservation", an interesting topic, <a href="https://drive.google.com/file/d/1rYbzzxlnQjsUBrjvVfn9fW1h2pGEZHiY/view?usp=sharing" target="_blank">see presentation on it</a></li>
-	<li>Playing Music for Friends - <a href="https://soundcloud.com/effe" target="_blank">dj effekt</a> and good times</li>
-	<li>Civil Service at <a href="https://www.bundjugend-bw.de/lgs" target="_blank">Young Friends of the Earth Baden-Württemberg</a></li>
+---
 
+## Beyond Work
 
-</ul>
+I share photography on [Unsplash](https://unsplash.com/de/@neffler), spin records as [dj effekt](https://soundcloud.com/effe), and occasionally build things with my hands, from [paintings]({{ site.url }}/paint) to [birdhouses]({{ site.url }}/birdhouse). I co-created [Crab Couture]({{ site.url }}/crabcouture), a concept for a sustainable fashion brand using generative AI.
 
-<h2>Media...</h2>
+More of these personal projects live on the [Hobbies & Interests](/hobbies) page.
 
-<ul>
+---
 
-<li>For SPARCS Project: <a href="https://www.youtube.com/embed/Yu9i-bEuXzo?start=120" target="_blank">City Forum Maia, Portugal</a></li>
+## Get in Touch
 
-<li>Morgenstadt Korea Feature: <a href="https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312" target="_blank">Maeil Business TV Special: Future Report - Building the City of Tomorrow</a></li>
-
-<li>Project URBREATH: <a href="https://www.youtube.com/watch?v=dhcI8UE7tBU" target="_blank">Nature-Based Solutions throughout EU's climatic zones</a></li>
-
-<li>Presentation at American University of Armenia: <a href="https://www.youtube.com/watch?v=jGKvAwy1X8k" target="_blank">Nature-Based Solutions to Urban Challenges of Climate Change</a></li>
-
-
-</ul>
-
-
-
-
-
-<h2>Be in touch...</h2>
-
-<ul>
-
-<li>Email: <a href="mailto:niklas.effenberger@gmail.com">niklas.effenberger@gmail.com</a></li>
-
-</ul>
+- Email: [niklas.effenberger@gmail.com](mailto:niklas.effenberger@gmail.com)
+- LinkedIn: [linkedin.com/in/niklaseffenberger](https://linkedin.com/in/niklaseffenberger)
+- Website: [nikefn.github.io](https://nikefn.github.io)

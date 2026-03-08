@@ -1,12 +1,12 @@
 ---
 layout: main
-title: Projects
+title: Hobbies & Interests
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope">
-    <div id="projects">
+    <div id="hobbies">
         {% for post in site.posts %}
-            {% if post.projects %}
+            {% if post.hobbies %}
                 <div class="post-list">
                     <a href="{{ post.url | prepend: site.baseurl }}">
                         {% if post.image %}
