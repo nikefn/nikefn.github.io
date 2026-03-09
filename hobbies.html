@@ -1,22 +1,18 @@
 ---
-layout: main
+layout: page
 title: Hobbies & Interests
 ---
-
-<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope">
-    <div id="hobbies">
-        {% for post in site.posts %}
-            {% if post.hobbies %}
-                <div class="post-list">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        {% if post.image %}
-                            <div class="post-image-small" style="background-image: url({{ post.image }})"></div>
-                        {% endif %}
-                        <time>{{ post.date | date: "%b %d %Y" }}</time>
-                        <h3>{{ post.title }}</h3>
-                    </a>
-                </div>
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.hobbies %}
+            {% if post.hidden != true %}
+<div class="item {% if post.star %}star{% endif %}">
+<a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+<h3 class="title">{{ post.title }}</h3>
+</a>
+</div>
             {% endif %}
-        {% endfor %}
-    </div>
-</main>
+        {% endif %}
+    {% endfor %}
+</section>
