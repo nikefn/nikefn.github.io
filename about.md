@@ -4,28 +4,37 @@ layout: page
 ---
 ![Niklas Effenberger]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi, I'm Niklas. I work at the intersection of urban sustainability, governance, and technology. As a research lead at [Fraunhofer IAO](https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html) in Stuttgart, I lead work packages in large-scale EU programmes, build multi-stakeholder consortia and design replication pathways that help urban innovations travel from pilot cities to new contexts across Europe.
+Hi, I'm Niklas. I'm a research associate at [Fraunhofer IAO](https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html) in Stuttgart, working within the Urban Systems Engineering department. My work sits at the intersection of urban sustainability, governance and technology.
 
-Over the past years at Fraunhofer, I've led work packages in large-scale EU programmes and helped build multi-stakeholder consortia across Europe. My current focus is [URBREATH]({{ site.url }}/urbreath), a €15M Horizon Europe project where I lead the Replication & Scaling work package. The goal is to develop frameworks and training formats that help cities adopt nature-based solutions for climate resilience. Before that, I served as Replication Manager on [SPARCS]({{ site.url }}/sparcs), a €23M H2020 programme, where I guided five European cities through the implementation of positive energy districts. I also co-led a work package on societal integration and governance in [ACCSESS]({{ site.url }}/accsess), an €18M H2020 project on carbon capture technologies.
+Over the past years at Fraunhofer, I have built and led work packages in large-scale European programmes. In [URBREATH]({{ site.url }}/urbreath), a €15 million Horizon Europe project on nature-based solutions for climate resilience, I lead the Replication and Scaling work package, developing frameworks and training formats that help cities adopt nature-based solutions across different climatic and institutional contexts. Before that, I served as Replication Manager in [SPARCS]({{ site.url }}/sparcs), a €23 million H2020 programme, where I guided five European cities through the implementation of positive energy districts. I also co-led the work package on societal integration in [ACCSESS]({{ site.url }}/accsess), an €18 million H2020 project on carbon capture, focusing on governance, public administration and stakeholder legitimacy.
 
-A topic that has become increasingly important to me is nighttime governance and urban nightlife sustainability. I published a comment titled "My city never sleeps" in [*Nature Cities*](https://doi.org/10.1038/s44284-025-00244-8) in 2025, and I contributed to the [Nighttime Economy & Recovery Report](https://nighttime.org) that was launched at the World Economic Forum in Davos. I've had the chance to speak about this at [SXSW Austin](https://www.sxsw.com/), the [UN World Urban Forum](https://wuf.unhabitat.org/) in Cairo, and [Smart City Expo World Congress](https://www.smartcityexpo.com/) in Barcelona.
+More recently, I have been working with the concept of the "Citiverse," a city-scale virtual environment that brings together digital twins, AI-driven simulation and immersive interfaces to support urban decision-making. The idea is not about virtual reality as a gimmick but about creating shared spaces where planners, citizens and policymakers can experience urban futures together. This work connects to my involvement with the [ITU Focus Group on Virtual Worlds](https://www.itu.int/metaverse/virtual-worlds/) and UN bodies on international standards for the metaverse, including the [Global Initiative on Virtual Worlds and AI: Citiverse Use Case Identification Track](https://www.itu.int/net/epub/TSB/2025-Citiverse-Use-Case-Taxonomy-Overview-Use-Case-Identification-Track/index.html#p=1). At Fraunhofer IAO, I lead the [Metaverse Themenwochen](https://www.iao.fraunhofer.de/de/leistungen/metaverse-vielfalt-erleben-innovation-gestalten.html) campaign for the Department of Urban Systems Engineering on the convergence of digital twins, AI, XR and urban systems.
 
-I hold an M.Sc. in Bioeconomy from the University of Hohenheim, where I wrote my thesis on "The Governance of Nature-Based Solutions" with a final grade of 1.0. I was supported by a scholarship from the Hans-Böckler-Stiftung.
+A topic that has become increasingly important to me is nighttime governance. Cities are 24-hour systems, but planning and policy rarely account for what happens after dark. I published a comment titled "My city never sleeps" in [*Nature Cities*](https://doi.org/10.1038/s44284-025-00244-8) in 2025 and contributed to the Nighttime Economy and Recovery Report launched at the [World Economic Forum](https://www.weforum.org/) in Davos 2026. I have spoken about this topic at [SXSW](https://www.sxsw.com/) in Austin, the [UN World Urban Forum](https://wuf.unhabitat.org/) in Cairo, the [NØK Conference](https://noek-conference.com/) in Mannheim and the [about pop conference](https://www.aboutpop.de/) in Stuttgart and coached the winning team at the 2025 [Fraunhofer Summer Camp](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html), developing an AI-driven tool for nighttime pedestrian safety.
 
-I care a lot about the gaps between research and practice, between daytime planning and nighttime governance, and between technology and human systems. I think sustainable cities need people who work across these divides. If you work on urban futures, nature-based solutions, or the governance of innovation, I'd be happy to connect.
+Beyond the EU project portfolio, I co-lead the [Fraunhofer Museum Innovation Network](https://www.muse.iao.fraunhofer.de/de/projekte.html), a think-tank format that translates research into practical strategies for cultural institutions. I also contributed to the development of an AI-Regions Benchmark for the Heilbronn-Franken region and have been involved in exploratory work on telepresence robotics in urban contexts.
 
+I hold a Master of Science in Bioeconomy from the [University of Hohenheim](https://www.uni-hohenheim.de/en), where I wrote my thesis on [The Governance of Nature-Based Solutions](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing). The thesis received a grade of 1.0. For my masters, I was supported by a scholarship from the [Hans-Böckler-Stiftung](https://www.boeckler.de/en/index.htm).
 
+I care about the gaps between research and practice, between daytime planning and nighttime reality, and between technological possibility and human understanding. I believe sustainable cities need people who work across these divides. If you are working on urban futures, nature-based solutions, immersive technologies for cities or the governance of innovation, I would be happy to connect.
+
+---
 
 ## Talks & Media
 
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
+- **[Fraunhofer Summer Camp](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html)** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety.
 - **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, [*"24-Hour Cities Against Climate Change"*](https://wuf.unhabitat.org/event/wuf12/24-hour-cities-against-climate-change-nighttime-strategies-address-challenges-climate)
-- **SXSW Austin** (2024): ["The Transformation of Nightlife for a Sustainable Tomorrow"](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), NighttimeLab panel
-- **Smart City Expo World Congress, Barcelona** (2022-2023): EU replication session and project presentation, [SCWE Barcelona](https://www.smartcityexpo.com/)
-- **Stuttgarter Wissenschaftsfestival** (2024): "Stuttgart als Morgenstadt" [Wissenschaftsfestival](https://wissenschaftsfestival.stuttgart.de/)
+- **RPTU Kaiserslautern-Landau visit at the Dept. of Urban Systems Engineering** (2025): Lecture and Workshop Lead, "Interdisciplinary Approaches to Sustainable Cities"
+- **SCS Network Talks, HfT Stuttgart visit at the Dept. of Urban Systems Engineering** (2025): Lecture, "Morgenstadt: Future-Proofing Living Environments"
+- **SXSW Austin** (2024): [*"The Transformation of Nightlife for a Sustainable Tomorrow"*](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), NighttimeLab panel
+- **Stuttgarter Wissenschaftsfestival** (2024): "Stuttgart als Morgenstadt," [Wissenschaftsfestival](https://wissenschaftsfestival.stuttgart.de/)
+- **Smart City Expo World Congress, Barcelona** (2022–2023): EU replication session and project presentation, [SCWC Barcelona](https://www.smartcityexpo.com/)
+- **NØK Conference, Mannheim** (2023): Panelist, "The Night in Germany: The Forgotten Time of Urban Development," [NØK 23](https://noek-conference.com/)
+- **about pop conference, Stuttgart** (2023): [about pop](https://www.aboutpop.de/), presentation and workshop on the Nighttime Innnovation Network.
 - **TV**: [Maeil Business TV Special: "Building the City of Tomorrow"](https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312) (min 18)
-- **Radio**: [Deutschlandfunk Kultur — "Mit neuer Energie für die Stadt von Morgen"](https://www.deutschlandfunkkultur.de/mit-neuer-energie-fuer-die-stadt-von-morgen-dlf-kultur-232d5bab-100.html)
-- **Video**: [URBREATH – Nature-Based Solutions across EU climatic zones](https://www.youtube.com/watch?v=dhcI8UE7tBU)
+- **Radio**: [Deutschlandfunk Kultur: "Mit neuer Energie für die Stadt von Morgen"](https://www.deutschlandfunkkultur.de/mit-neuer-energie-fuer-die-stadt-von-morgen-dlf-kultur-232d5bab-100.html)
+- **Video**: [URBREATH: Nature-Based Solutions across EU climatic zones](https://www.youtube.com/watch?v=dhcI8UE7tBU)
 - **Video**: [Nature-Based Solutions invited talk at American University of Armenia](https://www.youtube.com/watch?v=jGKvAwy1X8k)
 - **Video**: [SPARCS City Forum Maia, Portugal](https://www.youtube.com/embed/Yu9i-bEuXzo?start=120)
 
@@ -33,18 +42,20 @@ I care a lot about the gaps between research and practice, between daytime plann
 
 ## Publications
 
-- **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities* (Cities After Dark Issue). [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
+- **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities*. [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
 - Fatima, Z.; **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
-- **Effenberger, N.** et al. (2024): "Positive Energy Districts in Project SPARCS – Replication Summary Report for EU-27." [SPARCS GA No. 864242 Topic: LC-SC3-SCC-1-2018-2019-2020 D5.1](https://sparcs.info/en/deliverables/d5-1-replication-summary-report/)
-- Sponagel, C.; **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung…" *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
+- Feldwieser, M.; **Effenberger, N.**; et al. (2023): "Die Cloud als zentrales Werkzeug der kommunalen Digitalisierung." *Fraunhofer IAO Trendletter.* [DOI: 10.24406/PUBLICA-1001](https://doi.org/10.24406/PUBLICA-1001)
+- **Effenberger, N.** et al. (2024): "Positive Energy Districts in Project SPARCS: Replication Summary Report for EU-27." [SPARCS Deliverable D5.1](https://sparcs.info/en/deliverables/d5-1-replication-summary-report/)
+- Sponagel, C.; **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung im Kontext der Landwirtschaft." *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
+- **Effenberger, N.** (2018): "Which Governance Aspects Promote and Inhibit the Uptake of Nature-Based Solutions in Cities?" Master's Thesis, University of Hohenheim. [PDF](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing)
 
 ---
 
 ## Beyond Work
 
-I share photography on [Unsplash](https://unsplash.com/de/@neffler), spin records as [dj effekt](https://soundcloud.com/effe), and occasionally build things with my hands, from [paintings]({{ site.url }}/paint) to [birdhouses]({{ site.url }}/birdhouse). I co-created [Crab Couture]({{ site.url }}/crabcouture), a concept for a sustainable fashion brand using generative AI.
+I share photography on [Unsplash](https://unsplash.com/de/@neffler), spin records as [dj effekt](https://soundcloud.com/effe) and occasionally build things with my hands, from [paintings]({{ site.url }}/paint) to [birdhouses]({{ site.url }}/birdhouse). I co-created [Crab Couture]({{ site.url }}/crabcouture), a concept for a sustainable fashion brand using generative AI.
 
-More of these personal projects live on the [Hobbies & Interests](/hobbies) page.
+More of these personal projects live on the [Beyond Work](/beyondwork) page.
 
 ---
 

@@ -22,7 +22,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1lrDHhQwjOjhAoPAMI8Oztw3hmmaoK1M9/view?usp=share_link
 
-url: https://nikefn.github.io/
+url: https://nikefn.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -75,7 +75,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-hobbies: true
+beyondwork: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

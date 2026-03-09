@@ -4,7 +4,7 @@ layout: post
 tag: personal
 date: 2025-03-19 20:37
 img: /assets/images/proj-paint/0.jpeg
-hobbies: true
+beyondwork: true
 author: niklaseffenberger
 summary: "Painting a Painting - planning it and finally doint it"
 permalink: paint
