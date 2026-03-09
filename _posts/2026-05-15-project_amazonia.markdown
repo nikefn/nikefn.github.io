@@ -11,7 +11,7 @@ summary: "A co-created proposal for community-owned circular plastics processing
 permalink: amazonia
 ---
 
-## Why urban development in the Amazon matters
+## Why Urban Development in the Amazon Matters
 
 Contrary to popular belief, the Amazon is a highly urbanised region. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast: 10 of the 19 Brazilian cities that doubled their population in the last decade are in the Amazon[^1].
 
@@ -31,7 +31,7 @@ In 2024, a consortium of [Fraunhofer IAO](https://www.iao.fraunhofer.de/), [Amaz
 
 This was shaped through a series of exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), the driving force behind Amazonia 4.0, [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Amazon, and [Maritta Koch-Weser](https://www.deutschlandfunkkultur.de/sozialwissenschaftlerin-maritta-koch-weser-von-den-menschen-im-urwald-lernen-dlf-kultur-cba70011-100.html), Programme Coordinator at the University of São Paulo's [Institute for Advanced Studies](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas). The initiative received backing from Fraunhofer IAO's directorate and the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/).
 
-![Amazonia City Lab Initiative: consortium and outcomes overview](/assets/images/proj-work/amazonia/acli_consortium.png)
+![Amazonia City Lab Initiative: Consortium and Outcomes Overview](/assets/images/proj-work/amazonia/acli_consortium.png)
 *Amazonia City Lab Initiative: Amazonian cities teaming up with leading institutions from Brazil and Europe.*
 
 ---
@@ -44,7 +44,7 @@ Novo Airão is situated on the Rio Negro at the gateway to the [UNESCO World Her
 
 What the local actors identified as their most pressing gap was processing capacity. When too much plastic accumulates and cannot be processed on site, it gets trucked back to the general dump, which in practice oftentimes means open burning and leakage into the waterways. A scoping visit in early 2026 confirmed this: The waste situation along the road into town was described "a most disgusting sight en route to one of the world's most stunning natural wonders" by a local.
 
-![Novo Airão: local market, Rio Negro at dusk, river transport](assets/images/proj-amazonia/willerding.png)
+![Novo Airão: Local market, Rio Negro at dusk, River transport](assets/images/proj-amazonia/willerding.png)
 *Novo Airão, Amazonas. Photos: André Willerding / Amazonia 4.0.*
 
 
@@ -78,7 +78,7 @@ Also regardless of the outcome, working on this initiative and outline has been 
 - Consortium Lead: [Fraunhofer IAO](https://www.iao.fraunhofer.de/)
 - Implementing Partner: [Fundação Getulio Vargas, FGV](https://portal.fgv.br/en)
 - Implementing Partner: [Amazonia 4.0 / AmIT](https://amazonia4.org/)
-- Non-funded Host Partner: Municipality of Novo Airão
+- Host: Municipality of Novo Airão
 
 ## Related
 
