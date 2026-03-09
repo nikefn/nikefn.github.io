@@ -1,5 +1,5 @@
 ---
-title: "Fraunhofer: ACCSESS - Carbon Capture Usage and Storage Societal Acceptance"
+title: "ACCSESS - Carbon Capture Usage and Storage and Real-World Tech Uptake"
 layout: post
 tag: research
 date: 2024-08-08 15:38
