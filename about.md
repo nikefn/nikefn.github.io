@@ -43,10 +43,10 @@ I care about the gaps between research and practice, between daytime planning an
 ## Publications
 
 - **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities*. [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
-- Fatima, Z.; **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
-- Feldwieser, M.; **Effenberger, N.**; et al. (2023): "Die Cloud als zentrales Werkzeug der kommunalen Digitalisierung." *Fraunhofer IAO Trendletter.* [DOI: 10.24406/PUBLICA-1001](https://doi.org/10.24406/PUBLICA-1001)
+- Fatima, Z.;(...) **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
+- Feldwieser, M.;(...) **Effenberger, N.**; et al. (2023): "Die Cloud als zentrales Werkzeug der kommunalen Digitalisierung." *Fraunhofer IAO Trendletter.* [DOI: 10.24406/PUBLICA-1001](https://doi.org/10.24406/PUBLICA-1001)
 - **Effenberger, N.** et al. (2024): "Positive Energy Districts in Project SPARCS: Replication Summary Report for EU-27." [SPARCS Deliverable D5.1](https://sparcs.info/en/deliverables/d5-1-replication-summary-report/)
-- Sponagel, C.; **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung im Kontext der Landwirtschaft." *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
+- Sponagel, C.;(...) **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung im Kontext der Landwirtschaft." *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
 - **Effenberger, N.** (2018): "Which Governance Aspects Promote and Inhibit the Uptake of Nature-Based Solutions in Cities?" Master's Thesis, University of Hohenheim. [PDF](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing)
 
 ---
