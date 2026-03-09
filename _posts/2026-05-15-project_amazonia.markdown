@@ -2,7 +2,7 @@
 title: "Amazonia City Lab Initiative"
 layout: post
 tag: research
-date: 2026-01-15 12:00
+date: 2026-05-15 12:00
 img: /assets/images/proj-work/amazonia/amazonia_header.jpg
 headerImage: true
 projects: true
@@ -31,12 +31,12 @@ In 2024, a consortium of [Fraunhofer IAO](https://www.iao.fraunhofer.de/), [Amaz
 
 This was shaped through a series of exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), the driving force behind Amazonia 4.0, [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Amazon, and [Maritta Koch-Weser](https://www.deutschlandfunkkultur.de/sozialwissenschaftlerin-maritta-koch-weser-von-den-menschen-im-urwald-lernen-dlf-kultur-cba70011-100.html), Programme Coordinator at the University of São Paulo's [Institute for Advanced Studies](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas). The initiative received backing from Fraunhofer IAO's directorate and the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/).
 
-![Amazonia City Lab Initiative: Consortium and Outcomes Overview](/assets/images/proj-work/amazonia/acli_consortium.png)
+![Amazonia City Lab Initiative: Consortium and Outcomes Overview](assets/images/proj-amazonia/2025_ACLI_iao-amit-fgv.png)
 *Amazonia City Lab Initiative: Amazonian cities teaming up with leading institutions from Brazil and Europe.*
 
 ---
 
-## Novo Airão: A partnership, not a deployment site
+## A partnership with Novo Airão
 
 Over 2024 and 2025, we narrowed the broad framing toward a concrete pilot. The municipality of [Novo Airão](https://en.wikipedia.org/wiki/Novo_Air%C3%A3o) became the focal point, because the connection grew out of mutual interest and existing local momentum.
 
