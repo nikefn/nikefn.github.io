@@ -4,7 +4,7 @@ layout: post
 tag: personal
 date: 2024-08-01 23:52
 img: /assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg
-beyondwork: true
+personal: true
 author: niklaseffenberger
 summary: "About a sustaianble fashion brand idea brought to life with generative AI"
 permalink: crabcouture

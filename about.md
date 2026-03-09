@@ -23,7 +23,7 @@ I care about the gaps between research and practice, between daytime planning an
 ## Talks & Media
 
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
-- **[Fraunhofer Summer Camp](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html)** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety.
+- **Fraunhofer Summer Camp** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
 - **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, [*"24-Hour Cities Against Climate Change"*](https://wuf.unhabitat.org/event/wuf12/24-hour-cities-against-climate-change-nighttime-strategies-address-challenges-climate)
 - **RPTU Kaiserslautern-Landau visit at the Dept. of Urban Systems Engineering** (2025): Lecture and Workshop Lead, "Interdisciplinary Approaches to Sustainable Cities"
 - **SCS Network Talks, HfT Stuttgart visit at the Dept. of Urban Systems Engineering** (2025): Lecture, "Morgenstadt: Future-Proofing Living Environments"
@@ -55,7 +55,7 @@ I care about the gaps between research and practice, between daytime planning an
 
 I share photography on [Unsplash](https://unsplash.com/de/@neffler), play music as [dj effekt](https://soundcloud.com/effe) and occasionally build things with my hands, from [paintings]({{ site.url }}/paint) to [birdhouses]({{ site.url }}/birdhouse). I co-created [Crab Couture]({{ site.url }}/crabcouture), a concept for a sustainable fashion brand using generative AI.
 
-More of these personal projects live on the [Beyond Work](/beyondwork) page.
+More of these personal projects live on the [Personal](/personal) section.
 
 ---
 

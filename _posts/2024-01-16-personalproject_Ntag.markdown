@@ -4,7 +4,7 @@ layout: post
 tag: personal
 date: 2024-01-16 15:37
 img: /assets/images/proj-personal/ntag/cooking.jpg
-beyondwork: true
+personal: true
 author: niklaseffenberger
 summary: "Nachhaltigkeitstage Uni Hohenheim - Food Waste and Michelin Star Cooking"
 permalink: sustday

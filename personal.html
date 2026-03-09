@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Beyond Work
+title: Personal
 ---
 <section class="list">
     {% for post in site.posts %}
-        {% if post.beyondwork %}
+        {% if post.personal %}
             {% if post.hidden != true %}
 <div class="item {% if post.star %}star{% endif %}">
 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
