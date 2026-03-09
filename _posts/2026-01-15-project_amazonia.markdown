@@ -2,7 +2,7 @@
 title: "Amazonia City Lab Initiative"
 layout: post
 tag: research
-date: 2026-01-15 12:00
+date: 2026-05-15 12:00
 img: /assets/images/proj-work/amazonia/amazonia_header.jpg
 headerImage: true
 projects: true
@@ -15,7 +15,7 @@ permalink: amazonia
 
 The [Morgenstadt Initiative](https://www.morgenstadt.de/en.html) at Fraunhofer has been working with over 100 partner cities across four continents on sustainable urban development. Its [City Lab methodology](https://www.morgenstadt.de/content/dam/morgenstadt/en/documents/Morgenstadt%20City%20Labs_EN.pdf) combines systems analysis, co-creation workshops, and roadmapping to help cities identify and implement innovation pathways.
 
-Starting in 2024, together with the [Amazonia Institute of Technology, AmIT](https://amazonia4.org/), the [Fundação Getulio Vargas, FGV](https://portal.fgv.br/en) and the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/), we began exploring how this methodology could be meaningfully adapted with and for small and medium-sized towns in the Brazilian Amazon. The premise, heavily informed by regional voices, was that urban development is a precondition for both poverty alleviation and the preservation of the standing-forest bioeconomy. While local motivation in these towns is incredibly high, they often lack the technical capacity and institutional bridges to scale their initiatives into lasting systems.
+Starting in 2024, together with the [Amazonia Institute of Technology, AmIT](https://amazonia4.org/), the [Fundação Getulio Vargas, FGV](https://portal.fgv.br/en) and the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/), we began exploring how this methodology could be meaningfully adapted with and for small and medium-sized towns in the Brazilian Amazon. The premise, informed by regional voices and e.g. the [WRI](https://www.wri.org/research/new-economy-brazil-amazon), was that urban development is a precondition for both poverty alleviation and the preservation of the so-called *standing-forest flowing-rivers bioeconomy*. While local motivation in these towns is often high, they often lack the technical capacity and institutional bridges to scale their initiatives into lasting systems.
 
 Exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), one of the leading scientists working on the Amazon and the driving force behind Amazonia4.0, as well as with [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Amazon and [Maritta Koch-Weser](https://en.wikipedia.org/wiki/Maritta_Koch-Weser), Programme Coordinator for ["Amazonia em Transformação"](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas) at the [University of São Paulo](https://www5.usp.br/en/), helped shape what became the **Amazonia City Lab Initiative, ACLI**. The initiative was supported from the start by Fraunhofer IAO's directorate.
 ---
