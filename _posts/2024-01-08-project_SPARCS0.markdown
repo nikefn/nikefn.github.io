@@ -2,7 +2,7 @@
 title: "Fraunhofer: SPARCS - Positive Energy Districts"
 layout: post
 tag: research
-date: 2024-06-01 15:38
+date: 2024-10-01 15:38
 img: /assets/images/proj-work/sparcs/SPARCS_logo.png
 headerImage: true
 projects: true

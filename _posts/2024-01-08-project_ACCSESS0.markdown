@@ -1,8 +1,8 @@
 ---
-title: "Fraunhofer: ACCSESS - Carbon Capture Usage and Storage"
+title: "Fraunhofer: ACCSESS - Carbon Capture Usage and Storage Societal Acceptance"
 layout: post
 tag: research
-date: 2024-07-08 15:38
+date: 2024-08-08 15:38
 img: /assets/images/proj-work/accsess/accsess_logo.png
 headerImage: true
 projects: true

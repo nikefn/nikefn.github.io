@@ -1,8 +1,8 @@
 ---
-title: "Fraunhofer: URBREATH - Nature-Based Solutions"
+title: "URBREATH - Nature-Based Solutions in 9 EU Cities"
 layout: post
 tag: nature-based-solutions
-date: 2024-04-03 19:20
+date: 2025-01-06 19:20
 img: /assets/images/proj-work/urbreath/URBREATH.jpg
 projects: true
 description: "My professional projects through Fraunhofer: URBREATH"
