@@ -13,7 +13,7 @@ permalink: amazonia
 
 ## Why urban development in the Amazon matters
 
-The Amazon is one of the most urbanised regions on earth. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast: 10 of the 19 Brazilian cities that doubled their population in the last decade are in the Amazon[^1].
+Contrary to popular belief, the Amazon is a highly urbanised region. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast: 10 of the 19 Brazilian cities that doubled their population in the last decade are in the Amazon[^1].
 
 Most of these towns face severe gaps in basic services. Over 60% of urban populations in the region live in vulnerable conditions. Access to clean water, sanitation, electricity and waste management is often precarious. As a [recent WEF piece](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/) put it: There is no rescuing the rainforest without tending to the towns where most Amazonians live. Functional urban infrastructure is not a luxury that comes after conservation. It is a precondition for it. People who lack basic living conditions cannot be expected to sustain a standing-forest bioeconomy.
 
@@ -31,6 +31,9 @@ In 2024, a consortium of [Fraunhofer IAO](https://www.iao.fraunhofer.de/), [Amaz
 
 This was shaped through a series of exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), the driving force behind Amazonia 4.0, [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Amazon, and [Maritta Koch-Weser](https://www.deutschlandfunkkultur.de/sozialwissenschaftlerin-maritta-koch-weser-von-den-menschen-im-urwald-lernen-dlf-kultur-cba70011-100.html), Programme Coordinator at the University of São Paulo's [Institute for Advanced Studies](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas). The initiative received backing from Fraunhofer IAO's directorate and the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/).
 
+![Amazonia City Lab Initiative: consortium and outcomes overview](/assets/images/proj-work/amazonia/acli_consortium.png)
+*Amazonia City Lab Initiative: Amazonian cities teaming up with leading institutions from Brazil and Europe.*
+
 ---
 
 ## Novo Airão: A partnership, not a deployment site
@@ -40,6 +43,10 @@ Over 2024 and 2025, we narrowed the broad framing toward a concrete pilot. The m
 Novo Airão is situated on the Rio Negro at the gateway to the [UNESCO World Heritage Anavilhanas Archipelago](https://whc.unesco.org/en/list/998/) and south of the [Jaú National Park](https://en.wikipedia.org/wiki/Ja%C3%BA_National_Park). Roughly 15,000 to 20,000 people live there. Some 12 indigenous and traditional riverine communities are in its direct vicinity. The town has a growing ecotourism sector, a formalised Innovation Secretary within the municipal government and strong ties to regional actors including Amazonia 4.0. Local eco-hotels already practise waste separation and a recyclable-pickers cooperative, [COOPCAMARE](https://www.instagram.com/coopcamare/), has been working on collection and recovery of waste.
 
 What the local actors identified as their most pressing gap was processing capacity. When too much plastic accumulates and cannot be processed on site, it gets trucked back to the general dump, which in practice oftentimes means open burning and leakage into the waterways. A scoping visit in early 2026 confirmed this: The waste situation along the road into town was described "a most disgusting sight en route to one of the world's most stunning natural wonders" by a local.
+
+![Novo Airão: local market, Rio Negro at dusk, river transport](assets/images/proj-amazonia/willerding.png)
+*Novo Airão, Amazonas. Photos: André Willerding / Amazonia 4.0.*
+
 
 ---
 
@@ -75,6 +82,7 @@ Also regardless of the outcome, working on this initiative and outline has been 
 
 ## Related
 
+- [ACLI Outline and Cover Letter (PDF)](assets/images/proj-amazonia/ACLI_Outline+CoverLetter IAO-AmIT-FGV.pdf)
 - [Morgenstadt Initiative](https://www.morgenstadt.de/en.html)
 - [International Climate Initiative, IKI](https://www.international-climate-initiative.com/en/)
 - [Amazonia 4.0](https://amazonia4.org/)
