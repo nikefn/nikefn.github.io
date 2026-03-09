@@ -1,5 +1,5 @@
 ---
-title: "Fraunhofer: SPARCS - Positive Energy Districts"
+title: "SPARCS - Positive Energy Districts in 7 EU Cities"
 layout: post
 tag: research
 date: 2024-10-01 15:38
