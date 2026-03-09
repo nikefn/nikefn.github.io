@@ -55,7 +55,7 @@ I care about the gaps between research and practice, between daytime planning an
 
 I share photography on [Unsplash](https://unsplash.com/de/@neffler), play music as [dj effekt](https://soundcloud.com/effe) and occasionally build things with my hands, from [paintings]({{ site.url }}/paint) to [birdhouses]({{ site.url }}/birdhouse). I co-created [Crab Couture]({{ site.url }}/crabcouture), a concept for a sustainable fashion brand using generative AI.
 
-More of these personal projects live on the [Personal](/personal) section.
+More of these personal projects live on the [Creative](/creative) section.
 
 ---
 
