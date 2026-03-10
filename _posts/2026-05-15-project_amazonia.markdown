@@ -56,8 +56,11 @@ In direct response to this locally identified gap, ACLI and the Novo Airão stak
 
 The design choices reflect the principle of local ownership. The envisioned facility is built entirely around [open-source hardware](https://preciousplastic.com/) and documented standard operating procedures, so that it can be maintained, adapted and eventually replicated with local skills. The project explicitly aims not to begin with installing equipment but with community mapping, governance setup and co-creating operating rules. A local steering committee including COOPCAMARE, Amazonia 4.0, municipal representatives, and women's and youth representatives shall approve product priorities, benefit-sharing and monitoring. Where riverine and traditional communities are involved, participation follows informed opt-in formats.
 
-The consortium's roles reflect the equal-footing structure. Fraunhofer IAO leads overall coordination and technical quality assurance. FGV supports governance design, business model feasibility and policy interface. Amazonia 4.0 leads trusted local engagement, inclusion measures and on-the-ground operational support. The Municipality of Novo Airão acts as local host providing coordination and enabling conditions.
+The consortium's roles reflect the equal-footing structure. Fraunhofer IAO leads overall coordination and technical quality assurance. FGV supports governance design, business model feasibility and policy interface. Amazonia 4.0 leads trusted local engagement, inclusion measures and on-the-ground operational support. The Municipality of Novo Airão acts as local host providing coordination and enabling conditions. Below you may find the visual abstract for our proposal.
 
+
+![Visual Abstract/ Flowchart of IKI Proposal](assets/images/proj-amazonia/Flowchart_iki_medium.png)
+*Visual Abstract of IKI Proposal*
 ---
 
 ## Current status
