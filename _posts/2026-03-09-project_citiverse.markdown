@@ -30,7 +30,7 @@ Components of this vision are already deployed in cities like Seoul[^1], Helsink
 
 All of this suggests that the question is no longer whether cities will build virtual counterparts, but how, for whom and under what governance conditions.
 
-![Converging streams: urban theory, visual technology, connectivity, AI](assets/images/proj-work/citiverse/convergence_slide.jpg)
+![Converging streams: urban theory, visual technology, connectivity, AI](/assets/images/proj-work/citiverse/convergence_slide.jpg)
 *The Citiverse as convergence point of different technology and knowledge streams (slide snapshot).*
 
 ---
