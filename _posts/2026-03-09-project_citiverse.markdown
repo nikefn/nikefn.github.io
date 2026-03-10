@@ -76,7 +76,7 @@ What the Citiverse idea suggests, at least to me, is the possibility of stepping
 
 I do not want to overstate where we are. Most of what I have described is either common-sense, early-stage, experimental or still conceptual. The technology is advancing very fast. Questions about governance, data privacy, equity of access and the risk of immersive manipulation are largely unanswered. And there is a real danger that the Citiverse becomes just another layer of complexity rather than a bridge through it.
 
-But the underlying question feels right to me: how can we build tools that help people across different backgrounds arrive at a shared, experience-based understanding of their city, one that honours both the things we can count and the things that count but cannot easily be counted?
+But the underlying question feels right to me: How can we build tools that help people across different backgrounds arrive at a shared, experience-based understanding of their city, one that honours both the things we can count and the things that count but cannot easily be counted?
 
 That is what I am trying to work on.
 
