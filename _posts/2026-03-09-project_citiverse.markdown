@@ -97,7 +97,7 @@ A few recent publications that I found particularly interesting:
 
 - **Xu et al. (2025): "Using human mobility data to quantify experienced urban inequalities."** *Nature Human Behaviour.* Shifts the measurement of urban inequality from where people live to where they actually go. A interesting example of what becomes visible beyond conventional indicators. [DOI: 10.1038/s41562-024-02079-0](https://doi.org/10.1038/s41562-024-02079-0)
 
-- **Zhang et al. (2024): "Urban Foundation Models: A Survey."** *KDD 2024.* The first systematic definition of Urban Foundation Models. Essential for understanding the technical landscape underneath the Citiverse idea and how language, vision, time-series and multimodal urban data converge in a single model architecture.
+- **Zhang et al. (2024): "Urban Foundation Models: A Survey."** *KDD 2024.* The first systematic definition of Urban Foundation Models. Essential for understanding the technical landscape underneath the Citiverse idea and how language, vision, time-series and multimodal urban data converge in a single model architecture. [DOI: 10.1145/3637528.3671453](https://doi.org/10.1145/3637528.3671453)
 
 - **Stojanovic et al. (2026): "Blind spots and actionable insights for urban governance of the climate-biodiversity-health nexus."** *npj Urban Sustainability.* Documents the problem this page discusses: How sectoral silos, fragmented targets and soft governance tools create blind spots in urban policy, even when the data is technically available. [DOI: 10.1038/s42949-026-00345-w](https://doi.org/10.1038/s42949-026-00345-w)
 
