@@ -76,7 +76,7 @@ The field's response has been to try to close the gap from the indicator side: D
 
 [^7]: Slide from a seminar presentation. See full [Presentation](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing).
 
-The process of quantifying the intangible often strips away exactly what made it meaningful in the first place. The indicators themselves are valuable, they have materially improved how cities set targets, allocate budgets and track progress. But adding more of them does not resolve the underlying problem: That quantitative data and qualitative experience are different kinds of knowledge, and no amount of the former automatically produces the latter.
+The indicators themselves are valuable, they have materially improved how cities set targets, allocate budgets and track progress. But adding more of them does not resolve the underlying problem: That quantitative data and qualitative experience are different kinds of knowledge, and no amount of the former automatically produces the latter.
 
 What the Citiverse idea suggests, at least to me, is the possibility of complementing this cycle rather than just repeating it. Not by replacing, consolidating or helping choose the right indicators, but by adding a different kind of interface between data and understanding. Not a dashboard with more rows but a shared environment where quantitative models and qualitative experience can coexist. Where instead of reading a table about urban heat, you sense or see the temperature difference between a street with tree cover and one without. Where instead of debating abstract revenue and cost figures, you stand at the spot and see what a tree would do for the space. The data is still underneath, but it becomes accessible through experience rather than expertise alone.
 
@@ -92,9 +92,10 @@ That is what I am trying to work on.
 
 A few recent publications that I found particularly interesting:
 
-- **Zheng et al. (2025): "Urban planning in the era of large language models."** *Nature Computational Science.* Tsinghua and MIT Senseable City Lab argue that LLMs can fundamentally change how we plan cities, from spatial cognition to simulated community engagement. [DOI: 10.1038/s43588-025-00785-z](https://doi.org/10.1038/s43588-025-00785-z)
 
-- **Xu et al. (2025): "Using human mobility data to quantify experienced urban inequalities."** *Nature Human Behaviour.* Shifts the measurement of urban inequality from where people live to where they actually go. A interesting example of what becomes visible beyond conventional indicators. [DOI: 10.1038/s41562-025-02127-5](https://doi.org/10.1038/s41562-025-02127-5)
+- **Zheng et al. (2025): "Urban planning in the era of large language models."** *Nature Computational Science.* Tsinghua and MIT Senseable City Lab argue that LLMs can fundamentally change how we plan cities, from spatial cognition to simulated community engagement. [DOI: 10.1038/s43588-025-00846-1](https://doi.org/10.1038/s43588-025-00846-1)
+
+- **Xu et al. (2025): "Using human mobility data to quantify experienced urban inequalities."** *Nature Human Behaviour.* Shifts the measurement of urban inequality from where people live to where they actually go. A interesting example of what becomes visible beyond conventional indicators. [DOI: 10.1038/s41562-024-02079-0](https://doi.org/10.1038/s41562-024-02079-0)
 
 - **Zhang et al. (2024): "Urban Foundation Models: A Survey."** *KDD 2024.* The first systematic definition of Urban Foundation Models. Essential for understanding the technical landscape underneath the Citiverse idea and how language, vision, time-series and multimodal urban data converge in a single model architecture.
 
