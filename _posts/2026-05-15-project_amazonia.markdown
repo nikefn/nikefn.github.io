@@ -96,14 +96,14 @@ In January 2026, we submitted our ACLI concept note to [IKI](https://www.interna
 
 ## Related
 
-- [ACLI Outline and Cover Letter (PDF)](assets/images/proj-amazonia/ACLI_Outline+CoverLetter IAO-AmIT-FGV.pdf)
-- [Morgenstadt Initiative](https://www.morgenstadt.de/en.html)
-- [International Climate Initiative, IKI](https://www.international-climate-initiative.com/en/)
-- [Amazonia 4.0](https://amazonia4.org/)
-- [UNESCO: Central Amazon Conservation Complex](https://whc.unesco.org/en/list/998/)
-- [IDB: Amazonian Cities Forum](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/)
-- [WEF: How Amazonia cities can help build a sustainable planet](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/)
-- [Pulitzer Center: The Amazon Rainforest Is Urban, Too](https://pulitzercenter.org/stories/amazon-rainforest-urban-too)
+- The beginning and early grand-vision of the Amazonia City Lab Initiative: [Outline and Cover Letter (PDF)](assets/images/proj-amazonia/ACLI_Outline+CoverLetter IAO-AmIT-FGV.pdf)
+- [Website Morgenstadt Initiative](https://www.morgenstadt.de/en.html)
+- [Website International Climate Initiative, IKI](https://www.international-climate-initiative.com/en/)
+- [Website Amazonia 4.0](https://amazonia4.org/)
+- [Link: UNESCO: Central Amazon Conservation Complex](https://whc.unesco.org/en/list/998/)
+- [Link: IDB: Amazonian Cities Forum](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/)
+- [Link: "WEF: How Amazonia cities can help build a sustainable planet"](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/)
+- [Link "Pulitzer Center: The Amazon Rainforest Is Urban, Too"](https://pulitzercenter.org/stories/amazon-rainforest-urban-too)
 
 ---
 
