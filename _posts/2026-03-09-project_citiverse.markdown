@@ -105,5 +105,9 @@ A few recent publications that I found particularly interesting:
 - [1st UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/)
 - [Fraunhofer IAO Metaverse Campaign](https://www.iao.fraunhofer.de/de/leistungen/metaverse-vielfalt-erleben-innovation-gestalten.html)
 - [Blog: "Das Metaverse als Schnittstelle zwischen Modell und Wirklichkeit"](https://blog.iao.fraunhofer.de/das-metaverse-als-schnittstelle-zwischen-modell-und-wirklichkeit/)
+
+
 ---
+
+
 ## Footnotes
