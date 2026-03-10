@@ -3,7 +3,7 @@ title: "Citiverse: Virtual Worlds for Urban Systems"
 layout: post
 tag: research
 date: 2026-01-13 13:30
-img: /assets/images/proj-work/citiverse/header.jpg
+img: https://nikefn.github.io/assets/images/proj-work/citiverse/header.jpg
 headerImage: true
 projects: true
 author: niklaseffenberger
