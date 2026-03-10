@@ -13,13 +13,13 @@ permalink: amazonia
 
 ## Why Urban Development in the Amazon Matters
 
-Contrary to popular belief, the Amazon rainforest is an urbanised region. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://www.iadb.org/en/blog/urban-development-and-housing/cities-amazonia-unlocking-prosperity-and-protecting-ecosystems). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast: 10 of the 19 Brazilian cities that doubled their population in the last decade are in the Amazon[^1].
+Contrary to popular belief, the Amazon rainforest is an urbanised region. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://www.iadb.org/en/blog/urban-development-and-housing/cities-amazonia-unlocking-prosperity-and-protecting-ecosystems). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast[^1].
 
 Most of these towns face gaps in basic services. Over 60% of urban populations in the region live in vulnerable conditions. Access to clean water, sanitation, electricity and waste management is often precarious. As a [WEF publication](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/) puts it: There is no rescuing the rainforest without tending to the towns where most Amazonians live. Functional urban infrastructure is not a luxury that comes after conservation. It is a precondition for it. People who lack basic living conditions cannot be expected to sustain a **"standing-forest flowing-rivers bioeconomy"**.[^1]
 
 This was the starting point for our considerations and the **Amazonia City Lab Initiative**.
 
-[^1]: See also: [IDB Amazonian Cities Forum](https://www.iadb.org/en/blog/urban-development-and-housing/cities-amazonia-unlocking-prosperity-and-protecting-ecosystems); [Pulitzer Center: "The Amazon Rainforest Is Urban, Too"](https://pulitzercenter.org/stories/amazon-rainforest-urban-too); Durán Calisto, da Costa, et al. *Sustainable Cities in the Amazon.* Policy Brief. Science Panel for the Amazon, Sustainable Development Solutions Network, New York, USA (2025). [DOI: 10.55161/ACNT1416](https://eng-briefs.sp-amazon.org/251126%20SUSTAINABLE%20CITIES%20POLICY%20BRIEF%20ENG.pdf); World Economic Forum (2025) [Securing "Amazonia cities for a resilient and sustainable planet"](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/).
+[^1]: See: [IDB Amazonian Cities Forum](https://www.iadb.org/en/blog/urban-development-and-housing/cities-amazonia-unlocking-prosperity-and-protecting-ecosystems); [Pulitzer Center: "The Amazon Rainforest Is Urban, Too"](https://pulitzercenter.org/stories/amazon-rainforest-urban-too); Durán Calisto, da Costa, et al. *Sustainable Cities in the Amazon.* Policy Brief. Science Panel for the Amazon, Sustainable Development Solutions Network, New York, USA (2025). [DOI: 10.55161/ACNT1416](https://eng-briefs.sp-amazon.org/251126%20SUSTAINABLE%20CITIES%20POLICY%20BRIEF%20ENG.pdf); World Economic Forum (2025) [Securing "Amazonia cities for a resilient and sustainable planet"](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/).
 
 ---
 
@@ -41,13 +41,13 @@ This vision was shaped through a series of exchanges with [Carlos Nobre](https:/
 ## A Partnership with Novo Airão
 
 
+Over 2024 and 2025, we narrowed the broad framing towards a concrete pilot. While the consortium developed the overall vision, Amazonia 4.0 strengthened its ties to the municipality of [Novo Airão](https://en.wikipedia.org/wiki/Novo_Air%C3%A3o), which became the focal point for a possible collaboration due to existing local momentum and local readiness.
+
 ![Map of Brazil with Novo Airao](assets/images/proj-amazonia/novo-airao.jpg)
 *Map of Brazil with Location of Novo Airão*
 <sup><sub>
 *Source: [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Relief_Map_of_Brazil.jpg)*
 </sub></sup>
-
-Over 2024 and 2025, we narrowed the broad framing towards a concrete pilot. While the consortium developed the overall vision, Amazonia 4.0 strengthened its ties to the municipality of [Novo Airão](https://en.wikipedia.org/wiki/Novo_Air%C3%A3o), which became the focal point for a possible collaboration due to existing local momentum and local readiness.
 
 [Novo Airão](https://de.wikipedia.org/wiki/Novo_Air%C3%A3o) is situated on the Rio Negro at the gateway to the [Central Amazon Conservation Complex UNESCO World Heritage Site](https://whc.unesco.org/en/list/998/), which includes the Anavilhanas Archipelago, and south of the [Jaú National Park](https://en.wikipedia.org/wiki/Ja%C3%BA_National_Park). Approximately 15,000 to 20,000 people live there with 12 indigenous and traditional riverine communities in its direct vicinity. The town has a growing ecotourism sector, a formalised *Innovation Secretary* within the municipal government and strong ties to regional actors including Amazonia 4.0. Local eco-hotels already practise waste separation, and a recyclable-pickers cooperative, [COOPCAMARE](https://www.econodata.com.br/consulta-empresa/22807698000194-cooperativa-dos-catadores-e-catadoras-de-material-reciclavel-de-novo-airao), has [established and rooted itself](https://www.novoairao.am.gov.br/noticias_ver.php?id_noticia=71) in the collection and recovery of recyclable waste.
 
@@ -104,3 +104,7 @@ In January 2026, we submitted our ACLI concept note to [IKI](https://www.interna
 - [IDB: Amazonian Cities Forum](https://blogs.iadb.org/ciudades-sostenibles/en/world-cities-day-amazonian-cities-forum-sustainable-development/)
 - [WEF: How Amazonia cities can help build a sustainable planet](https://www.weforum.org/stories/2025/06/securing-amazonian-cities-for-sustainable-planet/)
 - [Pulitzer Center: The Amazon Rainforest Is Urban, Too](https://pulitzercenter.org/stories/amazon-rainforest-urban-too)
+
+---
+
+## Footnotes
