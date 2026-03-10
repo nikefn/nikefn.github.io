@@ -10,6 +10,10 @@ author: niklaseffenberger
 summary: "How the convergence of digital twins, AI, and immersive technologies may help cities bridge complexity and clarity."
 permalink: citiverse
 ---
+<sup><sub>
+*Header-Image Credit: [Optics: crystals exhibiting interference colours by R.H. Digeon, ca. 1883.](https://publicdomainreview.org/collection/optics-illustrations-from-the-physics-textbooks-of-amedee-guillemin-1868-1882/)*
+</sub></sup>
+
 
 ## What is the Citiverse?
 
