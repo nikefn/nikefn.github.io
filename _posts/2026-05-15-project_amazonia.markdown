@@ -41,7 +41,7 @@ This vision was shaped through a series of exchanges with [Carlos Nobre](https:/
 ## A Partnership with Novo Airão
 
 
-![Map of Brazil with Novo Airao](assets/images/proj-amazonia/novo-airao.jpeg)
+![Map of Brazil with Novo Airao](assets/images/proj-amazonia/novo-airao.jpg)
 *Map of Brazil with Location of Novo Airão*
 <sup><sub>
 *Source: [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Relief_Map_of_Brazil.jpg)*
