@@ -3,7 +3,7 @@ title: "Crab Couture"
 layout: post
 tag: personal
 date: 2024-08-01 23:52
-img: /assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg
+image: /assets/images/proj-personal/crabcouture/crab_taxtherichnotthepretty.jpeg
 creative: true
 author: niklaseffenberger
 summary: "About a sustaianble fashion brand idea brought to life with generative AI"

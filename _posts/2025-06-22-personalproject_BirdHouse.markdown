@@ -3,7 +3,7 @@ title: "To build a Birdhouse"
 layout: post
 tag: personal
 date: 2024-12-22 12:13
-img: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
+image: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
 creative: true
 author: niklaseffenberger
 summary: "I built a birdhouse"

@@ -3,7 +3,7 @@ title: "ACCSESS - Carbon Capture Usage and Storage and Real-World Tech Uptake"
 layout: post
 tag: research
 date: 2024-08-08 15:38
-img: /assets/images/proj-work/accsess/accsess_logo.png
+image: /assets/images/proj-work/accsess/accsess_logo.png
 headerImage: true
 projects: true
 author: niklaseffenberger

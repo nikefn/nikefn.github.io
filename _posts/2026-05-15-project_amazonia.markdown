@@ -3,7 +3,7 @@ title: "Amazonia City Lab Initiative"
 layout: post
 tag: research
 date: 2026-01-15 12:00
-img: /assets/images/proj-work/amazonia/amazonia_header.jpg
+image: /assets/images/proj-work/amazonia/amazonia_header.jpg
 headerImage: true
 projects: true
 author: niklaseffenberger
