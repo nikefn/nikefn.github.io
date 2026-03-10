@@ -82,17 +82,17 @@ That is what I am trying to work on.
 
 A few recent publications that I found particularly interesting:
 
-- **Zheng et al. (2025): "Urban planning in the era of large language models."** *Nature Computational Science.* Tsinghua and MIT Senseable City Lab argue that LLMs can fundamentally change how we plan cities, from spatial cognition to simulated community engagement. The most prominent articulation so far of what generative AI means for urban governance. [DOI: 10.1038/s43588-025-00785-z](https://doi.org/10.1038/s43588-025-00785-z)
+- **Zheng et al. (2025): "Urban planning in the era of large language models."** *Nature Computational Science.* Tsinghua and MIT Senseable City Lab argue that LLMs can fundamentally change how we plan cities, from spatial cognition to simulated community engagement. [DOI: 10.1038/s43588-025-00785-z](https://doi.org/10.1038/s43588-025-00785-z)
 
-- **Xu et al. (2025): "Using human mobility data to quantify experienced urban inequalities."** *Nature Human Behaviour.* Shifts the measurement of urban inequality from where people live to where they actually go. A landmark example of what becomes visible when you move beyond conventional indicators. [DOI: 10.1038/s41562-025-02127-5](https://doi.org/10.1038/s41562-025-02127-5)
+- **Xu et al. (2025): "Using human mobility data to quantify experienced urban inequalities."** *Nature Human Behaviour.* Shifts the measurement of urban inequality from where people live to where they actually go. A interesting example of what becomes visible when you move beyond conventional indicators. [DOI: 10.1038/s41562-025-02127-5](https://doi.org/10.1038/s41562-025-02127-5)
 
 - **Zhang et al. (2024): "Urban Foundation Models: A Survey."** *KDD 2024.* The first systematic definition of Urban Foundation Models. Essential for understanding the technical landscape underneath the Citiverse idea and how language, vision, time-series and multimodal urban data converge in a single model architecture.
 
-- **Stojanovic et al. (2026): "Blind spots and actionable insights for urban governance of the climate-biodiversity-health nexus."** *npj Urban Sustainability.* Documents exactly the problem this page discusses: how sectoral silos, fragmented targets and soft governance tools create blind spots in urban policy, even when the data is technically available. [DOI: 10.1038/s42949-026-00345-w](https://doi.org/10.1038/s42949-026-00345-w)
+- **Stojanovic et al. (2026): "Blind spots and actionable insights for urban governance of the climate-biodiversity-health nexus."** *npj Urban Sustainability.* Documents the problem this page discusses: How sectoral silos, fragmented targets and soft governance tools create blind spots in urban policy, even when the data is technically available. [DOI: 10.1038/s42949-026-00345-w](https://doi.org/10.1038/s42949-026-00345-w)
 
-- **Sanchez et al. (2024): "The Ethical Concerns of Artificial Intelligence in Urban Planning."** *Journal of the American Planning Association.* The first major treatment of AI ethics in the top planning journal. A necessary counterweight to the enthusiasm: what happens when these tools meet real governance, real bias, real power asymmetries.
+- **Sanchez et al. (2024): "The Ethical Concerns of Artificial Intelligence in Urban Planning."** *Journal of the American Planning Association.* AI ethics in one of the top planning journals and a counterweight to the enthusiasm: What happens when these tools meet real governance, real bias, real power asymmetries?
 
-- **Coyne, R. (2025): *AI and Language in the Urban Context: Conversational Artificial Intelligence in Cities.*** Routledge. Closely related to the "LListening to the City" idea: Coyne explores what happens when we treat cities not just as systems to be optimised but as communicative environments, and what role conversational AI plays in that shift. [DOI: 10.4324/9781003535751](https://doi.org/10.4324/9781003535751)
+- **Coyne, R. (2025): *AI and Language in the Urban Context: Conversational Artificial Intelligence in Cities.*** Routledge. Related to the "LListening to the City" idea: Coyne explores what happens when we treat cities not just as systems to be optimised but as communicative environments and what role conversational AI plays in there. [DOI: 10.4324/9781003535751](https://doi.org/10.4324/9781003535751)
 
 ---
 
