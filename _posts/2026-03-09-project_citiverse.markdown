@@ -3,7 +3,7 @@ title: "Citiverse: Virtual Worlds for Urban Systems"
 layout: post
 tag: research
 date: 2026-01-13 13:30
-image: https://nikefn.github.io/assets/images/proj-work/citiverse/header.jpg
+image: /assets/images/proj-work/citiverse/header.jpg
 headerImage: true
 projects: true
 author: niklaseffenberger
@@ -23,9 +23,9 @@ The word "Citiverse" describes this convergence. It was coined in the context of
 
 What makes the concept more than a rebranding of *"Smart City 2.0"* is the convergence itself. Urban theory has spent a century moving from static master planning toward understanding cities as complex adaptive systems. Visual technology has matured from cinema to consumer-grade VR and AR. Connectivity now supports real-time synchronisation of large, multi-user environments. And AI has reached a point where it can populate virtual models with agents, generate scenarios and translate between data types that previously did not speak to each other.
 
-Individually, each of those are a tool. Together, they open up the possibility of shared environments where a planner can walk through a proposed redesign, a citizen can experience what a new tram line means for their street, and an energy engineer can overlay heat demand data on the same model, all at the same time.
+Individually, each of those are a tool. Together, they promise to open up the possibility of shared environments where a planner could walk through a proposed redesign, a citizen could experience what a new tram line means for their street and an energy engineer could overlay heat demand data on the same model and all at the same time.
 
-Components of this vision are already deployed in cities like Seoul[^1], Helsinki[^2] and Zurich[^3] for participatory planning, risk management and infrastructure operations. But a fully integrated, city-scale citiverse remains an ambition. What exists today is a fast-moving landscape of pilot projects, policy frameworks and international standardisation efforts laying the groundwork. On the policy side, the EU established the [CitiVERSE EDIC](https://digital-strategy.ec.europa.eu/en/factpages/citiverse)[^4] in February 2024 with 14 member states and over €80 million invested and the [first UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/) launched in 2025.
+Components of this vision are already deployed in cities like Seoul[^1], Helsinki[^2] and Zurich[^3] for participatory planning, risk management and infrastructure operations. But a fully integrated, city-scale Citiverse remains an ambition. What exists today is a fast-moving landscape of pilot projects, policy frameworks and international standardisation efforts laying the groundwork. On the policy side, the EU established the [CitiVERSE EDIC](https://digital-strategy.ec.europa.eu/en/factpages/citiverse)[^4] in February 2024 with 14 member states and over €80 million invested and the [first UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/) launched in 2025.
 
 [^1]: **Seoul**: [Metaverse Seoul](https://english.seoul.go.kr/) for virtual municipal services; [S-Map digital twin](https://smap.seoul.go.kr/) for environmental and urban simulation.
 [^2]: **Helsinki**: Open-data [Helsinki 3D+](https://www.hel.fi/en/urban-environment-and-traffic/urban-planning-and-construction/information-about-the-city-and-maps/3d-city-models) platform for citizens and planners to virtually experience new urban developments.
@@ -66,9 +66,9 @@ The deeper I look at this, the more I think the underlying issue is about the re
 
 The trouble is that we know economic indicators fall short in these areas, so over time we develop alternative, more complex metrics to capture what was missing. My colleague Aapo Huovila documented [over 1,500 smart and sustainable city indicators](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat) in his dissertation. This sheer number is not a sign of failure; it reflects a genuine effort to make the intangible measurable. But it raises a question I keep coming back to: does this proliferation follow a pattern?
 
-![Open Question: Does a cycle like the following exist?](/assets/images/proj-work/citiverse/metrics_cycle.webp)
+![Open Question: Does a cycle like the following exist?](/assets/images/proj-work/citiverse/metrics_cycle.jpg)
 
-*A possible four-step loop: a complex urban question arises -> the available indicators are too broad or generic -> practitioners develop new site-specific ones, adding to proliferation -> governing bodies demand consolidation, producing official lists -> the cycle restarts. Whether this loop exists systematically is an open research question. The pattern of proliferation itself is observable.*[^7]
+**Open Question: Does a cycle like the following exist?** *The slide shows a hypothetical four-step cycle: A complex urban question arises -> the available indicators from e.g. official UN/EU-indicator spreadsheets are too broad or generic for local context -> practitioners develop new site-specific ones, increasing number of total indicators and adding to proliferation -> governing bodies demand consolidation, again producing consolidated official lists -> the cycle restarts. Whether this loop exists systematically is an open research question. The pattern of proliferation itself is observable.[^7]*
 
 [^7]: Slide from a seminar presentation on indicator proliferation. See full [Presentation](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing).
 

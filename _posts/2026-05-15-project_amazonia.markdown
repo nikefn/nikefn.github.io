@@ -4,7 +4,7 @@ layout: post
 tag: research
 date: 2026-01-15 12:00
 image: /assets/images/proj-work/amazonia/amazonia_header.jpg
-headerImage: true
+headerImage: false
 projects: true
 author: niklaseffenberger
 summary: "A co-created proposal for community-owned circular plastics processing in Novo Airão, developed hand-in-hand with partners in the Brazilian Amazon."
