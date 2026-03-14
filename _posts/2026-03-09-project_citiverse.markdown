@@ -2,7 +2,7 @@
 title: "Citiverse: Virtual Worlds for Urban Systems"
 layout: post
 tag: research
-date: 2026-03-14 16:36
+date: 2026-03-14 19:36
 image: /assets/images/proj-work/citiverse/header.jpg
 headerImage: true
 projects: true
@@ -20,6 +20,10 @@ permalink: citiverse
 Over the past few years, several technology streams that had been developing independently have started to converge around a shared question: What would it mean to have a city-scale virtual environment where people can experience, test and negotiate urban futures together?
 
 The word "Citiverse" describes this convergence. It was coined in the context of the [ITU Global Initiative on Virtual Worlds and AI](https://www.itu.int/metaverse/virtual-worlds/), launched in 2024 by the International Telecommunication Union, the United Nations International Computing Centre and Digital Dubai. The initiative defines a citiverse as a *network of interconnected virtual worlds that represent and are synchronized with their physical urban counterparts, using AI, digital twins, extended reality and real-time data to address the needs of cities and their inhabitants*.
+
+What makes the concept more than a rebranding of *"Smart City 2.0"* is the convergence itself. While mainstream planning practice often relied on static master plans, urban theorists have actually understood cities as complex, interconnected systems for over a century—the challenge has always been finding the tools to operationalize this theory.[^6] Visual technology has matured from cinema to consumer-grade VR and AR.  Connectivity now supports real-time synchronisation of large, multi-user environments. And AI has reached a point where it can populate virtual models with agents, generate scenarios and translate between data types that previously did not speak to each other. Individually, each of those are a tool. Together, they promise to open up the possibility of shared environments where a planner could walk through a proposed redesign, a citizen could experience what a new tram line means for their street and an energy engineer could overlay heat demand data on the same model and all at the same time.
+
+[^6]: Viewing the city as a complex, adaptive system isn't a new idea, even if it took a while for everyday planning practices to catch up. Early thinkers like Patrick Geddes ([*Cities in Evolution*](https://archive.org/details/citiesinevolutio00gedduoft), 1915) and Lewis Mumford ([*The Culture of Cities*](https://archive.org/details/cultureofcities0000lewi), 1938) were already using biological metaphors to describe urban interconnectedness. By the 1960s, Jane Jacobs famously called cities problems of "organized complexity" ([*The Death and Life of Great American Cities*](https://search.worldcat.org/title/death-and-life-of-great-american-cities/oclc/311655), 1961). The journey since then has largely been about developing the right tools to actually map and manage this complexity, from early computer models (like Jay W. Forrester's [*Urban Dynamics*](https://archive.org/details/urbandynamics0000forr), 1969) to network sciences (Michael Batty, [*The New Science of Cities*](https://mitpress.mit.edu/9780262019521/the-new-science-of-cities/), 2013).. with the newest devlopments in Urban Foundation Models and the Citiverse ... ?
 
 What makes the concept more than a rebranding of *"Smart City 2.0"* is the convergence itself. Urban theory has spent a century moving from static master planning toward understanding cities as complex adaptive systems. Visual technology has matured from cinema to consumer-grade VR and AR. Connectivity now supports real-time synchronisation of large, multi-user environments. And AI has reached a point where it can populate virtual models with agents, generate scenarios and translate between data types that previously did not speak to each other.
 
