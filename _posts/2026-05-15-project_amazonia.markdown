@@ -11,7 +11,7 @@ summary: "A co-created proposal for community-owned circular plastics processing
 permalink: amazonia
 ---
 
-## Why Urban Development in the Amazon Matters
+## The Urban Amazon?
 
 Contrary to popular belief, the Amazon rainforest is an urbanised region. This may sound counterintuitive, but [over 70% of the Amazon's population lives in towns and cities](https://www.iadb.org/en/blog/urban-development-and-housing/cities-amazonia-unlocking-prosperity-and-protecting-ecosystems). In Brazil, this share has been above 50% since the 1980s. Small and medium-sized towns in particular are growing fast[^1].
 
