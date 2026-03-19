@@ -12,7 +12,7 @@ permalink: paint
 
 ## Painting a Painting
 
-I did it! I painted a painting :)! *Text to follow*
+I did it! I painted a painting :)! 
 
 ![My Panting1](assets/images/proj-paint/0.jpeg)... and it's up on the wall in my living room!
 
