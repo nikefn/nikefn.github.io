@@ -25,8 +25,9 @@ permalink: pers-motivation
 
 > *"The whole is greater than the sum of its parts."*  
 >  
-> - Aristotle
+> Aristotle
 
+---
 
 Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*.
 
@@ -117,7 +118,7 @@ After completing my Master's, I joined the [Chair of Societal Transition and Agr
 
 When I attended the [ALTER-Net Summer School](https://www.alter-net.info/summer-school/) in the following, I observed a clear divide between researchers who relied on quantitative data and those who used qualitative methods. I got to understand better the divide between different framings of how to best assess and address a question... [^flyvbjerg]
 
-[^flyvbjerg]: For an interesting discussion of this divide, see: Flyvbjerg, B. (2001). *Making Social Science Matter: Why Social Inquiry Fails and How It Can Succeed Again*. Cambridge University Press. [DOI: 10.1017/CBO9780511810503](https://doi.org/10.1017/CBO9780511810503). 
+[^flyvbjerg]: For an interesting discussion of this divide, see: Flyvbjerg, B. (2001). *Making Social Science Matter: Why Social Inquiry Fails and How It Can Succeed Again*. Cambridge University Press. [DOI: 10.1017/CBO9780511810503](https://doi.org/10.1017/CBO9780511810503).
 
 And here I am:
 
