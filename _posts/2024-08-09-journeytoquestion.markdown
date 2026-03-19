@@ -1,5 +1,5 @@
 ---
-title: "My Way to Qualitative Research"
+title: "How I found Qualitative Research"
 layout: post
 date: 2024-11-13 13:00
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
@@ -19,7 +19,7 @@ permalink: pers-motivation
 
 ---
 
-### My Way to Qualitative Research
+### How I found Qualitative Research
 
 ---
 
