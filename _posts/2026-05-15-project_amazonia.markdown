@@ -2,7 +2,7 @@
 title: "Amazonia City Lab Initiative"
 layout: post
 tag: research
-date: 2026-01-15 20:31
+date: 2026-02-08 20:31
 image: /assets/images/proj-work/amazonia/amazonia_header.jpg
 headerImage: false
 projects: true
