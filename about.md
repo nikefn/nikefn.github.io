@@ -18,7 +18,7 @@ I also co-lead the [Fraunhofer Museum Innovation Network](https://www.iao.fraunh
 
 I hold a Master of Science in Bioeconomy from the [University of Hohenheim](https://www.uni-hohenheim.de/en), where I wrote my thesis on [The Governance of Nature-Based Solutions](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing) (graded 1.0). For my master, I was supported by a scholarship from the [Hans-Böckler-Stiftung](https://www.boeckler.de/en/index.htm).
 
-I care about the gaps between research and practice, between daytime planning and nighttime reality, between technological possibility and lived reality. I believe sustainable cities benefit from working across these divides. If you are working on urban futures, nature-based solutions, immersive technologies for cities or the governance of innovation, I would be happy to connect.
+I care about the gaps between research and practice, between daytime planning and nighttime reality, between technological possibility and lived reality. If you are working on urban futures, nature-based solutions, immersive technologies for cities or the governance of innovation, I would be happy to connect.
 
 ---
 
