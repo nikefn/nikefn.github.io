@@ -1,5 +1,5 @@
 ---
-title: "The Journey to My Dissertation Exposé"
+title: "Learning to value what can't be measured"
 layout: post
 date: 2024-11-13 13:00
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
@@ -11,7 +11,7 @@ tag:
 category: blog
 blog: true
 author: niklaseffenberger
-description: "Exploring the personal journey and motivation behind my doctoral research."
+description: "Exploring the personal journey and motivation behind my research."
 permalink: pers-motivation
 ---
 
@@ -28,7 +28,7 @@ permalink: pers-motivation
 > — Aristotle
 
 
-I am currently developing the proposal for my upcoming dissertation at [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) and the [Department of Urban Systems Engineering](https://www.iao.fraunhofer.de/de/forschung/forschungsbereiche/stadtsystem-gestaltung.html), titled *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*.
+For a while, I was working on possible questions for a dissertation. The PhD didn't materialise, but the thinking behind it stayed with me and shaped much of what I work on today at [Fraunhofer IAO](https://www.iao.fraunhofer.de/lang-en) and the [Department of Urban Systems Engineering](https://www.iao.fraunhofer.de/de/forschung/forschungsbereiche/stadtsystem-gestaltung.html), titled *"Urban Narratives and Numerical Goals - Redefining Metrics for Urban Development"*.
 
 As the title suggests, my research idea focusses on the metrics and indicators used to evaluate and guide urban systems, with an emphasis on how quantitative (or *numerical*) metrics interact with qualitative (or *narrative*) data.
 
