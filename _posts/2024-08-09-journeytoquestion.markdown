@@ -19,10 +19,6 @@ permalink: pers-motivation
 
 ---
 
-### How I found Qualitative Research
-
----
-
 > *"The whole is greater than the sum of its parts."*  
 >  
 > -Aristotle
