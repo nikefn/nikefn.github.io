@@ -16,12 +16,13 @@ On a more independent track, I've been working with [Amazonia 4.0](https://amazo
 
 I studied [Bioeconomy](https://www.uni-hohenheim.de/en/bioeconomy-masters) at the [University of Hohenheim](https://www.uni-hohenheim.de/en) and wrote my master thesis on [The Governance of Nature-based Solutions](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing). Over time, I moved from the natural sciences toward social sciences and interdisciplinary research. A journey I tried to putting into words [in this post]({{ site.url }}/pers-motivation).
 
-If you find any of those topics interesting, I'd be glad to hear from you and to get in touch. 
+If you find any of those topics interesting, I'd be glad to hear from you and to get in touch.
 
 ---
 
 ## Talks & Media
 
+- **Better Transformation Summit, Heilbronn** (2025): [Modetator und Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
 - **Fraunhofer Summer Camp** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
 - **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, [*"24-Hour Cities Against Climate Change"*](https://wuf.unhabitat.org/event/wuf12/24-hour-cities-against-climate-change-nighttime-strategies-address-challenges-climate)
@@ -40,7 +41,6 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 - [Deutschlandfunk Kultur: "Mit neuer Energie für die Stadt von Morgen"](https://www.deutschlandfunkkultur.de/mit-neuer-energie-fuer-die-stadt-von-morgen-dlf-kultur-232d5bab-100.html) (2022)
 - [Nature-Based Solutions, invited talk at American University of Armenia](https://www.youtube.com/watch?v=jGKvAwy1X8k) (2019)
 
----
 
 ## Publications
 
