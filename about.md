@@ -19,8 +19,7 @@ I studied [Bioeconomy](https://www.uni-hohenheim.de/en/bioeconomy-masters) at th
 If you find any of those topics interesting, I'd be glad to hear from you and to get in touch.
 
 ---
-
-## Talks & Media
+### Talks & Media
 - **Better Transformation Summit, Heilbronn** (2025): [Modetator und Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
 - **Fraunhofer Summer Camp** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
@@ -31,26 +30,24 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 - **Smart City Expo World Congress, Barcelona** (2022–2023): EU replication session and project presentation, [SCWC Barcelona](https://www.smartcityexpo.com/)
 - **NØK Conference, Mannheim** (2023): Panelist, "The Night in Germany: The Forgotten Time of Urban Development," [NØK 23](https://noek-conference.com/)
 - **about pop conference and festival, Stuttgart** (2023): [about pop](https://www.aboutpop.de/), presentation and workshop on the Nighttime Innnovation Network.
-
+---
 ### Video, Radio & TV
 - [Maeil Business TV Special: "Building the City of Tomorrow"](https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312) (2024, from min. 18)
 - [SPARCS City Forum, Maia, Portugal](https://www.youtube.com/embed/Yu9i-bEuXzo?start=120) (2024)
 - [URBREATH: Nature-Based Solutions across EU climatic zones](https://www.youtube.com/watch?v=dhcI8UE7tBU) (2024)
 - [Deutschlandfunk Kultur: "Mit neuer Energie für die Stadt von Morgen"](https://www.deutschlandfunkkultur.de/mit-neuer-energie-fuer-die-stadt-von-morgen-dlf-kultur-232d5bab-100.html) (2022)
 - [Nature-Based Solutions, invited talk at American University of Armenia](https://www.youtube.com/watch?v=jGKvAwy1X8k) (2019)
-
-
-## Publications
+---
+### Publications
 - **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities*. [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
 - Fatima, Z.;(...) **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
 - Feldwieser, M.;(...) **Effenberger, N.**; et al. (2023): "Die Cloud als zentrales Werkzeug der kommunalen Digitalisierung." *Fraunhofer IAO Trendletter.* [DOI: 10.24406/PUBLICA-1001](https://doi.org/10.24406/PUBLICA-1001)
 - **Effenberger, N.** et al. (2024): "Positive Energy Districts in Project SPARCS: Replication Summary Report for EU-27." [SPARCS Deliverable D5.1](https://sparcs.info/en/deliverables/d5-1-replication-summary-report/)
 - Sponagel, C.;(...) **Effenberger, N.**; et al. (2020): "Perspektiven und Status quo der Eingriffsregelung im Kontext der Landwirtschaft." *Berichte über Landwirtschaft* 98(2). [DOI: 10.26084/12DFNS-P008](https://doi.org/10.26084/12DFNS-P008)
 - **Effenberger, N.** (2018): "Which Governance Aspects Promote and Inhibit the Uptake of Nature-Based Solutions in Cities?" Master's Thesis, University of Hohenheim. [PDF](https://drive.google.com/file/d/1U3JRqgkWuD8HYwW8yis7Ijm3_PYSOx-e/view?usp=sharing)
-
 ---
 
-## Beyond Work
+### Beyond Work
 
 I take photos ([Unsplash](https://unsplash.com/de/@neffler)), play music as [dj effekt](https://soundcloud.com/effe) and now and then like to craft things with my hands, see e.g. [painting]({{ site.url }}/paint) or [a birdhouse]({{ site.url }}/birdhouse). I once ended up in an [e-bike commercial](https://youtu.be/30gz8h9rogE?si=X7DTz1HWPuoMeV2j) and I put together [Crab Couture]({{ site.url }}/crabcouture), an idea for a sustainable fashion label made with gen-AI.
 
