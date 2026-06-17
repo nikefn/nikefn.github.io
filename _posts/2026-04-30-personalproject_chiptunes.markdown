@@ -5,17 +5,19 @@ tag: personal
 date: 2026-04-30 19:25
 creative: true
 author: niklaseffenberger
-summary: "A little in-browser player for my favourite tracker tunes"
+summary: "A small in-browser player for some favourite tracker tunes"
 permalink: chiptunes
 ---
 
 ## My Favourite Chiptunes
 
-I have a soft spot for tracker music. Long before streaming, demosceners, keygen crews and bedroom musicians squeezed entire songs into a few kilobytes by stitching together short samples and pattern data inside *tracker* files (`.mod`, `.xm`, `.it`, `.s3m`, `.mo3`). The tunes below are some of my favourites, collected over the years from open scene archives.
+A small player for tracker modules I keep coming back to. They are all by the composer [maktone](https://demozoo.org/sceners/3036/) of Fairlight, mostly cracktro and chip tunes from the demoscene, saved as `.mod` and `.it` files. Each one is a few kilobytes of samples and pattern data that the browser plays back live.
 
-What I love about these formats: nothing here is a recording. Each tune is more like a tiny score that gets *performed* live the moment you press play. The little player below does exactly that, right in your browser, using [libopenmpt](https://lib.openmpt.org/libopenmpt/) compiled to WebAssembly. No audio files are streamed; your machine plays the module note by note.
+New to the demoscene? This Arte documentary is a nice way in: [arte tracks: Demoscene mit Farbrausch (2003)](https://www.youtube.com/watch?v=hqh1iXIlyJk).
 
-I have kept every track under its original filename on purpose. In the scene the filename is the credit, it tells you who made the tune or which group and release it came from, so renaming them felt wrong.
+More module music and scene productions: [The Mod Archive](https://modarchive.org), [Demozoo](https://demozoo.org), [Pouët](https://www.pouet.net).
+
+Playback runs on [libopenmpt](https://lib.openmpt.org/libopenmpt/) via [chiptune.js](https://github.com/DrSnuggles/chiptune), compiled to WebAssembly.
 
 <div id="ctp" class="ctp">
 <div class="ctp-now">
@@ -34,7 +36,7 @@ I have kept every track under its original filename on purpose. In the scene the
 </div>
 
 <style>
-.ctp { border:1px solid rgba(128,128,128,0.35); border-radius:8px; padding:1rem; margin:1.5rem 0; font-size:0.95rem; }
+.ctp { font-family:inherit; border:1px solid rgba(128,128,128,0.35); border-radius:8px; padding:1rem; margin:1.5rem 0; font-size:0.95rem; }
 .ctp-now { display:flex; flex-direction:column; gap:0.15rem; margin-bottom:0.75rem; }
 .ctp-status { opacity:0.6; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.06em; }
 .ctp-title { font-weight:600; overflow-wrap:anywhere; }
@@ -42,12 +44,11 @@ I have kept every track under its original filename on purpose. In the scene the
 .ctp-controls button { cursor:pointer; background:transparent; border:1px solid rgba(128,128,128,0.5); border-radius:5px; padding:0.3rem 0.7rem; color:inherit; font:inherit; }
 .ctp-controls button:hover { border-color:currentColor; }
 .ctp-seek { flex:1 1 140px; min-width:110px; }
-.ctp-time { font-variant-numeric:tabular-nums; opacity:0.7; font-size:0.8rem; white-space:nowrap; }
+.ctp-time { font-family:inherit; font-variant-numeric:tabular-nums; opacity:0.7; font-size:0.8rem; white-space:nowrap; }
 .ctp-vol { width:80px; flex:0 0 auto; }
-.ctp-list { list-style:none; margin:0; padding:0; max-height:300px; overflow-y:auto; border-top:1px solid rgba(128,128,128,0.25); }
+.ctp-list { list-style:none; margin:0; padding:0; max-height:300px; overflow-y:auto; border-top:1px solid rgba(128,128,128,0.25); counter-reset:ctp-counter; }
 .ctp-item { padding:0.35rem 0.5rem; cursor:pointer; border-radius:4px; overflow-wrap:anywhere; }
 .ctp-item:before { content:counter(ctp-counter) ".  "; counter-increment:ctp-counter; opacity:0.45; }
-.ctp-list { counter-reset:ctp-counter; }
 .ctp-item:hover { background:rgba(128,128,128,0.12); }
 .ctp-item.active { background:rgba(128,128,128,0.22); font-weight:600; }
 </style>
@@ -57,31 +58,28 @@ import { ChiptuneJsPlayer } from '/assets/js/chiptune/chiptune3.js';
 
 const BASE = '/assets/chiptunes/';
 const playlist = [
-  { file: 'dtn-super_mario_brothers.xm', title: 'dtn-super_mario_brothers.xm' },
-  { file: 'traven-super_mario_cave.xm', title: 'traven-super_mario_cave.xm' },
-  { file: 'traven-tetris_gb_ingame.xm', title: 'traven-tetris_gb_ingame.xm' },
-  { file: 'nagz-tetris_groowe_4k.xm', title: 'nagz-tetris_groowe_4k.xm' },
-  { file: 'dalezy-donkey_kong1.mod', title: 'dalezy-donkey_kong1.mod' },
-  { file: 'QWAK_INTRO.mod', title: 'QWAK_INTRO.MOD' },
-  { file: '4mat-l-f-f.it', title: '4mat-l-f-f [0-17].it' },
-  { file: 'reed-a_synthetic_device.xm', title: 'reed-a_synthetic_device.xm' },
-  { file: 'datachild-flexibility.it', title: 'datachild-flexibility [0-5].it' },
-  { file: 'MEXS-Kissing_the_clouds.xm', title: 'MEXS-Kissing_the_clouds.xm' },
-  { file: 'velvet_a_move-lupo.xm', title: 'velvet&a_move-lupo.xm' },
-  { file: 'autumn_rain.xm', title: 'autumn_rain.xm' },
-  { file: 'believe_in_yourself.mod', title: 'believe_in_yourself.mod' },
-  { file: 'betrayal.mod', title: 'betrayal.mod' },
-  { file: 'MOMENT_OF_CLARITY.mod', title: 'MOMENT_OF_CLARITY.MOD' },
-  { file: 'charabia.mod', title: 'charabia.mod' },
-  { file: 'springai.mod', title: 'springai.mod' },
-  { file: 'southern_fried.mod', title: 'southern_fried.mod' },
-  { file: 'cyb-city.s3m', title: 'cyb-city.s3m' },
-  { file: 'pepperoni-encounter.mod', title: 'pepperoni-encounter.mod' },
-  { file: 'BLiZZARD-1Click_DVD_Copy.xm', title: 'BLiZZARD - 1Click DVD Copy 4.2.9.2kg.XM' },
-  { file: 'CiM-Nero_6kg.xm', title: 'CiM - Nero 6kg.xm' },
-  { file: 'AGAiN-MusicMatch_Jukebox.mo3', title: 'AGAiN - MusicMatch Jukebox Pluscrkkg.mo3' },
-  { file: 'VIEMS-Jag_e_vilse.xm', title: 'VIEMS - Jag e vilse [start].xm' },
-  { file: 'dlz-msta.xm', title: 'dlz-msta.xm' }
+  { file: 'chillin_with_kings.mod', title: "chillin' with kings!" },
+  { file: 'eargasm.mod', title: "eargasm" },
+  { file: 'morning_has_broken.mod', title: "morning has broken" },
+  { file: 'norman_bates.mod', title: "Norman Bates" },
+  { file: 'legends_never_die.mod', title: "legends never die" },
+  { file: 'class_for_ever.mod', title: "class for ever!" },
+  { file: 'annies_song.mod', title: "annie's song" },
+  { file: 'a_weak_mind.mod', title: "a weak mind" },
+  { file: 'the_brewery.mod', title: "the brewery" },
+  { file: 'boozeline_2006.mod', title: "boozeline 2006" },
+  { file: 'fairlight_setup.mod', title: "fairlight setup" },
+  { file: 'die_trachtenpuppe.mod', title: "Die Trachtenpuppe" },
+  { file: 'premiere_cracktro.mod', title: "Premiere cracktro" },
+  { file: 'origin_cracktro.mod', title: "origin cracktro" },
+  { file: '2000ad_cracktro_iv.mod', title: "2000AD cracktro IV" },
+  { file: '2000ad_cracktro_02.mod', title: "2000AD cracktro 02" },
+  { file: 'class_installer_02.mod', title: "class installer 02" },
+  { file: 'class07.mod', title: "class07" },
+  { file: 'cls_toon_8.it', title: "cls toon 8" },
+  { file: 'sac02.mod', title: "sac02" },
+  { file: 'sac06.mod', title: "sac06!!!" },
+  { file: 'stamina.mod', title: "stamina" }
 ];
 
 const root = document.getElementById('ctp');
