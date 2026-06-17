@@ -16,7 +16,7 @@ Back in the days I did like a lot chiptune [tracker](https://en.wikipedia.org/wi
 Each file is only few kilobytes in size, yet fits a whole song. Have a listen :)..
 
 
-Playback runs on [libopenmpt](https://lib.openmpt.org/libopenmpt/) via [chiptune.js](https://github.com/DrSnuggles/chiptune), compiled to WebAssembly.
+
 
 <div id="ctp" class="ctp">
 <div class="ctp-now">
@@ -198,5 +198,6 @@ vol.addEventListener('input', function () {
 
 All of them are by incredible artist [maktone](https://modarchive.org/index.php?request=view_profile&query=69469) who wrote a lot of music for the release group [Fairlight](https://en.wikipedia.org/wiki/Fairlight_(group)). The tracks are free, and you may find his [archived site here](https://web.archive.org/web/20120910115924/http://sidchip.ath.cx/~maktone/).
 
+Playback runs with [libopenmpt](https://lib.openmpt.org/libopenmpt/) and [chiptune.js](https://github.com/DrSnuggles/chiptune).
 
 <div class="breaker"></div>
