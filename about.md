@@ -21,7 +21,6 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 ---
 
 ## Talks & Media
-
 - **Better Transformation Summit, Heilbronn** (2025): [Modetator und Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
 - **Fraunhofer Summer Camp** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
@@ -34,7 +33,6 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 - **about pop conference and festival, Stuttgart** (2023): [about pop](https://www.aboutpop.de/), presentation and workshop on the Nighttime Innnovation Network.
 
 ### Video, Radio & TV
-
 - [Maeil Business TV Special: "Building the City of Tomorrow"](https://mbnmoney.mbn.co.kr/program/vod?program_no=1000009&menu_no=162&broadcast_no=55312) (2024, from min. 18)
 - [SPARCS City Forum, Maia, Portugal](https://www.youtube.com/embed/Yu9i-bEuXzo?start=120) (2024)
 - [URBREATH: Nature-Based Solutions across EU climatic zones](https://www.youtube.com/watch?v=dhcI8UE7tBU) (2024)
@@ -43,7 +41,6 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 
 
 ## Publications
-
 - **Effenberger, N.** (2025): "My city never sleeps." *Nature Cities*. [DOI: 10.1038/s44284-025-00244-8](https://doi.org/10.1038/s44284-025-00244-8)
 - Fatima, Z.;(...) **Effenberger, N.**; et al. (2023): "Positive Energy Districts: The 10 Replicated Solutions in Maia, Reykjavik, Kifissia, Kladno and Lviv." *Smart Cities* 6(1). [DOI: 10.3390/smartcities6010001](https://doi.org/10.3390/smartcities6010001)
 - Feldwieser, M.;(...) **Effenberger, N.**; et al. (2023): "Die Cloud als zentrales Werkzeug der kommunalen Digitalisierung." *Fraunhofer IAO Trendletter.* [DOI: 10.24406/PUBLICA-1001](https://doi.org/10.24406/PUBLICA-1001)
