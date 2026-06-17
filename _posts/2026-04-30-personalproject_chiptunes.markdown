@@ -57,28 +57,25 @@ import { ChiptuneJsPlayer } from '/assets/js/chiptune/chiptune3.js';
 
 const BASE = '/assets/chiptunes/';
 const playlist = [
-  { file: 'chillin_with_kings.mod', title: "chillin' with kings!" },
-  { file: 'eargasm.mod', title: "eargasm" },
-  { file: 'morning_has_broken.mod', title: "morning has broken" },
+  { file: 'chillin_with_kings.mod', title: "Chillin' with Kings" },
+  { file: 'eargasm.mod', title: "Eargasm" },
   { file: 'norman_bates.mod', title: "Norman Bates" },
-  { file: 'legends_never_die.mod', title: "legends never die" },
-  { file: 'class_for_ever.mod', title: "class for ever!" },
-  { file: 'annies_song.mod', title: "annie's song" },
-  { file: 'a_weak_mind.mod', title: "a weak mind" },
-  { file: 'the_brewery.mod', title: "the brewery" },
-  { file: 'boozeline_2006.mod', title: "boozeline 2006" },
-  { file: 'fairlight_setup.mod', title: "fairlight setup" },
+  { file: 'legends_never_die.mod', title: "Legends Never Die" },
+  { file: 'class_for_ever.mod', title: "Class for Ever" },
+  { file: 'annies_song.mod', title: "Annie's Song" },
+  { file: 'a_weak_mind.mod', title: "A Weak Mind" },
+  { file: 'the_brewery.mod', title: "The Brewery" },
+  { file: 'fairlight_setup.mod', title: "Fairlight Setup" },
   { file: 'die_trachtenpuppe.mod', title: "Die Trachtenpuppe" },
-  { file: 'premiere_cracktro.mod', title: "Premiere cracktro" },
-  { file: 'origin_cracktro.mod', title: "origin cracktro" },
-  { file: '2000ad_cracktro_iv.mod', title: "2000AD cracktro IV" },
-  { file: '2000ad_cracktro_02.mod', title: "2000AD cracktro 02" },
-  { file: 'class_installer_02.mod', title: "class installer 02" },
-  { file: 'class07.mod', title: "class07" },
-  { file: 'cls_toon_8.it', title: "cls toon 8" },
-  { file: 'sac02.mod', title: "sac02" },
-  { file: 'sac06.mod', title: "sac06!!!" },
-  { file: 'stamina.mod', title: "stamina" }
+  { file: 'premiere_cracktro.mod', title: "Premiere Cracktro" },
+  { file: 'origin_cracktro.mod', title: "Origin Cracktro" },
+  { file: '2000ad_cracktro_iv.mod', title: "2000AD Cracktro IV" },
+  { file: '2000ad_cracktro_02.mod', title: "2000AD Cracktro 02" },
+  { file: 'class_installer_02.mod', title: "Class Installer 02" },
+  { file: 'class_07.mod', title: "Class 07" },
+  { file: 'class_toon_8.it', title: "Class Toon 8" },
+  { file: 'sac_06.mod', title: "SAC 06" },
+  { file: 'stamina.mod', title: "Stamina" }
 ];
 
 const root = document.getElementById('ctp');
