@@ -5,17 +5,16 @@ tag: personal
 date: 2026-04-30 19:25
 creative: true
 author: niklaseffenberger
-summary: "A small in-browser player for some favourite tracker tunes"
+summary: "Favourite Chiptunes"
 permalink: chiptunes
 ---
 
 ## My Favourite Chiptunes
 
-A small player for tracker modules I keep coming back to. They are all by the composer [maktone](https://demozoo.org/sceners/3036/) of Fairlight, mostly cracktro and chip tunes from the demoscene, saved as `.mod` and `.it` files. Each one is a few kilobytes of samples and pattern data that the browser plays back live.
+Back in the days I did like a lot chiptune [tracker](https://en.wikipedia.org/wiki/Music_tracker) music. Below you find a selection of my favourite tracks.
 
-New to the demoscene? This Arte documentary is a nice way in: [arte tracks: Demoscene mit Farbrausch (2003)](https://www.youtube.com/watch?v=hqh1iXIlyJk).
+Each file is only few kilobytes in size, yet fits a whole song. Have a listen :)..
 
-More module music and scene productions: [The Mod Archive](https://modarchive.org), [Demozoo](https://demozoo.org), [Pouët](https://www.pouet.net).
 
 Playback runs on [libopenmpt](https://lib.openmpt.org/libopenmpt/) via [chiptune.js](https://github.com/DrSnuggles/chiptune), compiled to WebAssembly.
 
@@ -196,5 +195,8 @@ vol.addEventListener('input', function () {
   if (player) { player.setVol(vol.value / 100); }
 });
 </script>
+
+All of them are by incredible artist [maktone](https://modarchive.org/index.php?request=view_profile&query=69469) who wrote a lot of music for the release group [Fairlight](https://en.wikipedia.org/wiki/Fairlight_(group)). The tracks are free, and you may find his [archived site here](https://web.archive.org/web/20120910115924/http://sidchip.ath.cx/~maktone/).
+
 
 <div class="breaker"></div>
