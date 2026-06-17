@@ -11,7 +11,7 @@ permalink: chiptunes
 
 ## My Favourite Chiptunes
 
-Back in the days I did like a lot chiptune [tracker](https://en.wikipedia.org/wiki/Music_tracker) music. Below you find a selection of my favourite tracks.
+Back in the days I did like a lot chiptune [tracker](https://en.wikipedia.org/wiki/Music_tracker) music. Below you find a selection of my favourite pieces.
 
 Each file is only few kilobytes in size, yet fits a whole song. Have a listen :)..
 
