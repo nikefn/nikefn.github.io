@@ -70,7 +70,7 @@ const playlist = [
   { file: 'premiere_cracktro.mod', title: "Premiere Cracktro" },
   { file: 'origin_cracktro.mod', title: "Origin Cracktro" },
   { file: '2000ad_cracktro_iv.mod', title: "2000AD Cracktro IV" },
-  { file: '2000ad_cracktro_02.mod', title: "2000AD Cracktro 02" },
+  { file: '2000ad_cracktro_02.mod', title: "2000AD Cracktro II" },
   { file: 'class_installer_02.mod', title: "Class Installer 02" },
   { file: 'class_07.mod', title: "Class 07" },
   { file: 'class_toon_8.it', title: "Class Toon 8" },
