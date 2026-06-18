@@ -2,7 +2,7 @@
 title: "My Favourite Chiptunes"
 layout: post
 tag: personal
-date: 2026-07-30 19:25
+date: 2026-04-15 19:25
 creative: true
 author: niklaseffenberger
 summary: "Favourite Chiptunes"

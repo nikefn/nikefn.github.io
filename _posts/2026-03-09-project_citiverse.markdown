@@ -2,7 +2,7 @@
 title: "Citiverse: Virtual Worlds for Urban Systems"
 layout: post
 tag: research
-date: 2026-03-22 19:36
+date: 2026-04-30 19:36
 image: /assets/images/proj-work/citiverse/header.jpg
 headerImage: true
 projects: true
