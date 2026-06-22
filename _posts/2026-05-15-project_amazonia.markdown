@@ -73,7 +73,7 @@ The consortium's roles also try to reflect the equal-footing structure. Fraunhof
 *Sounds and reads feasible - yet, it's only a grant proposal so far. See also visual abstract below.*
 
 ![Visual Abstract / Flowchart of IKI Proposal](assets/images/proj-amazonia/Flowchart_iki_medium.png)
-*Visual abstract of our IKI proposal.*
+*Visual abstract of our IKI proposal (gemini)*
 
 ---
 
