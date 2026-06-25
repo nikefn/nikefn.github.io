@@ -96,13 +96,13 @@ More of these live in the [Creative](/creative) section.
 }
 .ascii-globe__cap {
   margin-top: 1rem;
-  font-size: 0.82rem;
+  font-size: 1.6rem;
   opacity: 0.7;
 }
 .ascii-globe__dot { color: #ff3b30; }
 .ascii-globe__credit {
   margin-top: 0.3rem;
-  font-size: 0.7rem;
+  font-size: 1.6rem;
   opacity: 0.5;
 }
 .ascii-globe__credit a {
