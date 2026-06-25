@@ -20,9 +20,9 @@ permalink: pers-motivation
 </sub></sup>
 
 
- *"The whole is greater than the sum of its parts."*  
+*"The whole is greater than the sum of its parts."*  
 
-    *-Aristotle*
+*-Aristotle*
 
 
 
