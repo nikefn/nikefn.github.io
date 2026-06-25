@@ -81,8 +81,6 @@ More of these live in the [Creative](/creative) section.
 }
 .ascii-globe__canvas {
   display: inline-block;
-  /* width:auto + padding/border:0 override the theme's global `pre { width:100%;
-     padding; border }` so the box hugs the disc and cell measurement is clean. */
   width: auto;
   max-width: 100%;
   box-sizing: content-box;
@@ -91,12 +89,10 @@ More of these live in the [Creative](/creative) section.
   border: 0;
   background: transparent;
   font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
-  /* Deterministic, non-overlapping line height so the cell aspect ratio is
-     stable across browsers and the renderer's row/column math stays round. */
   line-height: 1;
   letter-spacing: 0;
   white-space: pre;
-  font-size: 11px;
+  font-size: 8px;
   -webkit-user-select: none;
   user-select: none;
   overflow: hidden;
