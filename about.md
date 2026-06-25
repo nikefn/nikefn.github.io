@@ -70,7 +70,7 @@ More of these live in the [Creative](/creative) section.
 <div id="ascii-globe" class="ascii-globe" aria-hidden="true">
   <pre class="ascii-globe__canvas"></pre>
   <div class="ascii-globe__cap">Based in <span class="ascii-globe__dot">&#9679;</span> Stuttgart, Germany</div>
-  <div class="ascii-globe__credit">ASCII globe inspired by <a href="https://glyphcss.com/" target="_blank" rel="noopener">glyph.css</a> (<a href="https://github.com/apresmoi/glyphcss" target="_blank" rel="noopener">repo</a>)</div>
+  <div class="ascii-globe__credit">ASCII globe inspired by <a href="https://glyphcss.com/" target="_blank" rel="noopener">glyph.css</a> </div>
 </div>
 
 <style>
@@ -112,7 +112,7 @@ More of these live in the [Creative](/creative) section.
 .ascii-globe__dot { color: #ff3b30; }
 .ascii-globe__credit {
   margin-top: 0.3rem;
-  font-size: 1.6rem;
+  font-size: 1.0rem;
   opacity: 0.5;
 }
 .ascii-globe__credit a {
