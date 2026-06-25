@@ -17,32 +17,28 @@ permalink: pers-motivation
 
 *Header-Image Credit: [NASA Images at the Internet Archive](https://archive.org/details/AS11-44-6548)*
 
----
 
 > *"The whole is greater than the sum of its parts."*  
->  
 > -Aristotle
 
 ---
 
 Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*.
 
-This might seem like a straightforward question at first, yet your answer might depend on whether you were asked on a sunny Saturday morning after a good night's sleep or on a grey Monday evening after a delayed commute. It could depend on whether the person asking is a city official, a friendly looking neighbour or a stranger with a clipboard. It depends on what "liveable" means to you: Safe? green? cultural life? affordable rent? And it depends on other things that are hard to pin down, like e.g. a feeling of belonging or how well you get along with your neighbours. [^liveability]
+This might seem like a straightforward question at first, yet your answer might depend on whether you are being asked on a sunny Saturday morning after a good night's sleep or on a grey Tuesday after returning from a bad day at work. It could depend on whether the person asking is a someone official or a friendly looking neighbour or a stranger with a clipboard wearing a uniform of a telco company. It also depends on how you would define *"liveable"* for yourself. Would it mean a safe neighbourhood? a green one? a neighborhood with many bars? what about affordable rent? Or on things like a feeling of belonging or how well you get along with your neighbours? [^liveability]
 
-[^liveability]: For an interesting read, see e.g: Okulicz-Kozaryn, A. (2013). City Life: Rankings (Livability) Versus Perceptions (Satisfaction). *Social Indicators Research*, 110(2), 433–451. [DOI: 10.1007/s11205-011-9939-x](https://doi.org/10.1007/s11205-011-9939-x) which suggests that objective liveability rankings and subjective resident perceptions don't necessarily align or Mouratidis, K. & Yiannakou, A. (2022). What makes cities livable? Determinants of neighborhood satisfaction and neighborhood happiness in different contexts. *Land Use Policy*, 112, 105855. [DOI: 10.1016/j.landusepol.2021.105855](https://doi.org/10.1016/j.landusepol.2021.105855) on how answers can differ depending on whether the question is framed around satisfaction or happiness.
+[^liveability]: For a interesting reads, see e.g: Okulicz-Kozaryn, A. (2013). City Life: Rankings (Livability) Versus Perceptions (Satisfaction). *Social Indicators Research*, 110(2), 433–451. [DOI: 10.1007/s11205-011-9939-x](https://doi.org/10.1007/s11205-011-9939-x) which suggests that objective liveability rankings and subjective resident perceptions don't necessarily align. Or 'Mouratidis, K. & Yiannakou, A. (2022). What makes cities livable? Determinants of neighborhood satisfaction and neighborhood happiness in different contexts. *Land Use Policy*, 112, 105855. [DOI: 10.1016/j.landusepol.2021.105855](https://doi.org/10.1016/j.landusepol.2021.105855)' on how answers can differ depending on whether the question is framed around satisfaction or happiness.
 
-*...It all depends, right?* - This is a small thought experiment, yet it illustrates a fundamental challenge that is more than just about survey design. It reaches into how we measure and evaluate life in cities and how difficult this is to do accurately.
-
----
+*Well, ...it all depends, right?* This small thought experiment shows a fundamental challenge in social science research that is more than just about how you ask questions or how you design a citizen survey. It reaches into how we measure and evaluate life in cities and how difficult this is to do accurately.
 
 Managing complex human systems like cities often turns around quantitative economic metrics, which heavily influence decision-making. However, these numerical economic measures frequently fall short in areas where financial profit is not the primary objective, for example in culture, urban nature and in most sustainability-related topics.
 
-Think for example of a city that might show strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the city's cultural richness - factors that are inherently qualitative.
+Think for example of a city that might show strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the city's cultural richness. Those factors that are inherently qualitative.
 
-This fundamental gap of economic theory has been recognised for quite a while [^10]. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *concept of externalities* [^pigou] or the *'Tragedy of the Commons'* [^1] [^stiglitz] [^oecd_life].
+This fundamental gap of economic theory has been recognised for quite a while. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *concept of externalities* [^pigou] or the *'Tragedy of the Commons'* [^1] [^stiglitz] [^oecd_life].
 
 
-[^pigou]: Pigou, A. C. (1920). *The Economics of Welfare*. Macmillan. Pigou introduced the concept of externalities which became foundational to environmental economics and the recognition that markets systematically underprice public goods like clean air, biodiversity or community well-being.
+[^pigou]: Pigou, A. C. (1920). *The Economics of Welfare*. Macmillan. Pigou introduced the concept of externalities which became foundational to environmental economics and the recognition that markets systematically underprice public goods like clean air, biodiversity or community well-being. He gave name to the textbook-famous [Pigouvian-Tax](https://en.wikipedia.org/wiki/Pigouvian_tax).
 
 [^1]: A situation where individuals acting according to their self-interest can ultimately deplete shared resources, despite understanding that depleting these common resources is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248. [DOI: 10.1126/science.162.3859.1243](https://doi.org/10.1126/science.162.3859.1243).
 
@@ -56,13 +52,13 @@ To address this gap, new, alternative metrics and indicators have been developed
 
 [^4]: Raworth, K. (2017). *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Chelsea Green Publishing. ISBN: 978-1-60358-674-7.
 
-However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately.[^oecd_handbook]
+However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately[^oecd_handbook].
 
 [^oecd_handbook]: For those interested in how composite indicators are actually built and what can go wrong in the process, see: Nardo, M., Saisana, M., Saltelli, A., Tarantola, S., Hoffmann, A. & Giovannini, E. (2008). *Handbook on Constructing Composite Indicators: Methodology and User Guide*. OECD/European Commission/JRC. OECD Publishing, Paris. [DOI: 10.1787/9789264043466-en](https://doi.org/10.1787/9789264043466-en).
 
 As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
 
-My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila, examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6]. [^goodhart] [^jansen]
+My colleague from the [SPARCS project](https://nikefn.github.io//sparcs), Aapo Huovila, examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6] [^goodhart] [^jansen].
 
 [^6]: Huovila, A. (2024). *Evaluation of Smart AND Sustainable City Development: What Indicators to Use, Why and When?* Doctoral dissertation, Aalto University / VTT Technical Research Centre of Finland. [Available at Aalto University](https://aaltodoc.aalto.fi/items/d5d64921-3d49-458a-8f7e-687d62a848d6).
 
@@ -130,6 +126,6 @@ I don't have an answer yet :).
 
 ---
 
-[If you're interested, please see a presentation I held on this topic](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing)
+Ps.: If you're interested, please see [a presentation I held on this topic](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing)
 
 ---
