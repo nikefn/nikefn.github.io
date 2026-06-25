@@ -17,9 +17,9 @@ permalink: pers-motivation
 
 *Header-Image Credit: [NASA Images at the Internet Archive](https://archive.org/details/AS11-44-6548)*
 
+ *"The whole is greater than the sum of its parts."*  
 
-> *"The whole is greater than the sum of its parts."*  
-> -Aristotle
+    *-Aristotle*
 
 ---
 
