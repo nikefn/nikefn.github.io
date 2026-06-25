@@ -126,6 +126,6 @@ I don't have an answer yet :).
 
 ---
 
-Ps.: If you're interested, please see [a presentation I held on this topic](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing)
+Ps.: If you're interested, please see [a presentation I held on this topic here](https://drive.google.com/file/d/17a3YCxPipSN7-F7r4vscOw29cNbG6e4r/view?usp=sharing).
 
 ---
