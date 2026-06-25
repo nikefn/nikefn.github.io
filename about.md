@@ -6,7 +6,7 @@ layout: page
 
 Hi, I'm Niklas. I'm a research associate at [Fraunhofer IAO](https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html) in Stuttgart, working in the Urban Systems Engineering department. Most of my work is about cities, sustainability and the question of how the two may fit together.
 
-A lot of that work happens inside large European research projects. Right now I coordinate the *replication and scaling* work package in [URBREATH]({{ site.url }}/urbreath), which is about nature-based solutions for climate resilience across different European cities. Before that I worked on *positive energy districts* in [SPARCS]({{ site.url }}/sparcs), and on the societal side of carbon capture in [ACCSESS]({{ site.url }}/accsess). The overarching idea is the concept of *"replication"* and on how something that works in one city, may be made to work in another (...and why that often turns out to be much harder than it sounds).
+A lot of that work happens inside large European research projects. Right now I coordinate the *replication and scaling* work package in [URBREATH]({{ site.url }}/urbreath), which is about nature-based solutions for climate resilience across different European cities. Before that I worked on *positive energy districts* in [SPARCS]({{ site.url }}/sparcs), and on the societal side of carbon capture in [ACCSESS]({{ site.url }}/accsess). The overarching idea is the concept of *"replication"* and on how something that works in one city, may be made to work in another.
 
 Recently I've been spending time on the idea of the *[Citiverse]({{ site.url }}/citiverse)* and on city-scale virtual environments that try to bring together digital twins, simulations and immersive interfaces. I am still trying to understand what to make out of the concept and where it could go. Yet, the question I keep coming back to, is, whether tools like those could actually help people from different backgrounds arrive at a shared understanding of what is happening and what could happen in their city. I've written more about that on the dedicated [project page]({{ site.url }}/citiverse).
 
@@ -21,16 +21,15 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 ---
 
 ### Talks & Media
-- **Better Transformation Summit, Heilbronn** (2025): [Modetator und Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
+- **Better Transformation Summit, Heilbronn** (2025): [Modetator and Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
-- **Fraunhofer Summer Camp** (2025): Track Lead and Coach, "Entert:ai:n" Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
+- **Fraunhofer Summer Camp** (2025): Track Leader and Coach, Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
 - **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, [*"24-Hour Cities Against Climate Change"*](https://wuf.unhabitat.org/event/wuf12/24-hour-cities-against-climate-change-nighttime-strategies-address-challenges-climate)
-- **RPTU Kaiserslautern-Landau visit at the Dept. of Urban Systems Engineering** (2025): Lecture and Workshop Lead, "Interdisciplinary Approaches to Sustainable Cities"
-- **SXSW Austin** (2024): [*"The Transformation of Nightlife for a Sustainable Tomorrow"*](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/), NighttimeLab panel
-- **Stuttgarter Wissenschaftsfestival** (2024): "Stuttgart als Morgenstadt," [Wissenschaftsfestival](https://wissenschaftsfestival.stuttgart.de/)
-- **Smart City Expo World Congress, Barcelona** (2022–2023): EU replication session and project presentation, [SCWC Barcelona](https://www.smartcityexpo.com/)
-- **NØK Conference, Mannheim** (2023): Panelist, "The Night in Germany: The Forgotten Time of Urban Development," [NØK 23](https://noek-conference.com/)
-- **about pop conference and festival, Stuttgart** (2023): [about pop](https://www.aboutpop.de/), presentation and workshop on the Nighttime Innnovation Network.
+- **ENCHURE M.Sc. (RPTU Kaiserslautern-Landau) visit at the Dept. of Urban Systems Engineering** (2025): Seminar and Lecture, "Interdisciplinary Approaches to Sustainable Cities"
+- **SXSW Austin** (2024): [*"Sustainability Nighttime Lab"*](https://www.nighttime.org/vibelabs-unveiling-at-sxsw-how-can-nightlife-go-towards-greener-future-and-what-role-does-ai-play/): Panelist
+- **Stuttgarter Wissenschaftsfestival** (2024): Presentation "Stuttgart als Morgenstadt," [Wissenschaftsfestival](https://wissenschaftsfestival.stuttgart.de/)
+- **Smart City Expo World Congress, Barcelona** (2022–2023): EU Replication and Scaling session, [SCWC Barcelona](https://www.smartcityexpo.com/)
+
 
 ---
 
