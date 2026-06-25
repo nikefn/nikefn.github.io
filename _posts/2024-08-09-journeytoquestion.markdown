@@ -21,7 +21,7 @@ permalink: pers-motivation
 
 
   >  *"The whole is greater than the sum of its parts."*
-
+  >
   >    -Aristotle
 
 <div class="breaker"></div>
