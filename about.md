@@ -92,7 +92,7 @@ More of these live in the [Creative](/creative) section.
   line-height: 1;
   letter-spacing: 0;
   white-space: pre;
-  font-size: 8px;
+  font-size: 7px;
   -webkit-user-select: none;
   user-select: none;
   overflow: hidden;
