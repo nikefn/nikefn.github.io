@@ -93,7 +93,10 @@ More of these live in the [Creative](/creative) section.
   -webkit-user-select: none;
   user-select: none;
   overflow: hidden;
+  cursor: grab;
+  touch-action: none;
 }
+.ascii-globe__canvas.is-dragging { cursor: grabbing; }
 .ascii-globe__cap {
   margin-top: 1rem;
   font-size: 1.6rem;
