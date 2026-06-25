@@ -28,7 +28,7 @@ permalink: pers-motivation
 
 
 
-Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*.
+Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*
 
 This might seem like a straightforward question at first, yet your answer might depend on whether you are being asked on a sunny Saturday morning after a good night's sleep or on a grey Tuesday after returning from a bad day at work. It could depend on whether the person asking is a someone official or a friendly looking neighbour or a stranger with a clipboard wearing a uniform of a telco company. It also depends on how you would define *"liveable"* for yourself. Would it mean a safe neighbourhood? a green one? a neighborhood with many bars? what about affordable rent? Or on things like a feeling of belonging or how well you get along with your neighbours? [^liveability]
 
