@@ -15,13 +15,17 @@ description: "How I gradually moved from trusting numbers to appreciating what q
 permalink: pers-motivation
 ---
 
+<sup><sub>
 *Header-Image Credit: [NASA Images at the Internet Archive](https://archive.org/details/AS11-44-6548)*
+</sub></sup>
+
 
  *"The whole is greater than the sum of its parts."*  
 
     *-Aristotle*
 
----
+
+
 
 Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*.
 
