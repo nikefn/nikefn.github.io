@@ -24,7 +24,7 @@ permalink: pers-motivation
 
       -Aristotle
 
----
+
 
 
 Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*.
