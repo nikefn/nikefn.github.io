@@ -14,8 +14,9 @@ author: niklaseffenberger
 description: Seeing in the Dark - Nighttime’s Potential in Urban Innovation
 permalink: /nighttime2/
 ---
-
+<sup><sub>
 *Header-Image Credit: [NASA, ESA, H. Bond (STScI) and M. Barstow (University of Leicester)](https://www.nasa.gov/image-article/measuring-white-dwarf-star/)*
+</sub></sup>
 
 ---
 **Update June 2025**  
