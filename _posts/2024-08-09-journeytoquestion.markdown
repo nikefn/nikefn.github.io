@@ -36,8 +36,7 @@ This might seem like a straightforward question at first, yet your answer might 
 
 *Well, ...it all depends, right?* This small question and thought experiment shows a fundamental challenge in social science research that is more than just about how to ask questions, how to best design a citizen survey or how to best do statistical analysis of survey results[^stats]. It reaches into how we measure and evaluate life in cities and how difficult this is to do accurately.
 
-[^stats]: See e.g. [Misuse of Statistics (Wikipedia)](https://en.wikipedia.org/wiki/Misuse_of_statistics), [Simpson's Paradox (Wikipedia)](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-or this 2015 ebook [Statistics Done Wrong -  The woefully complete guide](https://www.statisticsdonewrong.com/).
+[^stats]: See e.g. [Misuse of Statistics (Wikipedia)](https://en.wikipedia.org/wiki/Misuse_of_statistics), [Simpson's Paradox (Wikipedia)](https://en.wikipedia.org/wiki/Simpson%27s_paradox) or this 2015 ebook [Statistics Done Wrong -  The woefully complete guide](https://www.statisticsdonewrong.com/).
 
 Think for example of a city that might show strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the city's cultural richness. Those factors that are inherently qualitative.
 
