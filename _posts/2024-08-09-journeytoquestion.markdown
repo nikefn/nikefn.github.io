@@ -37,18 +37,18 @@ This might seem like a straightforward question at first, yet your answer might 
 *Well, ...it all depends, right?* This small question and thought experiment shows a fundamental challenge in social science research that is more than just about how to ask questions, how to best design a citizen survey or how to best do statistical analysis of survey results[^stats]. It reaches into how we measure and evaluate life in cities and how difficult this is to do accurately.
 
 [^stats]: See e.g. [Misuse of Statistics (Wikipedia)](https://en.wikipedia.org/wiki/Misuse_of_statistics), [Simpson's Paradox (Wikipedia)](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-or this 2015 ebook [Statistics Done Wrong -  The woefully complete guide](https://www.statisticsdonewrong.com/)
+or this 2015 ebook [Statistics Done Wrong -  The woefully complete guide](https://www.statisticsdonewrong.com/).
 
 Think for example of a city that might show strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the city's cultural richness. Those factors that are inherently qualitative.
 
-This fundamental gap of economic theory has been recognised for quite a while. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *concept of externalities* [^pigou] or the *'Tragedy of the Commons'*[^1] [^stiglitz] [^oecd_life].
+This fundamental gap of economic theory has been recognised for quite a while. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *concept of externalities*[^pigou] or the *'Tragedy of the Commons'*[^1] [^stiglitz] [^oecd_life].
 
 
 [^pigou]: Pigou, A. C. (1920). [*The Economics of Welfare*](https://archive.org/details/economicsofwelfa00pigouoft). Macmillan. Pigou introduced the concept of externalities which became foundational to environmental economics and the recognition that markets systematically underprice public goods like clean air, biodiversity or community well-being. He gave name to the textbook-famous [Pigouvian-Tax](https://en.wikipedia.org/wiki/Pigouvian_tax).
 
 [^1]: A situation where individuals acting according to their self-interest can ultimately deplete shared resources, despite understanding that depleting these common resources is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248. [DOI: 10.1126/science.162.3859.1243](https://doi.org/10.1126/science.162.3859.1243).
 
-[^stiglitz]: In 2008, the French government funded a commission led by Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi, whose report argued that policy-makers should complement economic output measures with indicators of well-being, inequality and sustainability. See: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2009). *Report by the Commission on the Measurement of Economic Performance and Social Progress*. [(PDF)](https://ec.europa.eu/eurostat/documents/8131721/8131772/Stiglitz-Sen-Fitoussi-Commission-report.pdf). Also published as: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
+[^stiglitz]: In 2008, the French government funded a commission led by Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi, whose report argued that policy-makers should complement economic output measures with indicators of well-being, inequality and sustainability. See: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2009). [*Report by the Commission on the Measurement of Economic Performance and Social Progress*](https://ec.europa.eu/eurostat/documents/8131721/8131772/Stiglitz-Sen-Fitoussi-Commission-report.pdf). Also published as: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
 
 [^oecd_life]: The OECD is publishing the *How's Life?* reports since 2011, on well-being, material conditions and quality of life in member countries. See: OECD (2024). *How's Life? 2024: Well-being and Resilience in Times of Crisis*. OECD Publishing, Paris. [DOI: 10.1787/90ba854a-en](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/how-s-life-2024_bdcf2f9f/90ba854a-en.pdf).
 
