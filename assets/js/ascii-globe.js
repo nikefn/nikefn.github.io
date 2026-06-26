@@ -228,8 +228,12 @@
 
     var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     var AUTO_SPEED = reduce ? 0.0 : 0.22;
-    var spin = 0;
-    var tilt = -0.38;
+    // Start centered on Europe (Stuttgart faces the viewer). Solving the
+    // marker transform for vXm=0 gives spin=-lon; for vYm=0 gives tilt=lat,
+    // which puts the marker at the disc center (vZm=1) on load. Auto-spin
+    // then continues from here.
+    var spin = -ST_LON;
+    var tilt = ST_LAT;
     var TILT_MIN = -1.2, TILT_MAX = 1.2;
     var vel = AUTO_SPEED;
     var dragging = false;
