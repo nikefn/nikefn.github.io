@@ -1,7 +1,7 @@
 ---
 title: "How I found Qualitative Research"
 layout: post
-date: 2025-11-13 13:00
+date: 2026-11-13 13:00
 image: https://nikefn.github.io/assets/images/blog/earth.jpg
 headerImage: true
 tag:
