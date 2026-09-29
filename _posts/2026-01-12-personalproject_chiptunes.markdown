@@ -19,19 +19,19 @@ Each file is only few kilobytes in size, yet fits a whole song. Have a listen :)
 
 
 <div id="ctp" class="ctp">
-<div class="ctp-now">
+<div class="ctp-now" aria-live="polite" aria-atomic="true">
 <span class="ctp-status">Press play to start</span>
 <span class="ctp-title">&nbsp;</span>
 </div>
 <div class="ctp-controls">
-<button class="ctp-prev" type="button">Prev</button>
+<button class="ctp-prev" type="button" aria-label="Previous track">Prev</button>
 <button class="ctp-play" type="button">Play</button>
-<button class="ctp-next" type="button">Next</button>
-<input class="ctp-seek" type="range" min="0" max="1000" value="0" aria-label="Seek">
+<button class="ctp-next" type="button" aria-label="Next track">Next</button>
+<input class="ctp-seek" type="range" min="0" max="0" value="0" step="1" aria-label="Seek">
 <span class="ctp-time">0:00 / 0:00</span>
 <input class="ctp-vol" type="range" min="0" max="100" value="80" aria-label="Volume">
 </div>
-<ol class="ctp-list"></ol>
+<ol class="ctp-list" aria-label="Playlist"></ol>
 </div>
 
 <style>
@@ -46,15 +46,17 @@ Each file is only few kilobytes in size, yet fits a whole song. Have a listen :)
 .ctp-time { font-family:inherit; font-variant-numeric:tabular-nums; opacity:0.7; font-size:0.8rem; white-space:nowrap; }
 .ctp-vol { width:80px; flex:0 0 auto; }
 .ctp-list { list-style:none; margin:0; padding:0; max-height:300px; overflow-y:auto; border-top:1px solid rgba(128,128,128,0.25); counter-reset:ctp-counter; }
-.ctp-item { padding:0.35rem 0.5rem; cursor:pointer; border-radius:4px; overflow-wrap:anywhere; }
-.ctp-item:before { content:counter(ctp-counter) ".  "; counter-increment:ctp-counter; opacity:0.45; }
+.ctp-item { margin:0; padding:0; border-radius:4px; }
+.ctp-item button { display:block; width:100%; margin:0; padding:0.35rem 0.5rem; background:transparent; border:0; border-radius:4px; color:inherit; font:inherit; text-align:left; cursor:pointer; overflow-wrap:anywhere; }
+.ctp-item button:before { content:counter(ctp-counter) ".  "; counter-increment:ctp-counter; opacity:0.45; }
 .ctp-item:hover { background:rgba(128,128,128,0.12); }
 .ctp-item.active { background:rgba(128,128,128,0.22); font-weight:600; }
+.ctp-controls button:focus-visible, .ctp-controls input:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+.ctp-item button:focus-visible { outline:2px solid currentColor; outline-offset:-2px; }
 </style>
 
 <script type="module">
 import { ChiptuneJsPlayer } from '/assets/js/chiptune/chiptune3.js';
-
 const BASE = '/assets/chiptunes/';
 const playlist = [
   { file: 'chillin_with_kings.mod', title: "Chillin' with Kings" },
@@ -77,7 +79,6 @@ const playlist = [
   { file: 'sac_06.mod', title: "SAC 06" },
   { file: 'stamina.mod', title: "Stamina" }
 ];
-
 const root = document.getElementById('ctp');
 const statusEl = root.querySelector('.ctp-status');
 const titleEl = root.querySelector('.ctp-title');
@@ -88,108 +89,214 @@ const seek = root.querySelector('.ctp-seek');
 const timeEl = root.querySelector('.ctp-time');
 const vol = root.querySelector('.ctp-vol');
 const list = root.querySelector('.ctp-list');
-
+const supported = typeof window.AudioContext === 'function' && typeof window.AudioWorkletNode === 'function';
 let player = null;
 let ready = false;
+let broken = false;
 let current = -1;
 let playing = false;
+let stopped = true;
+let loading = false;
 let duration = 0;
 let seeking = false;
 let pendingIndex = null;
-
+let loadToken = 0;
+let sent = 0;
+let answered = 0;
+let failures = 0;
+let lastTime = '';
+const itemBtns = [];
 playlist.forEach(function (t, i) {
   const li = document.createElement('li');
   li.className = 'ctp-item';
-  li.textContent = t.title;
-  li.addEventListener('click', function () { selectTrack(i); });
+  const b = document.createElement('button');
+  b.type = 'button';
+  b.textContent = t.title;
+  b.addEventListener('click', function () { failures = 0; selectTrack(i, false); });
+  li.appendChild(b);
   list.appendChild(li);
+  itemBtns.push(b);
 });
-
 function fmt(s) {
   s = Math.max(0, Math.floor(s || 0));
   const m = Math.floor(s / 60);
   const r = s % 60;
   return m + ':' + (r < 10 ? '0' : '') + r;
 }
-
 function setStatus(msg) { statusEl.textContent = msg; }
-
+function setTime(pos) {
+  const txt = fmt(pos) + ' / ' + fmt(duration);
+  if (txt !== lastTime) { lastTime = txt; timeEl.textContent = txt; }
+}
+function setPlaying(p) {
+  playing = p;
+  playBtn.textContent = p ? 'Pause' : 'Play';
+}
 function highlight() {
-  const items = list.children;
-  for (let i = 0; i < items.length; i++) {
-    items[i].classList.toggle('active', i === current);
+  for (let i = 0; i < itemBtns.length; i++) {
+    itemBtns[i].parentNode.classList.toggle('active', i === current);
+    if (i === current) { itemBtns[i].setAttribute('aria-current', 'true'); } else { itemBtns[i].removeAttribute('aria-current'); }
   }
 }
-
+function engineFailed(msg) {
+  broken = true;
+  ready = false;
+  loading = false;
+  pendingIndex = null;
+  setPlaying(false);
+  setStatus(msg);
+  if (player) { player.context.close().catch(function () {}); }
+}
+function trackFailed() {
+  loading = false;
+  failures++;
+  if (failures >= playlist.length) {
+    player.stop();
+    stopped = true;
+    setPlaying(false);
+    setStatus('Could not play any track');
+    return;
+  }
+  setStatus('Could not play this track, skipping');
+  step(1, true);
+}
 function ensurePlayer() {
-  if (player) return;
+  if (broken) { return false; }
+  if (player) {
+    if (player.context.state === 'suspended') { player.context.resume().catch(function () {}); }
+    return true;
+  }
+  if (!supported) { engineFailed('Audio playback is not supported in this browser'); return false; }
   setStatus('Loading engine');
-  player = new ChiptuneJsPlayer({ repeatCount: 0 });
+  try {
+    player = new ChiptuneJsPlayer({ repeatCount: 0 });
+  } catch (e) {
+    player = null;
+    engineFailed('Could not start the audio engine');
+    return false;
+  }
   player.onInitialized(function () {
+    if (broken) { return; }
     ready = true;
     player.setVol(vol.value / 100);
     setStatus('Ready');
     if (pendingIndex !== null) {
       const idx = pendingIndex;
       pendingIndex = null;
-      loadTrack(idx);
+      loadTrack(idx, false);
     }
   });
   player.onMetadata(function (m) {
-    duration = (m && m.dur) ? m.dur : 0;
+    answered++;
+    if (answered !== sent) { return; }
+    if (!m || !m.dur) { player.stop(); trackFailed(); return; }
+    loading = false;
+    stopped = false;
+    failures = 0;
+    duration = m.dur;
     seek.max = Math.max(1, Math.floor(duration));
+    seek.value = 0;
+    setTime(0);
+    setStatus(playing ? 'Now playing' : 'Paused');
   });
   player.onProgress(function (p) {
-    if (!seeking) { seek.value = Math.floor(p.pos || 0); }
-    timeEl.textContent = fmt(p.pos) + ' / ' + fmt(duration);
+    if (loading || seeking) { return; }
+    const v = Math.floor(p.pos || 0);
+    if (seek.valueAsNumber !== v) { seek.value = v; }
+    setTime(p.pos);
   });
-  player.onEnded(function () { next(); });
-  player.onError(function () { setStatus('Could not play this track, skipping'); next(); });
+  player.onEnded(function () {
+    if (loading || stopped || !playing) { return; }
+    step(1, true);
+  });
+  player.onError(function (e) {
+    const type = e && e.type;
+    if (type === 'Init') { engineFailed('Could not start the audio engine'); return; }
+    if (type === 'dur') { return; }
+    if (type === 'ptr') {
+      answered++;
+      if (answered !== sent) { return; }
+      trackFailed();
+      return;
+    }
+    if (!loading && !stopped) { player.stop(); trackFailed(); }
+  });
+  return true;
 }
-
-function loadTrack(i) {
+function loadTrack(i, auto) {
   current = i;
+  loadToken++;
+  const token = loadToken;
   const t = playlist[i];
-  titleEl.textContent = t.title;
-  setStatus('Now playing');
-  seek.value = 0;
-  highlight();
-  player.load(BASE + encodeURIComponent(t.file));
-  playing = true;
-  playBtn.textContent = 'Pause';
-}
-
-function selectTrack(i) {
-  ensurePlayer();
-  if (!ready) { pendingIndex = i; return; }
-  loadTrack(i);
-}
-
-function togglePlay() {
-  ensurePlayer();
-  if (!ready) { pendingIndex = (current < 0 ? 0 : current); return; }
-  if (current < 0) { loadTrack(0); return; }
-  player.togglePause();
-  playing = !playing;
-  playBtn.textContent = playing ? 'Pause' : 'Play';
-}
-
-function next() { selectTrack((current + 1) % playlist.length); }
-function prev() { selectTrack((current - 1 + playlist.length) % playlist.length); }
-
-playBtn.addEventListener('click', togglePlay);
-nextBtn.addEventListener('click', next);
-prevBtn.addEventListener('click', prev);
-seek.addEventListener('input', function () {
-  seeking = true;
-  timeEl.textContent = fmt(seek.value) + ' / ' + fmt(duration);
-});
-seek.addEventListener('change', function () {
-  if (player && ready) { player.setPos(parseFloat(seek.value)); }
+  loading = true;
   seeking = false;
+  player.stop();
+  titleEl.textContent = t.title;
+  if (!auto) { setStatus('Loading'); setPlaying(true); }
+  duration = 0;
+  seek.max = 0;
+  seek.value = 0;
+  setTime(0);
+  highlight();
+  fetch(BASE + encodeURIComponent(t.file)).then(function (res) {
+    if (!res.ok) { throw new Error('HTTP ' + res.status); }
+    return res.arrayBuffer();
+  }).then(function (ab) {
+    if (token !== loadToken || broken) { return; }
+    sent++;
+    player.play(ab);
+    if (!playing) { player.pause(); }
+  }).catch(function () {
+    if (token !== loadToken || broken) { return; }
+    trackFailed();
+  });
+}
+function selectTrack(i, auto) {
+  if (!ensurePlayer()) { return; }
+  if (!ready) { pendingIndex = i; return; }
+  loadTrack(i, auto);
+}
+function step(d, auto) {
+  const n = playlist.length;
+  const base = current < 0 ? (d > 0 ? -1 : 0) : current;
+  selectTrack((base + d + n) % n, auto);
+}
+function togglePlay() {
+  if (!ensurePlayer()) { return; }
+  if (!ready) { if (pendingIndex === null) { pendingIndex = current < 0 ? 0 : current; } return; }
+  if (current < 0 || (stopped && !loading)) { failures = 0; loadTrack(current < 0 ? 0 : current, false); return; }
+  if (playing) {
+    player.pause();
+    setPlaying(false);
+    if (!loading) { setStatus('Paused'); }
+  } else {
+    player.unpause();
+    setPlaying(true);
+    if (!loading) { setStatus('Now playing'); }
+  }
+}
+function commitSeek() {
+  if (!seeking) { return; }
+  seeking = false;
+  if (player && ready && !loading && duration > 0) {
+    const pos = parseFloat(seek.value);
+    player.setPos(pos);
+    setTime(pos);
+  }
+}
+playBtn.addEventListener('click', togglePlay);
+nextBtn.addEventListener('click', function () { failures = 0; step(1, false); });
+prevBtn.addEventListener('click', function () { failures = 0; step(-1, false); });
+seek.addEventListener('input', function () {
+  if (loading || duration <= 0) { return; }
+  seeking = true;
+  setTime(parseFloat(seek.value));
 });
+seek.addEventListener('change', commitSeek);
+seek.addEventListener('pointerup', commitSeek);
+seek.addEventListener('pointercancel', commitSeek);
 vol.addEventListener('input', function () {
-  if (player) { player.setVol(vol.value / 100); }
+  if (player && !broken) { player.setVol(vol.value / 100); }
 });
 </script>
 
