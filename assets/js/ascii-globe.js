@@ -116,17 +116,22 @@
       var discPx = Math.min(avail, DIAMETER_CAP);
       if (discPx < 200) discPx = Math.min(avail, 200);
 
-      COLS = Math.round(discPx / cellW);
+      COLS = Math.floor(discPx / cellW);
       if (COLS < COLS_MIN) COLS = COLS_MIN;
       if (COLS > COLS_MAX) COLS = COLS_MAX;
 
       Rx = (COLS - 2) / 2;
       Ry = Rx * cellW / cellH;
 
-      ROWS = Math.round(2 * Ry) + 2;
+      // Keep the disc circular: pad with blank rows when below ROWS_MIN, and
+      // shrink both radii (rather than squash Ry alone) when above ROWS_MAX.
+      ROWS = Math.ceil(2 * Ry) + 2;
       if (ROWS < ROWS_MIN) ROWS = ROWS_MIN;
-      if (ROWS > ROWS_MAX) ROWS = ROWS_MAX;
-      Ry = (ROWS - 2) / 2;
+      if (ROWS > ROWS_MAX) {
+        ROWS = ROWS_MAX;
+        Ry = (ROWS - 2) / 2;
+        Rx = Ry * cellH / cellW;
+      }
 
       cx = (COLS - 1) / 2;
       cy = (ROWS - 1) / 2;
@@ -134,11 +139,18 @@
       pxPerRad = Math.max(1, Rx * cellW);
     }
 
+    // The site follows prefers-color-scheme (white or black page). The
+    // original ramps top out at 54%/66% lightness, which washes out to ~2:1
+    // contrast on white, so on a light page the lightness range is compressed
+    // to stay legible; the dark page keeps the original values.
+    var darkMq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+    var isDark = !!(darkMq && darkMq.matches);
+
     function colorOcean(lit) {
-      return "hsl(205,58%," + (14 + lit * 40).toFixed(0) + "%)";
+      return "hsl(205,58%," + (isDark ? 14 + lit * 40 : 20 + lit * 26).toFixed(0) + "%)";
     }
     function colorLand(lit) {
-      return "hsl(120,40%," + (20 + lit * 46).toFixed(0) + "%)";
+      return "hsl(120,40%," + (isDark ? 20 + lit * 46 : 18 + lit * 26).toFixed(0) + "%)";
     }
 
     function rampChar(ramp, lit) {
@@ -226,8 +238,8 @@
       pre.innerHTML = out.join("\n");
     }
 
-    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    var AUTO_SPEED = reduce ? 0.0 : 0.22;
+    var reduceMq = window.matchMedia ? window.matchMedia("(prefers-reduced-motion: reduce)") : null;
+    var AUTO_SPEED = reduceMq && reduceMq.matches ? 0.0 : 0.22;
     // Start centered on Europe (Stuttgart faces the viewer). Solving the
     // marker transform for vXm=0 gives spin=-lon; for vYm=0 gives tilt=lat,
     // which puts the marker at the disc center (vZm=1) on load. Auto-spin
@@ -241,8 +253,21 @@
 
     var last = 0, acc = 0;
     var FRAME = 1000 / 30;
+    var onScreen = true;
+    var running = false;
+
+    function startLoop() {
+      if (running) return;
+      running = true;
+      last = 0;
+      requestAnimationFrame(tick);
+    }
 
     function tick(ts) {
+      if (!onScreen) {
+        running = false;
+        return;
+      }
       if (!last) last = ts;
       var dt = (ts - last) / 1000;
       last = ts;
@@ -258,8 +283,10 @@
         if (Math.abs(vel - AUTO_SPEED) < 1e-4) vel = AUTO_SPEED;
       }
 
+      // 1 ms tolerance: at 60 Hz two frames sum to ~33.33 ms and float/vsync
+      // jitter would otherwise often need a third frame (20 fps instead of 30).
       acc += dt * 1000;
-      if (needsRender && acc >= FRAME) {
+      if (needsRender && acc >= FRAME - 1) {
         acc = 0;
         needsRender = false;
         render();
@@ -310,10 +337,11 @@
       needsRender = true;
     }
 
-    function endDrag() {
+    function endDrag(e) {
       if (!dragging) return;
       dragging = false;
       pre.classList.remove("is-dragging");
+      if (now(e) - lastT > 100) vel = 0;
       if (vel > INERTIA_CAP) vel = INERTIA_CAP;
       else if (vel < -INERTIA_CAP) vel = -INERTIA_CAP;
     }
@@ -339,10 +367,11 @@
         if (pre.releasePointerCapture) {
           try { pre.releasePointerCapture(e.pointerId); } catch (err) {}
         }
-        endDrag();
+        endDrag(e);
       };
       pre.addEventListener("pointerup", pointerEnd);
       pre.addEventListener("pointercancel", pointerEnd);
+      pre.addEventListener("lostpointercapture", pointerEnd);
     } else {
       pre.addEventListener("mousedown", function (e) {
         if (e.button != null && e.button !== 0) return;
@@ -370,25 +399,56 @@
       pre.addEventListener("touchcancel", endDrag);
     }
 
+    // Only the root's width drives the layout. Its height changes whenever
+    // ROWS changes, so reacting to every ResizeObserver callback would
+    // relayout again after each of our own renders.
     var resizeTimer = null;
+    var lastWidth = -1;
     function onResize() {
       if (resizeTimer) clearTimeout(resizeTimer);
       resizeTimer = setTimeout(function () {
+        resizeTimer = null;
+        var w = root.clientWidth;
+        if (w === lastWidth) return;
+        lastWidth = w;
         layout();
-        needsRender = true;
+        needsRender = false;
         render();
       }, 150);
     }
 
+    lastWidth = root.clientWidth;
     layout();
     render();
-    requestAnimationFrame(tick);
+    startLoop();
 
     if (window.ResizeObserver) {
       new ResizeObserver(onResize).observe(root);
     } else {
       window.addEventListener("resize", onResize);
     }
+
+    // Stop the animation loop while the globe is scrolled out of view.
+    if (window.IntersectionObserver) {
+      new IntersectionObserver(function (entries) {
+        onScreen = entries[entries.length - 1].isIntersecting;
+        if (onScreen) startLoop();
+      }, { rootMargin: "100px" }).observe(root);
+    }
+
+    function onMq(mq, fn) {
+      if (!mq) return;
+      if (mq.addEventListener) mq.addEventListener("change", fn);
+      else if (mq.addListener) mq.addListener(fn);
+    }
+    onMq(reduceMq, function () {
+      AUTO_SPEED = reduceMq.matches ? 0.0 : 0.22;
+    });
+    onMq(darkMq, function () {
+      isDark = darkMq.matches;
+      needsRender = true;
+      if (!running) render();
+    });
   }
 
   if (document.readyState === "loading") {

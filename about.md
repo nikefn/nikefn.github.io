@@ -99,6 +99,7 @@ More of these things live in the [Creative]({{ site.url }}/creative) section.
   cursor: grab;
   touch-action: none;
 }
+.ascii-globe__canvas span { pointer-events: none; }
 .ascii-globe__canvas.is-dragging { cursor: grabbing; }
 .ascii-globe__cap {
   margin-top: 1rem;
