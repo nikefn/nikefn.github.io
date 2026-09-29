@@ -103,7 +103,7 @@ animation: true
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      layout: "post"
+      type: "posts"
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
@@ -129,4 +129,6 @@ exclude:
     "Gemfile.lock",
     "FAQ.md",
     "vendor",
+    "docker-compose.yml",
+    "assets/images/favicon/code.txt",
   ]

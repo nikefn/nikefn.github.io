@@ -8,9 +8,9 @@ Hi, I'm Niklas. I'm a research associate at [Fraunhofer IAO](https://www.muse.ia
 
 A lot of that work happens inside large European research projects. Right now I coordinate the *replication and scaling* work package in [URBREATH]({{ site.url }}/urbreath), which is about *'nature-based solutions'* for climate resilience across different European cities. Before that I worked on *'Positive Energy Districts'* in [SPARCS]({{ site.url }}/sparcs), and on the societal acceptance of carbon capture and storage in [ACCSESS]({{ site.url }}/accsess). The connecting idea between all of those, is the concept of *'replication'* and on how something that works in one city or context, may be adapted to work in another.
 
-Recently I've been spending time with the idea of the *[Citiverse]({{ site.url }}/citiverse)* and city-scale virtual environments that try to bring together different digital technologies and data sources, such as digital twins, simulations and immersive interfaces. You may read more about about this on the dedicated [Citiverse project page]({{ site.url }}/citiverse).
+Recently I've been spending time with the idea of the *[Citiverse]({{ site.url }}/citiverse)* and city-scale virtual environments that try to bring together different digital technologies and data sources, such as digital twins, simulations and immersive interfaces. You may read more about this on the dedicated [Citiverse project page]({{ site.url }}/citiverse).
 
-I also keep coming back to the topic of the night. Cities run around the clock, but planning and development predominantly account for the daytime. I think, that this gap could matter more than one would usually think. I wrote a comment for *Nature Cities* titled ["My City Never Sleeps"](https://doi.org/10.1038/s44284-025-00244-8), and have talked about the topic on several conferences. You may find more on the topic in my blog [here]({{ site.url }}/nighttime) and [here]({{ site.url }}/nighttime2).
+I also keep coming back to the topic of the night. Cities run around the clock, but planning and development predominantly account for the daytime. I think, that this gap could matter more than one would usually think. I wrote a comment for *Nature Cities* titled ["My City Never Sleeps"](https://doi.org/10.1038/s44284-025-00244-8), and have talked about the topic at several conferences. You may find more on the topic in my blog [here]({{ site.url }}/nighttime) and [here]({{ site.url }}/nighttime2).
 
 On a more independent track, I've been working with [Amazonia 4.0](https://amazonia4.org/) and [FGV](https://portal.fgv.br/en) on the [Amazonia City Lab Initiative]({{ site.url }}/amazonia), which tries to adapt Fraunhofer's [Morgenstadt City Lab](https://www.morgenstadt.de/en.html) approach for small towns in the Brazilian Amazon. It's still only a proposal, yet working on this was very rewarding for me. Please have a look at the [dedicated project page]({{ site.url }}/amazonia) if you'd like to know more.
 
@@ -21,7 +21,7 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 ---
 
 ### Talks and Workshops
-- **Better Transformation Summit, Heilbronn** (2025): [Modetator and Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
+- **Better Transformation Summit, Heilbronn** (2025): [Moderator and Host](https://irb.fraunhofer.de/de/kundengruppen/unternehmen/better-transformation-summit/1-better-transformation-summit.html)
 - **Futuromundo Congress, Stuttgart** (2025): Moderator, [*Future Urban Economies Forum*](https://www.futuromundo.com/)
 - **Fraunhofer Summer Camp** (2025): Track Leader and Coach, Makeathon. Coached the winning team in creating an AI-driven tool for nighttime urban walkability and perceived pedestrian safety. See [Link](https://www.art-design.fraunhofer.de/de/programme/summercamp/summercamp-2025.html).
 - **UN World Urban Forum (WUF12), Cairo** (2024): Panelist, [*"24-Hour Cities Against Climate Change"*](https://wuf.unhabitat.org/event/wuf12/24-hour-cities-against-climate-change-nighttime-strategies-address-challenges-climate)
@@ -56,7 +56,7 @@ If you find any of those topics interesting, I'd be glad to hear from you and to
 
 I like taking photos ([Unsplash](https://unsplash.com/de/@neffler)), used to play music as [dj effekt](https://soundcloud.com/effe) and now and then, I like to craft things with my hands, see e.g. [here]({{ site.url }}/paint) or [here]({{ site.url }}/birdhouse). I once ended up in an [e-bike commercial](https://youtu.be/30gz8h9rogE?si=X7DTz1HWPuoMeV2j) and I put together [Crab Couture]({{ site.url }}/crabcouture), an idea for a sustainable fashion label made with gen-ai.
 
-More of these things live in the [Creative](/creative) section.
+More of these things live in the [Creative]({{ site.url }}/creative) section.
 
 ---
 
@@ -67,9 +67,9 @@ More of these things live in the [Creative](/creative) section.
 - Website: [nikefn.github.io](https://nikefn.github.io)
 
 {% raw %}
-<div id="ascii-globe" class="ascii-globe" aria-hidden="true">
-  <pre class="ascii-globe__canvas"></pre>
-  <div class="ascii-globe__cap">Based in <span class="ascii-globe__dot">&#9679;</span> Stuttgart, Germany</div>
+<div id="ascii-globe" class="ascii-globe">
+  <pre class="ascii-globe__canvas" aria-hidden="true"></pre>
+  <div class="ascii-globe__cap">Based in <span class="ascii-globe__dot" aria-hidden="true">&#9679;</span> Stuttgart, Germany</div>
   <div class="ascii-globe__credit">*inspired by <a href="https://glyphcss.com/" target="_blank" rel="noopener">glyph.css</a> </div>
 </div>
 

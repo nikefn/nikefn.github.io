@@ -7,7 +7,7 @@ image: /assets/images/proj-work/sparcs/SPARCS_logo.png
 headerImage: true
 projects: true
 author: niklaseffenberger
-summary: "My professional projects through Fraunhofer: SPARCS"
+description: "My professional projects through Fraunhofer: SPARCS"
 permalink: sparcs
 ---
 

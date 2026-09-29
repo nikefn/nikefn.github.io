@@ -2,7 +2,7 @@
 title: "How I found Qualitative Research"
 layout: post
 date: 2026-11-13 13:00
-image: https://nikefn.github.io/assets/images/blog/earth.jpg
+image: /assets/images/blog/earth.jpg
 headerImage: true
 tag:
 - qualitative-research
@@ -63,7 +63,7 @@ However, the difficulty lies in developing these new, alternative metrics withou
 
 As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
 
-My colleague from the [SPARCS project](https://nikefn.github.io/sparcs), Aapo Huovila, examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6] [^goodhart] [^jansen].
+My colleague from the [SPARCS project]({{ site.url }}/sparcs), Aapo Huovila, examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6] [^goodhart] [^jansen].
 
 [^6]: Huovila, A. (2024). *Evaluation of Smart AND Sustainable City Development: What Indicators to Use, Why and When?* Doctoral dissertation, Aalto University / VTT Technical Research Centre of Finland. [Available at Aalto University](https://aaltodoc.aalto.fi/items/d5d64921-3d49-458a-8f7e-687d62a848d6).
 

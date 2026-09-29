@@ -3,17 +3,17 @@ Help AI coding agents get productive in this repository: a Jekyll-based personal
 
 ## Big picture
 - This is a Jekyll site using GitHub Pages conventions. Content comes from `_posts/`, layouts in `_layouts/`, and reusable fragments in `_includes/`.
-- Assets and compiled CSS live in `assets/` and `style.scss` (Sass sources in `_sass/`). Templates use Liquid; pages are rendered by Jekyll before deployment.
+- Assets live in `assets/`; CSS is compiled inline from `_includes/style.scss` (light) and `_includes/style-dark.scss` (dark), which import the Sass sources in `_sass/`. Templates use Liquid; pages are rendered by Jekyll before deployment.
 
 ## Build & run (explicit)
 - Ruby/Gems: run `bundle install` then `bundle exec jekyll serve` to build locally (this repo uses `github-pages` in `Gemfile`).
 - Docker: `docker-compose up` starts a Jekyll server (service defined in `docker-compose.yml` exposing port 4000).
 
 ## Key files and components
-- Posts: `_posts/*.markdown` — filenames are `YYYY-MM-DD-<slug>.markdown`. Example: `_posts/2026-03-09-project_citiverse.markdown` uses front matter keys like `layout`, `date`, `image`, `headerImage`, `projects`, `permalink`.
+- Posts: `_posts/*.markdown` — filenames are `YYYY-MM-DD-<slug>.markdown`. Example: `_posts/2026-04-30-project_citiverse.markdown` uses front matter keys like `layout`, `date`, `image`, `headerImage`, `projects`, `permalink`.
 - Layouts: `_layouts/default.html`, `_layouts/post.html` control page scaffolding and include partials from `_includes/`.
 - Includes: `_includes/header.html`, `_includes/footer.html`, `_includes/nav.html` — modify site chrome here.
-- Sass: primary entry `style.scss` imports `_sass/` modules. Use the `_sass/components/` and `_sass/base/` structure to add styles.
+- Sass: entries `_includes/style.scss` and `_includes/style-dark.scss` import `_sass/` modules. Use the `_sass/components/` and `_sass/base/` structure to add styles.
 
 ## Project-specific conventions
 - Post front-matter uses `projects: true` for project posts and `headerImage: true` when an image should appear in the post header — follow existing posts for exact keys.
@@ -21,18 +21,18 @@ Help AI coding agents get productive in this repository: a Jekyll-based personal
 - Permalinks: many posts set `permalink:` in front matter; prefer explicit permalinks when adding project pages.
 
 ## Plugins & integrations
-- Plugins listed in `Gemfile`: `github-pages`, `jekyll-feed`, `jekyll-seo-tag`, `jemoji`. Avoid adding plugins that conflict with GitHub Pages unless you adjust CI/build.
+- Plugins listed in `Gemfile`: `github-pages`, `jekyll-feed`, `jekyll-gist`, `jekyll-seo-tag`, `jemoji`. Avoid adding plugins that conflict with GitHub Pages unless you adjust CI/build.
 - Integrations: Google Analytics, Disqus, and social links are implemented as includes (`_includes/analytics-google.html`, `_includes/disqus.html`, `_includes/social-links.html`). Update those includes for keys/IDs.
 
 ## Editing guidance for AI agents
 - Prefer small, focused edits: change include/layout first for global behavior rather than editing many posts.
 - When adding a new post, follow an existing post as template (front matter keys and asset paths). Cite an example post when creating new content.
-- For CSS changes, add new variables in `_sass/variables.sass` or a component file under `_sass/components/` and import via `style.scss`.
+- For CSS changes, add new variables in `_sass/base/variables.sass` (and `_sass/base/variables-dark.sass`) or a component file under `_sass/components/` and import it in both `_includes/style.scss` and `_includes/style-dark.scss`.
 
 ## Examples to reference (use these as patterns)
-- Post front matter + structure: `_posts/2026-03-09-project_citiverse.markdown`
+- Post front matter + structure: `_posts/2026-04-30-project_citiverse.markdown`
 - Template hierarchy: `_layouts/default.html` includes `_includes/header.html` and `_includes/footer.html`
-- Sass entry: `style.scss` with `_sass/` modules
+- Sass entry: `_includes/style.scss` / `_includes/style-dark.scss` with `_sass/` modules
 
 ## What not to change without confirmation
 - Do not replace the `github-pages` gem unless you also update CI/build instructions.

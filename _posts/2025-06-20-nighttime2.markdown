@@ -2,7 +2,7 @@
 title: "Seeing in the Dark - Nighttime’s Potential in Urban Innovation"
 layout: post
 date: 2025-06-20 23:48
-image: https://nikefn.github.io//assets/images/blog-night/white-dwarf-nasa.webp
+image: /assets/images/blog-night/white-dwarf-nasa.webp
 headerImage: true
 tag:
 - blog
@@ -29,14 +29,14 @@ After our WUF12 panel [*"24-Hour Cities Against Climate Change"*](https://wuf.un
 ---
 
 
-*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"](https://nikefn.github.io//nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.*
+*This is a follow-up to my last blog entry ["My personal Night-Shift: Finding Out about the Importance of a Topic"]({{ site.url }}/nighttime), where I outlined my personal journey towards understanding the significance of the night and culture in urban development.*
 
 
 ### Introduction: The Night - The Forgotten Time in City Development
 
-I spend most of my working time on [projects on sustainable city development](https://nikefn.github.io/projects/). When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.[^18]
+I spend most of my working time on [projects on sustainable city development]({{ site.url }}/projects/). When I bring up the topic of the urban night in this professional context, I often encounter similar reactions: Either a grin or a confused look. A reaction that seems to ask, *"this is a fun topic, but what exactly is the connection to what we're doing here?“*. Being in a *professional* context, I have the impression people want talk about *professional* topics. And these reactions suggest a perception that the night is not one of them; maybe a topic more for leisure, relaxation or socialising and distinct from *'serious'* urban issues.[^18]
 
-Much like in my [previous blogpost](https://nikefn.github.io//nighttime), I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?[^1]***
+Much like in my [previous blogpost]({{ site.url }}/nighttime), I want to challenge this notion with a bold claim: ***What if the after-work hours are precisely when we can best address some of the most pressing urban challenges?[^1]***
 
 With insights from my colleagues at [Fraunhofer](https://blog.iao.fraunhofer.de/lichter-aus-zukunft-an-die-nacht-als-schluessel-fuer-zukunftsfaehige-staedte/), [vibelab](https://vibe-lab.org/), and [beyond](https://novaresearch.unl.pt/en/persons/jordi-nofre), I've shaped my thoughts around this idea. This blog post will explore those around three core thoughts:
 
@@ -55,17 +55,17 @@ With insights from my colleagues at [Fraunhofer](https://blog.iao.fraunhofer.de/
 
 ### The Night: Why Is It Underrepresented?
 
-The [figure below summarises the key points](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.png) drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following *(see footnotes)*[^21].
+The [figure below summarises the key points](/assets/images/blog-night/noct-ecosocio.png) drawn from the publications I read in the process of getting acquainted with the overall topic of nighttime socioeconomics and nighttime ecology. The mentioned arguments made a lasting impression on me and I tried summarising their essence in the following *(see footnotes)*[^21].
 
 [^21]: Please note that this summary is not exhaustive neither in regard to available literature nor in regard to content of the individual publications.
 
-![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](https://nikefn.github.io//assets/images/blog-night/noct-ecosocio.png) *Nocturnal Ecology and Nocturnal Socioeconomics opposed*
+![Nocturnal Ecology and Nocturnal Socioeconomics side-by-side](/assets/images/blog-night/noct-ecosocio.png) *Nocturnal Ecology and Nocturnal Socioeconomics opposed*
 
 ***What literature says:***
 
 Societal Perspective[^18] [^4] [^19] [^6] : What struck me most was a frequently described and seemingly common pattern among urban planners, policymakers, and researchers alike: Most prefer daytime for their professional activities, often neglecting night-time considerations once their workday ends.
 
-Ecological Perspective[^3] [^6] [^7] [^8] [^20]: Interestingly, to me, most of the key observations in articles from this context could be applied to both ecological and socioeconomic aspects of nighttime. I added the possible relevance for the socioeconomic sector in brackets behind the original arguments I took from my ecological readings:
+Ecological Perspective[^3] [^5] [^6] [^7] [^8] [^20]: Interestingly, to me, most of the key observations in articles from this context could be applied to both ecological and socioeconomic aspects of nighttime. I added the possible relevance for the socioeconomic sector in brackets behind the original arguments I took from my ecological readings:
 
 - Nighttime plays a critical role in ecological balance, analogous to its importance during daytime, yet it remains a niche area of research. *(Undoubtly this is true for the societal sphere as well. I'd argue (night-)culture plays a critical role in societal balance. In the societal sphere there is a large advocacy movement on all levels of governance. Yet the topic itself is still far from being part of mainstream city development)*.
 - Its significance is frequently underestimated, leading to its underrepresentation in ecological considerations *(...and in urban planning discussions).*
@@ -90,7 +90,7 @@ Like in any sector, economic considerations are a driving factor (if not *THE* d
 - Think about the lifecycle of a [typical urban parking spot](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing). Initially, there's a one-time investment to pave the area. Install a parking meter, and the city enjoys a steady inflow of cash from users. Favourable budgeting no-brainer!
 - Now, replace that parking spot with a public garden or a tree. While the initial costs might be similar for removing asphalt and planting, the ongoing expenses for maintenance like gardening and watering present a less appealing economic case under traditional city budgeting models[^17]. Despite numerous studies showing the financial and social benefits of greener urban spaces, widespread adoption remains limited without public intervention.
 
-[^7]: A city planner from Eindhoven told me this illustrative example during the research for my Master Thesis. Until today, to me this is one of the clearest explanations on how economic metrics sometimes fail for [common goods](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) like greenery. P.s.: [Elionor Ostrom received the Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) for describing this already in 2009. See her [Lecture here]https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/).
+[^7]: A city planner from Eindhoven told me this illustrative example during the research for my Master Thesis. Until today, to me this is one of the clearest explanations on how economic metrics sometimes fail for [common goods](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) like greenery. P.s.: [Elionor Ostrom received the Nobel Prize](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) for describing this already in 2009. See her [Lecture here](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/).
 [^8]: See: Chausson A et al. (2023) *Going beyond market-based mechanisms to finance nature-based solutions and foster sustainable futures*. PLOS Clim 2(4): e0000169 [doi.org/10.1371/journal.pclm.0000169](https://doi.org/10.1371/journal.pclm.0000169). And Brears, R. C. (2022). *Financing Nature-Based Solutions: Exploring Public, Private, and Blended Finance Models and Case Studies* (1st ed.). Palgrave Macmillan Cham. [https://doi.org/10.1007/978-3-030-93325-8](https://doi.org/10.1007/978-3-030-93325-8).
 
 [^17]: See election poster Christian Democrats Stuttgart: *"No to the Loss of Parking Spaces!"*, Stuttgart, Germany **2024**; [On their Facebook Page](https://www.facebook.com/share/xoDkhDdqAS383cxp/)
@@ -149,19 +149,19 @@ Fair enough, but here I want to make the bold and (to me) straightforward assump
 - ***What happens if a city is not attractive to live in? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 - ***What happens if a city is not healthy for its inhabitants or for them to raise their kids? Yes, easy answer: If they can, people will try moving somewhere else.***[^16]
 
-![Figure both Spheres next to each other](https://nikefn.github.io//assets/images/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
+![Figure both Spheres next to each other](/assets/images/blog-night/noct-ecol-econ.png)*Ecological and Socioeconomic Dimensions of the Urban Night Side-by-Side*
 
 For some of the mentioned characteristics both do not only contribute to attractiveness, which is a more or less optional urban development area, but also to [vital urban functions](https://islandpress.org/books/cities-people#desc)[^2] that are at the core of what a city needs to offer to its citizens: E.g. safety and economic vitality or cooling and water management. **Without those, a city will only poorly function.**
 
 The Figure above hightlights the individual role of socioeconomics and ecology within the urban system ... ***What could be possible if we try bridging and synergising both?***
 
-[^16]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/de/title/Cities-for-people/oclc/692205199). Basic Books.
+[^16]: Florida, R. (2002). [*The Rise of the Creative Class*](https://search.worldcat.org/search?q=bn:0465024769). Basic Books.
 
 
 
 ### Finding Ways Forward - Finding the Synergies
 
-![Nocturnal Ecology and Nocturnal Socioeconomics in Synergy](https://nikefn.github.io//assets/images/blog-night/noct-synergies.png)*Proposition: Green Urbanism and Night-Culture in Synergy to enhance the Urban System as a whole.*
+![Nocturnal Ecology and Nocturnal Socioeconomics in Synergy](/assets/images/blog-night/noct-synergies.png)*Proposition: Green Urbanism and Night-Culture in Synergy to enhance the Urban System as a whole.*
 
 ***Okay, good we know now.... But what do?!***
 
@@ -203,7 +203,7 @@ And this is where I see a possible connection to the topic at hand:
 
 **Maybe it is more about *developing a new 'sense'* or *readjusting towards other, maybe forgotten 'senses'* for how the urban environment functions around the clock.**
 
-Could developing the bespoken synergies be a way? Let us find out. [And if you want, let us find out together](mailto:niklas.effenberger@iao.fraunhofer.de).
+Could developing the bespoken synergies be a way? Let us find out. [And if you want, let us find out together](mailto:niklas.effenberger@gmail.com).
 
 [^15]: Taxi driver played by Isaach de Bankolé and blind woman played by Béatrice Dalle.
 
@@ -212,7 +212,7 @@ Could developing the bespoken synergies be a way? Let us find out. [And if you w
 *A special thank you to Lutz for revising this text.*
 
 
-... Be in touch: [niklas.effenberger@iao.fraunhofer.de](mailto:niklas.effenberger@iao.fraunhofer.de)
+... Be in touch: [niklas.effenberger@gmail.com](mailto:niklas.effenberger@gmail.com)
 
 
 ---

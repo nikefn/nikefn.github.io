@@ -6,7 +6,7 @@ date: 2024-01-16 15:37
 image: /assets/images/proj-personal/ntag/cooking.jpg
 creative: true
 author: niklaseffenberger
-summary: "Nachhaltigkeitstage Uni Hohenheim - Food Waste and Michelin Star Cooking"
+description: "Nachhaltigkeitstage Uni Hohenheim - Food Waste and Michelin Star Cooking"
 permalink: sustday
 ---
 
@@ -17,7 +17,7 @@ Reflecting back in time and specifically on the years 2015 to 2017 brings me bac
 
 
 
-![Nachhaltigkeitstag University of Hohenheim](assets/images/proj-personal/ntag/cooking.jpg)Nachhaltigkeitstag University of Hohenheim
+![Nachhaltigkeitstag University of Hohenheim](/assets/images/proj-personal/ntag/cooking.jpg)Nachhaltigkeitstag University of Hohenheim
 
 
 
@@ -34,7 +34,7 @@ The University of Hohenheim resides in an castle built during the 17th century w
 Inside the castle, several university chairs and the university administration are located, among those also [the Chair of Societal Transition and Agriculture](https://sta.uni-hohenheim.de/en) where I had the privilege of working for three years.
 
 
-![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/eating.jpg)Free Lunch and Food for Thought
+![Food for Thought and Food for Lunch](/assets/images/proj-personal/ntag/eating.jpg)Free Lunch and Food for Thought
 
 
 But that’s not it, the castle also houses a Michelin-Starred Restaurant called [Speisemeisterei](https://www.speisemeisterei.de/).
@@ -44,16 +44,16 @@ But that’s not it, the castle also houses a Michelin-Starred Restaurant called
 Together with the Chefs de Cuisine [Markus Eberhardinger](https://www.slowfood.de/was-wir-tun/projekte-aktionen-und-kampagnen/chef-alliance/koeche_in_deutschland/baden-wuerttemberg/markus-eberhardinger ) (now having his own Slow-Food coutryside restaurant) and [Frank Oehler](https://www.frank-oehler.com/) (celebrity TV Chef in Germany) some friends and colleagues from university and I teamed up to organise this nice event for three consecutive years.
 
 
-![Food for Thought and Food for Lunch](assets/images/proj-personal/ntag/guests.jpg)Hungry People in Line
+![Food for Thought and Food for Lunch](/assets/images/proj-personal/ntag/guests.jpg)Hungry People in Line
 
 
 
 
 Francesco Armillota, the greengrocer of the restaurant helped us to obtain the ingredients: Vegetables that supermarkets had rejected for their appearance but which were still perfectly edible. Just one day collecting those at the wholesale market in Stuttgart yielded enough produce to feed approx. 300 guests. Crazy!
 
-![Francesco brought the goodies](assets/images/proj-personal/ntag/overview.jpg)Let's see what Francesco brought to us!
+![Francesco brought the goodies](/assets/images/proj-personal/ntag/overview.jpg)Let's see what Francesco brought to us!
 
-![Explanining what will happen](assets/images/proj-personal/ntag/wtf.jpg)Markus explaining to me how we will handle and season all of those veggies.
+![Explanining what will happen](/assets/images/proj-personal/ntag/wtf.jpg)Markus explaining to me how we will handle and season all of those veggies.
 
 
 
@@ -71,7 +71,7 @@ While the Michelin-starred chefs supervised the cooking and seasoning noumerous 
 
 What an honour: We were awarded with a sustainability award by the Environmental Minister. Fun fact: During the panel I was so nervous to talk in front of so many people that my answers to the questions I was asked did not really make sense - at least it was fun for my friends in the audience.
 
-![Nervous Niklas](assets/images/proj-personal/ntag/nervous.jpg)Nervous me [Photo (c) Frank Eppler](https://www.nachhaltigkeitsstrategie.de/service/mediathek/details?tx_nmediathek%5Brecord%5D=35&cHash=a20c48079ff8dc3b067fdca1fcef6e42)
+![Nervous Niklas](/assets/images/proj-personal/ntag/nervous.jpg)Nervous me [Photo (c) Frank Eppler](https://www.nachhaltigkeitsstrategie.de/service/mediathek/details?tx_nmediathek%5Brecord%5D=35&cHash=a20c48079ff8dc3b067fdca1fcef6e42)
 
 <div class="breaker"></div>
 
@@ -79,7 +79,7 @@ Check out the [leaflet](https://drive.google.com/file/d/1mqXZMGzWSxUPVbC5XvmGtjp
 
 <div class="breaker"></div>
 
-![Nachhaltigkeitstag University of Hohenheim](assets/images/proj-personal/ntag/cooking2.jpg)Nachhaltigkeitstag University of Hohenheim
+![Nachhaltigkeitstag University of Hohenheim](/assets/images/proj-personal/ntag/cooking2.jpg)Nachhaltigkeitstag University of Hohenheim
 
 <div class="breaker"></div>
 

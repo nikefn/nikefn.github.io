@@ -6,7 +6,7 @@ date: 2024-12-22 12:13
 image: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
 creative: true
 author: niklaseffenberger
-summary: "I built a birdhouse"
+description: "I built a birdhouse"
 permalink: birdhouse
 ---
 

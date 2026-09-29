@@ -6,7 +6,7 @@ date: 2025-03-19 20:37
 image: /assets/images/proj-paint/0.jpeg
 creative: true
 author: niklaseffenberger
-summary: "Painting a Painting - planning it and finally doint it"
+description: "Painting a Painting - planning it and finally doint it"
 permalink: paint
 ---
 
@@ -14,10 +14,10 @@ permalink: paint
 
 I did it! I painted a painting :)! 
 
-![My Panting1](assets/images/proj-paint/0.jpeg)... and it's up on the wall in my living room!
+![My Panting1](/assets/images/proj-paint/0.jpeg)... and it's up on the wall in my living room!
 
-![My Panting2](assets/images/proj-paint/1.jpg) drying
-![My Panting3](assets/images/proj-paint/2.jpg) freestyle
+![My Panting2](/assets/images/proj-paint/1.jpg) drying
+![My Panting3](/assets/images/proj-paint/2.jpg) freestyle
 
 
 

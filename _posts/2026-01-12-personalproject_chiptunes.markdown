@@ -5,7 +5,7 @@ tag: personal
 date: 2026-01-12 19:25
 creative: true
 author: niklaseffenberger
-summary: "Favourite Chiptunes"
+description: "Favourite Chiptunes"
 permalink: chiptunes
 ---
 

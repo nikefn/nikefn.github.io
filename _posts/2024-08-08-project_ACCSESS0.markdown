@@ -7,7 +7,7 @@ image: /assets/images/proj-work/accsess/accsess_logo.png
 headerImage: true
 projects: true
 author: niklaseffenberger
-summary: "My professional projects through Fraunhofer: ACCSESS"
+description: "My professional projects through Fraunhofer: ACCSESS"
 permalink: accsess
 ---
 

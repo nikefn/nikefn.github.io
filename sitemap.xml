@@ -15,13 +15,15 @@ layout: null
       <priority>1.0</priority>
     </url>
   {% endfor %}
-  {% for page in site.pages %}
-    {% if page.sitemap != null and page.sitemap != empty %}
+  {% for page in site.html_pages %}
+    {% if page.sitemap != false and page.url != "/404.html" %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
+        {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        <priority>{{ page.sitemap.priority }}</priority>
+        {% endif %}
+        <changefreq>{{ page.sitemap.changefreq | default: "monthly" }}</changefreq>
+        <priority>{{ page.sitemap.priority | default: "0.8" }}</priority>
        </url>
     {% endif %}
   {% endfor %}

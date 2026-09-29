@@ -3,11 +3,11 @@ title: "Amazonia City Lab Initiative"
 layout: post
 tag: research
 date: 2026-02-22 20:31
-image: /assets/images/proj-work/amazonia/amazonia_header.jpg
+image: /assets/images/proj-amazonia/2025_ACLI_iao-amit-fgv.png
 headerImage: false
 projects: true
 author: niklaseffenberger
-summary: "A co-created proposal for community-owned circular plastics processing in Novo Airão, developed hand-in-hand with partners in the Brazilian Amazon."
+description: "A co-created proposal for community-owned circular plastics processing in Novo Airão, developed hand-in-hand with partners in the Brazilian Amazon."
 permalink: amazonia
 ---
 
@@ -31,9 +31,9 @@ The [Morgenstadt Initiative](https://www.morgenstadt.de/en.html) at Fraunhofer h
 
 In 2024, a consortium of [Fraunhofer IAO](https://www.iao.fraunhofer.de/), [Amazonia 4.0 / AmIT](https://amazonia4.org/) and [Fundação Getulio Vargas (FGV)](https://portal.fgv.br/en) began to explore whether this methodology could be adapted with and for small towns in the Brazilian Amazon. The premise was simple: These towns often have strong local motivation and active grassroots initiatives, but are in need of the technical capacity and institutional bridges to act on them. External funding often gets *"stuck"* at higher levels of governance and administration. The question was whether a co-creative research partnership could help close that gap, without imposing solutions from outside.
 
-This vision was shaped through a series of exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), the driving force behind Amazonia 4.0, [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Northern Region, [Maritta Koch-Weser](https://www.deutschlandfunkkultur.de/sozialwissenschaftlerin-maritta-koch-weser-von-den-menschen-im-urwald-lernen-dlf-kultur-cba70011-100.html), program leader at the University of São Paulo's [Institute for Advanced Studies](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas) and [André Luis Willerding](https://www.intechopen.com/profiles/544802) of Amazonia 4.0. We were strongly supported by [Manuel Steidle](https://www.brazil.fraunhofer.com/en/contact.html), Head of the the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/) and both by [Prof. Dr. Vanessa Borkmann](https://www.muse.iao.fraunhofer.de/de/ueber_uns/team_stadtsystemgestaltung/vanessa-borkmann.html) and [Prof. Dr. Katharina Hölzle](https://www.iao.fraunhofer.de/de/ueber-uns/fraunhofer-iao/institutsleitung/katharina-hoelzle.html) of the [Fraunhofer IAO directorate](https://www.iao.fraunhofer.de/de/ueber-uns/fraunhofer-iao/institutsleitung.html).
+This vision was shaped through a series of exchanges with [Carlos Nobre](https://en.wikipedia.org/wiki/Carlos_Nobre), the driving force behind Amazonia 4.0, [Adalberto Val](https://twas.org/directory/val-adalberto-luis), Vice President of the Brazilian Academy of Sciences for the Northern Region, [Maritta Koch-Weser](https://www.deutschlandfunkkultur.de/sozialwissenschaftlerin-maritta-koch-weser-von-den-menschen-im-urwald-lernen-dlf-kultur-cba70011-100.html), program leader at the University of São Paulo's [Institute for Advanced Studies](https://www.iea.usp.br/pesquisa/grupos-pesquisa/amazonia-em-transformacao-historia-e-perspectivas) and [André Luis Willerding](https://www.intechopen.com/profiles/544802) of Amazonia 4.0. We were strongly supported by [Manuel Steidle](https://www.brazil.fraunhofer.com/en/contact.html), Head of the [Fraunhofer Liaison Office Brazil](https://www.fraunhofer.org.br/) and both by [Prof. Dr. Vanessa Borkmann](https://www.muse.iao.fraunhofer.de/de/ueber_uns/team_stadtsystemgestaltung/vanessa-borkmann.html) and [Prof. Dr. Katharina Hölzle](https://www.iao.fraunhofer.de/de/ueber-uns/fraunhofer-iao/institutsleitung/katharina-hoelzle.html) of the [Fraunhofer IAO directorate](https://www.iao.fraunhofer.de/de/ueber-uns/fraunhofer-iao/institutsleitung.html).
 
-![Amazonia City Lab Initiative: Consortium and Outcomes Overview](assets/images/proj-amazonia/2025_ACLI_iao-amit-fgv.png)
+![Amazonia City Lab Initiative: Consortium and Outcomes Overview](/assets/images/proj-amazonia/2025_ACLI_iao-amit-fgv.png)
 *Amazonia City Lab Initiative: Amazonian cities teaming up with leading institutions from Brazil and Europe.*
 
 ---
@@ -43,7 +43,7 @@ This vision was shaped through a series of exchanges with [Carlos Nobre](https:/
 
 Over 2024 and 2025, we narrowed the broad framing towards a concrete pilot. While the consortium developed the overall vision, Amazonia 4.0 strengthened its ties to the municipality of [Novo Airão](https://en.wikipedia.org/wiki/Novo_Air%C3%A3o), which became the focal point for a possible collaboration due to existing local momentum and local readiness.
 
-![Map of Brazil with Novo Airao](assets/images/proj-amazonia/novo-airao.jpg)
+![Map of Brazil with Novo Airao](/assets/images/proj-amazonia/novo-airao.jpg)
 *Map of Brazil with Location of Novo Airão*
 <sup><sub>
 *Source: [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Relief_Map_of_Brazil.jpg)*
@@ -53,7 +53,7 @@ Over 2024 and 2025, we narrowed the broad framing towards a concrete pilot. Whil
 
 What the local actors identified as their most pressing gap was processing capacity. When too much plastic accumulates and cannot be processed on site, it gets trucked back to the general dump, which in practice often means open burning and leakage into the waterways.
 
-![Novo Airão: Local market, Rio Negro at dusk, River transport](assets/images/proj-amazonia/willerding.png)
+![Novo Airão: Local market, Rio Negro at dusk, River transport](/assets/images/proj-amazonia/willerding.png)
 *Novo Airão, Amazonas. Photos: André Willerding, Amazonia 4.0.*
 
 ---
@@ -62,17 +62,17 @@ What the local actors identified as their most pressing gap was processing capac
 
 When the [International Climate Initiative (IKI)](https://www.international-climate-initiative.com/en/) opened its Medium Grants call in late 2025, we saw an opportunity to translate this locally identified gap into a concrete project proposal. Together, we designed a concept for a community-owned, open-source plastics recycling and upcycling Eco-Factory: A small-scale facility where commonly recoverable household plastics are sorted, cleaned, shredded and converted into usable materials and products, from pressed sheets and panels to 3D-printed utility items for local services, tourism and education.
 
-![Example products from recycled plastic: A pink river dolphin figurine, storage crates, a canoe paddle and a park bench — all stamped "Recycled in the Amazon"](assets/images/proj-amazonia/products.png)
+![Example products from recycled plastic: A pink river dolphin figurine, storage crates, a canoe paddle and a park bench — all stamped "Recycled in the Amazon"](/assets/images/proj-amazonia/products.png)
 *What the envisioned Eco-Factory could produce: From tourist souvenirs to crates, canoe paddles and park furniture, all made from locally recycled plastic.*
 
-The design choices tries to reflect the principle of local ownership. The envisioned facility is built entirely around [open-source hardware](https://preciousplastic.com/) and documented standard operating procedures, so that it can be maintained, adapted and eventually replicated with local skills. The project explicitly aims not to begin with installing equipment but with community mapping, governance setup and co-creating possible operating rules. A local steering committee including COOPCAMARE, Amazonia 4.0, municipal representatives, and women's and youth representatives shall approve product priorities, benefit-sharing and monitoring. Where riverine and traditional communities are involved, participation must follow informed opt-in formats.
+The design choices try to reflect the principle of local ownership. The envisioned facility is built entirely around [open-source hardware](https://preciousplastic.com/) and documented standard operating procedures, so that it can be maintained, adapted and eventually replicated with local skills. The project explicitly aims not to begin with installing equipment but with community mapping, governance setup and co-creating possible operating rules. A local steering committee including COOPCAMARE, Amazonia 4.0, municipal representatives, and women's and youth representatives shall approve product priorities, benefit-sharing and monitoring. Where riverine and traditional communities are involved, participation must follow informed opt-in formats.
 
 
-The consortium's roles also try to reflect the equal-footing structure. Fraunhofer IAO leads overall coordination, administration and technical quality assurance for any material that come outside the project region. FGV supports governance design, business model feasibility and policy interface. Amazonia 4.0 leads on local engagement, inclusion measures and on-the-ground operational support. The Municipality of Novo Airão acts as local host providing coordination and enabling conditions.
+The consortium's roles also try to reflect the equal-footing structure. Fraunhofer IAO leads overall coordination, administration and technical quality assurance for any material that comes outside the project region. FGV supports governance design, business model feasibility and policy interface. Amazonia 4.0 leads on local engagement, inclusion measures and on-the-ground operational support. The Municipality of Novo Airão acts as local host providing coordination and enabling conditions.
 
 *Sounds and reads feasible - yet, it's only a grant proposal so far. See also visual abstract below.*
 
-![Visual Abstract / Flowchart of IKI Proposal](assets/images/proj-amazonia/Flowchart_iki_medium.png)
+![Visual Abstract / Flowchart of IKI Proposal](/assets/images/proj-amazonia/Flowchart_iki_medium.png)
 *Visual abstract of our IKI proposal (gemini)*
 
 ---
@@ -96,7 +96,7 @@ In January 2026, we submitted our ACLI concept note to [IKI](https://www.interna
 
 ## Related
 
-- The beginning and early grand-vision of the Amazonia City Lab Initiative: [Outline and Cover Letter (PDF)](assets/images/proj-amazonia/ACLI_Outline+CoverLetter IAO-AmIT-FGV.pdf)
+- The beginning and early grand-vision of the Amazonia City Lab Initiative: [Outline and Cover Letter (PDF)](/assets/images/proj-amazonia/ACLI_Outline+CoverLetter%20IAO-AmIT-FGV.pdf)
 - [Website Morgenstadt Initiative](https://www.morgenstadt.de/en.html)
 - [Website International Climate Initiative, IKI](https://www.international-climate-initiative.com/en/)
 - [Website Amazonia 4.0](https://amazonia4.org/)
