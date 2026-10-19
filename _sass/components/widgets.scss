@@ -63,3 +63,16 @@
 .ctp-item.active { background:rgba(128,128,128,0.22); font-weight:600; }
 .ctp-controls button:focus-visible, .ctp-controls input:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
 .ctp-item button:focus-visible { outline:2px solid currentColor; outline-offset:-2px; }
+
+// Quote of the hour
+.qoth { margin:2rem 0; }
+.qoth-card { margin:0 0 1.5em; }
+.qoth .qoth-text { margin:0; padding:0; border:0; font-size:1.35em; line-height:1.5; font-style:italic; overflow-wrap:anywhere; }
+.qoth .qoth-by { position:static; top:auto; margin-top:0.75em; text-align:left; font-size:1em; opacity:0.75; }
+.qoth-controls { display:flex; flex-wrap:wrap; align-items:center; gap:0.75em; }
+.qoth .qoth-controls button, .qoth .qoth-controls select { font-family:inherit; font-size:0.9em; color:inherit; background:transparent; border:1px solid rgba(128,128,128,0.5); border-radius:5px; padding:0.3em 0.7em; }
+.qoth .qoth-controls button { cursor:pointer; }
+.qoth .qoth-controls button:hover { border-color:currentColor; }
+.qoth .qoth-controls button:disabled { opacity:0.4; cursor:default; }
+.qoth .qoth-controls select option { color:#000; }
+.qoth .qoth-controls button:focus-visible, .qoth .qoth-controls select:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
