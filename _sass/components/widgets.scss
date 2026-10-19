@@ -1,0 +1,65 @@
+// Styles for _includes/widgets/*.html
+
+// Globe on the About page
+.ascii-globe {
+  text-align: center;
+  margin: 3rem auto 1rem;
+  max-width: 100%;
+}
+.ascii-globe__canvas {
+  display: inline-block;
+  width: auto;
+  max-width: 100%;
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  line-height: 1;
+  letter-spacing: 0;
+  white-space: pre;
+  font-size: 5px;
+  -webkit-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  cursor: grab;
+  touch-action: none;
+}
+.ascii-globe__canvas.is-dragging { cursor: grabbing; }
+.ascii-globe__cap {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  opacity: 0.7;
+}
+.ascii-globe__dot { color: #ff3b30; }
+.ascii-globe__credit {
+  margin-top: 0.3rem;
+  font-size: 1.0rem;
+  opacity: 0.6;
+}
+.ascii-globe__credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+// Chiptune player
+.ctp { font-family:inherit; border:1px solid rgba(128,128,128,0.35); border-radius:8px; padding:1rem; margin:1.5rem 0; font-size:0.95rem; }
+.ctp-now { display:flex; flex-direction:column; gap:0.15rem; margin-bottom:0.75rem; }
+.ctp-status { opacity:0.6; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.06em; }
+.ctp-title { font-weight:600; overflow-wrap:anywhere; }
+.ctp-controls { display:flex; align-items:center; gap:0.5rem; flex-wrap:wrap; margin-bottom:0.75rem; }
+.ctp-controls button { cursor:pointer; background:transparent; border:1px solid rgba(128,128,128,0.5); border-radius:5px; padding:0.3rem 0.7rem; color:inherit; font:inherit; }
+.ctp-controls button:hover { border-color:currentColor; }
+.ctp-seek { flex:1 1 140px; min-width:110px; }
+.ctp-time { font-family:inherit; font-variant-numeric:tabular-nums; opacity:0.7; font-size:0.8rem; white-space:nowrap; }
+.ctp-vol { width:80px; flex:0 0 auto; }
+.ctp-list { list-style:none; margin:0; padding:0; max-height:300px; overflow-y:auto; border-top:1px solid rgba(128,128,128,0.25); counter-reset:ctp-counter; }
+.ctp-item { margin:0; padding:0; border-radius:4px; }
+.ctp-item button { display:block; width:100%; margin:0; padding:0.35rem 0.5rem; background:transparent; border:0; border-radius:4px; color:inherit; font:inherit; text-align:left; cursor:pointer; overflow-wrap:anywhere; }
+.ctp-item button:before { content:counter(ctp-counter) ".  "; counter-increment:ctp-counter; opacity:0.45; }
+.ctp-item:hover { background:rgba(128,128,128,0.12); }
+.ctp-item.active { background:rgba(128,128,128,0.22); font-weight:600; }
+.ctp-controls button:focus-visible, .ctp-controls input:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+.ctp-item button:focus-visible { outline:2px solid currentColor; outline-offset:-2px; }

@@ -9,41 +9,30 @@ layout: page
 <h1 class="title">{{ page.title }}</h1>
 
 <span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
-    {% if site.read-time %} - {% include read-time.html %}{% endif %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
 </span>
 
-{% if site.show-tags %}
-    <div class="post-tags">
-        {% for tag in page.tags %}
-            <a class="item" href="{{ site.url }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
-        {% endfor %}
-    </div>
-{% endif %}
+{{ content }}
 
-{{content}}
-
-{% if site.post-advance-links contains page.category %}
+{% if page.category == "blog" %}
+    {% comment %} Older/newer links stay within the blog. site.categories is newest first. {% endcomment %}
+    {% assign blog = site.categories.blog %}
+    {% for p in blog %}
+        {% if p.url == page.url %}
+            {% assign older = blog[forloop.index] %}
+            {% unless forloop.first %}{% assign i = forloop.index0 | minus: 1 %}{% assign newer = blog[i] %}{% endunless %}
+        {% endif %}
+    {% endfor %}
     <div class="blog-navigation">
-        {% if page.previous.hidden == false and page.previous.url %}
-            <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+        {% if older %}
+            <a class="prev" href="{{ site.url }}{{ older.url }}">&laquo; {{ older.title }}</a>
         {% else %}
             <a class="prev"></a>
         {% endif %}
-        {% if page.next.hidden == false and page.next.url %}
-            <a class="next" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+        {% if newer %}
+            <a class="next" href="{{ site.url }}{{ newer.url }}">{{ newer.title }} &raquo;</a>
         {% endif %}
     </div>
 {% endif %}
 
-{% if site.related %}
-    {% include related.html %}
-{% endif %}
-
-{% if site.show-author %}
-    {% include author.html %}
-{% endif %}
-
-{% if site.disqus.categories contains page.category %}
-    {% include disqus.html %}
-{% endif %}
+{% include author.html %}

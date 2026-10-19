@@ -1,14 +1,12 @@
 ---
 title: "ACCSESS - Carbon Capture Usage and Storage and Real-World Tech Uptake"
-layout: post
-tag: research
 date: 2024-08-08 15:38
+category: projects
+tags: [research]
+description: "My professional projects through Fraunhofer: ACCSESS"
 image: /assets/images/proj-work/accsess/accsess_logo.png
 headerImage: true
-projects: true
-author: niklaseffenberger
-summary: "My professional projects through Fraunhofer: ACCSESS"
-permalink: accsess
+permalink: /accsess
 ---
 
 ## Providing access to cost-efficient, replicable, safe and flexible CCUS - Project ACCSESS

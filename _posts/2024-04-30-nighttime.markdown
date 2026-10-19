@@ -1,19 +1,12 @@
 ---
 title: "My personal Night-Shift: Finding Out about the Importance of a Topic"
-layout: post
 date: 2024-04-30 01:48
+category: blog
+tags: [blog, personal, nighttime]
+description: "Nighttime-Culture and Sustainable City Transformation going hand in hand"
 image: /assets/images/blog-sxsw/panelsxsw.jpg
 headerImage: true
-tag:
-- blog
-- personal
-- nighttime
-category: blog
-blog: true
-author: niklaseffenberger
-description: Nighttime-Culture and Sustainable City Transformation going hand in hand
-permalink: nighttime
-published: true
+permalink: /nighttime
 ---
 
 

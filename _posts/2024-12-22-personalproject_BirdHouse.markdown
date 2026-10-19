@@ -1,13 +1,11 @@
 ---
 title: "To build a Birdhouse"
-layout: post
-tag: personal
 date: 2024-12-22 12:13
+category: creative
+tags: [personal]
+description: "I built a birdhouse"
 image: /assets/images/proj-personal/birdhouse/meandmybirdhouse.jpg
-creative: true
-author: niklaseffenberger
-summary: "I built a birdhouse"
-permalink: birdhouse
+permalink: /birdhouse
 ---
 
 ## To build a Birdhouse

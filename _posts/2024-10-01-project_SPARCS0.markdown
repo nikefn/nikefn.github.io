@@ -1,14 +1,12 @@
 ---
 title: "SPARCS - Positive Energy Districts in 7 EU Cities"
-layout: post
-tag: research
 date: 2024-10-01 15:38
+category: projects
+tags: [research]
+description: "My professional projects through Fraunhofer: SPARCS"
 image: /assets/images/proj-work/sparcs/SPARCS_logo.png
 headerImage: true
-projects: true
-author: niklaseffenberger
-summary: "My professional projects through Fraunhofer: SPARCS"
-permalink: sparcs
+permalink: /sparcs
 ---
 
 

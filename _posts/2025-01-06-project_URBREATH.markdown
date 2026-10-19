@@ -1,13 +1,11 @@
 ---
 title: "URBREATH - Nature-Based Solutions in 9 EU Cities"
-layout: post
-tag: nature-based-solutions
 date: 2025-01-06 19:20
-image: /assets/images/proj-work/urbreath/URBREATH.jpg
-projects: true
+category: projects
+tags: [nature-based-solutions]
 description: "My professional projects through Fraunhofer: URBREATH"
-author: niklaseffenberger
-permalink: urbreath
+image: /assets/images/proj-work/urbreath/URBREATH.jpg
+permalink: /urbreath
 ---
 
 

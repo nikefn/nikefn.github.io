@@ -1,0 +1,17 @@
+<div id="ctp" class="ctp" data-base="/assets/chiptunes/">
+<div class="ctp-now" aria-live="polite" aria-atomic="true">
+<span class="ctp-status">Press play to start</span>
+<span class="ctp-title">&nbsp;</span>
+</div>
+<div class="ctp-controls">
+<button class="ctp-prev" type="button" aria-label="Previous track">Prev</button>
+<button class="ctp-play" type="button">Play</button>
+<button class="ctp-next" type="button" aria-label="Next track">Next</button>
+<input class="ctp-seek" type="range" min="0" max="0" value="0" step="1" aria-label="Seek">
+<span class="ctp-time">0:00 / 0:00</span>
+<input class="ctp-vol" type="range" min="0" max="100" value="80" aria-label="Volume">
+</div>
+<ol class="ctp-list" aria-label="Playlist"></ol>
+</div>
+<script type="application/json" id="ctp-playlist">{{ site.data.chiptunes | jsonify }}</script>
+<script type="module" src="/assets/js/chiptune-player.js"></script>

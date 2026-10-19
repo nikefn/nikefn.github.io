@@ -1,132 +1,55 @@
-# main text of home
 title: "Niklas Effenberger"
-bio: ""
-
 description: "Urban sustainability strategist and EU project lead specialising in nature-based solutions, climate resilience, and nighttime urbanism. Research at Fraunhofer IAO."
-
-
-
-
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# your site color theme, true for dark theme,
-# false to light theme, auto to switch with system.
-dark-theme: auto
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/15cwwB3lIlc_YHwN6ck2ogp0NKBztWmtS
-
 url: https://nikefn.github.io
-# your url: https://USERNAME.github.io
-
+repository: nikefn/nikefn.github.io
+baseurl: ""
+picture: /assets/images/profile.jpg
 permalink: /:title/
 
-# To enable google analytics, supply your token below
-analytics-google: "G-1YZSDTC0X3"
-google_site_verification: GI-Dcfouph0pv-6lYUaqBucLdMSoCiYujoyUonuCjsQ # your google-site-verification ID (Google Search Console)
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname:  # enter this from your disqus account
-  categories:  # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
-#facebook: niklaseffenberger
-instagram: jazzyjeffe71
-linkedin: niklaseffenberger
-github: nikefn
-unsplash: neffler
-email: niklas.effenberger@gmail.com
-
 authors:
-    niklaseffenberger:
-      name: Niklas Effenberger
-      bio:
-      external-image: false
-      picture: assets/images/profile.jpg
-    #  twitter: johndoe
+  niklaseffenberger:
+    name: Niklas Effenberger
+    picture: /assets/images/profile.jpg
 
-#  johndoe:
-#    name: John Doe
-#    bio: A Man who travels the world eating noodles
-#    external-image: false
-#    picture: assets/images/profile.jpg
-#  twitter: johndoe
+# Top navigation, in order. The link to the current page is hidden.
+nav:
+  - { title: About, url: /about/ }
+  - { title: Blog, url: /blog/ }
+  - { title: Projects, url: /projects/ }
+  - { title: Creative, url: /creative/ }
+  - { title: Résumé, url: "https://drive.google.com/file/d/15cwwB3lIlc_YHwN6ck2ogp0NKBztWmtS" }
 
-#  jamesfoster:
-#    name: James Foster
-#    bio: A Man who develops software with coffee
-#    external-image: false
-#    picture: assets/images/james.jpg
-#    twitter: jamesfoster
+# Icons in the home header (Font Awesome 6 class names)
+social:
+  - { label: Unsplash, icon: fa-brands fa-unsplash, url: "https://unsplash.com/de/@neffler" }
+  - { label: Instagram, icon: fa-brands fa-instagram, url: "https://instagram.com/jazzyjeffe71" }
+  - { label: LinkedIn, icon: fa-brands fa-linkedin, url: "https://www.linkedin.com/in/niklaseffenberger" }
+  - { label: GitHub, icon: fa-brands fa-github, url: "https://github.com/nikefn" }
+  - { label: Email, icon: fa-regular fa-envelope, url: "mailto:niklas.effenberger@gmail.com" }
 
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-creative: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
-
-# do you want to show the "read time" of the posts?
-read-time: false
-
-# do you want to show the "tags" inside the posts?
-show-tags: false
-
-# related posts inside a post?
-related: false
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: true
-
-# do you want some animations?
-animation: true
-
-# add default values to specific pages or layouts
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      layout: "post"
-    values:
-      # setting all post to not hidden by default,
-      # can be overridden in the front matter for a specific post
-      hidden: false
+analytics-google: "G-1YZSDTC0X3"
+google_site_verification: GI-Dcfouph0pv-6lYUaqBucLdMSoCiYujoyUonuCjsQ
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jekyll-sitemap
 
+defaults:
+  - scope: { type: posts }
+    values: { layout: post, author: niklaseffenberger }
+  - scope: { path: assets }
+    values: { sitemap: false }
 
 compress_html:
   ignore:
-    envs:
-      - development
-      - stage
+    envs: [development]
 
 exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+  - README.md
+  - AGENTS.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - vendor

@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Niklas Effenberger]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Niklas Effenberger]({{ site.url }}{{ site.picture }})
 
 Hi, I'm Niklas. I'm a research associate at [Fraunhofer IAO](https://www.muse.iao.fraunhofer.de/en/ueber-uns/team-urban-systems-engingeering/smart-urban-environments.html) in Stuttgart, working in the Urban Systems Engineering department. Most of my work is about cities, sustainability and the question of how the two may fit together.
 
@@ -66,57 +66,4 @@ More of these things live in the [Creative](/creative) section.
 - LinkedIn: [linkedin.com/in/niklaseffenberger](https://linkedin.com/in/niklaseffenberger)
 - Website: [nikefn.github.io](https://nikefn.github.io)
 
-{% raw %}
-<div id="ascii-globe" class="ascii-globe" aria-hidden="true">
-  <pre class="ascii-globe__canvas"></pre>
-  <div class="ascii-globe__cap">Based in <span class="ascii-globe__dot">&#9679;</span> Stuttgart, Germany</div>
-  <div class="ascii-globe__credit">*inspired by <a href="https://glyphcss.com/" target="_blank" rel="noopener">glyph.css</a> </div>
-</div>
-
-<style>
-.ascii-globe {
-  text-align: center;
-  margin: 3rem auto 1rem;
-  max-width: 100%;
-}
-.ascii-globe__canvas {
-  display: inline-block;
-  width: auto;
-  max-width: 100%;
-  box-sizing: content-box;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
-  line-height: 1;
-  letter-spacing: 0;
-  white-space: pre;
-  font-size: 5px;
-  -webkit-user-select: none;
-  user-select: none;
-  overflow: hidden;
-  cursor: grab;
-  touch-action: none;
-}
-.ascii-globe__canvas.is-dragging { cursor: grabbing; }
-.ascii-globe__cap {
-  margin-top: 1rem;
-  font-size: 1.2rem;
-  opacity: 0.7;
-}
-.ascii-globe__dot { color: #ff3b30; }
-.ascii-globe__credit {
-  margin-top: 0.3rem;
-  font-size: 1.0rem;
-  opacity: 0.6;
-}
-.ascii-globe__credit a {
-  color: inherit;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-</style>
-
-<script src="/assets/js/ascii-globe.js"></script>
-{% endraw %}
+{% include widgets/globe.html %}

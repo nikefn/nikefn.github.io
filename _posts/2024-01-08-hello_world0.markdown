@@ -1,17 +1,11 @@
 ---
 title: "Hello world..."
-layout: post
 date: 2024-01-08 22:48
+category: blog
+tags: [github-pages, jekyll, markdown]
+description: "Welcome to my github-pages site"
 image: /assets/images/blog/buone_vibrazioni.jpg
 headerImage: true
-tag:
-- github-pages
-- jekyll
-- markdown
-category: blog
-blog: true
-author: niklaseffenberger
-description: Welcome to my github-pages site
 ---
 
 ## Be welcome on my site!

@@ -1,0 +1,11 @@
+{% comment %} Lists the posts of one category: {% include post-list.html category="blog" %} {% endcomment %}
+<section class="list">
+    {% for post in site.categories[include.category] %}
+        <div class="item">
+            <a class="url" href="{{ site.url }}{{ post.url }}">
+                <aside class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                <h3 class="title">{{ post.title }}</h3>
+            </a>
+        </div>
+    {% endfor %}
+</section>
