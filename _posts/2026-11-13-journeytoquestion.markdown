@@ -3,7 +3,7 @@ title: "How I found Qualitative Research"
 date: 2026-11-13 13:00
 category: blog
 tags: [qualitative-research, motivation, research]
-description: "How I gradually moved from trusting numbers to appreciating what qualitative research can uncover about cities."
+description: "Qualitative vs. Quantitative. Objectivity and its meanings."
 image: /assets/images/blog/earth.jpg
 headerImage: true
 permalink: /pers-motivation
@@ -21,61 +21,11 @@ permalink: /pers-motivation
 <div class="breaker"></div>
 
 
-
-Imagine someone asks you: *"On a scale from 1 to 5, how liveable is your neighbourhood?"*
-
-This might seem like a straightforward question at first, yet your answer might depend on whether you are being asked on a sunny Saturday morning after a good night's sleep or on a grey Tuesday after returning from a bad day at work. It could depend on whether the person asking is someone official, a friendly looking neighbour or a stranger with a clipboard wearing a uniform of a telco company. It also depends on how you would define *'liveable'* for yourself. Would it mean a safe neighbourhood? a green one? a lively neighborhood with many bars? what about affordability? Or on things like a feeling of belonging or on how well you get along with your neighbours?[^liveability]
-
-[^liveability]: For a interesting reads, see e.g: Okulicz-Kozaryn, A. (2013). City Life: Rankings (Livability) Versus Perceptions (Satisfaction). *Social Indicators Research*, 110(2), 433–451. [DOI: 10.1007/s11205-011-9939-x](https://doi.org/10.1007/s11205-011-9939-x) which suggests that objective liveability rankings and subjective resident perceptions don't necessarily align. Or 'Mouratidis, K. & Yiannakou, A. (2022). What makes cities livable? Determinants of neighborhood satisfaction and neighborhood happiness in different contexts. *Land Use Policy*, 112, 105855. [DOI: 10.1016/j.landusepol.2021.105855](https://doi.org/10.1016/j.landusepol.2021.105855)' on how answers can differ depending on whether the question is framed around satisfaction or happiness.
-
-*Well, ...it all depends, right?* This small question and thought experiment shows a fundamental challenge in social science research that is more than just about how to ask questions, how to best design a citizen survey or how to best do statistical analysis of survey results[^stats]. It reaches into how we measure and evaluate life in cities and how difficult this is to do accurately.
-
-[^stats]: See e.g. [Misuse of Statistics (Wikipedia)](https://en.wikipedia.org/wiki/Misuse_of_statistics), [Simpson's Paradox (Wikipedia)](https://en.wikipedia.org/wiki/Simpson%27s_paradox) or this 2015 ebook [Statistics Done Wrong -  The woefully complete guide](https://www.statisticsdonewrong.com/).
-
-Think for example of a city that might show strong economic growth through quantitative indicators like GDP. But this doesn't necessarily reflect the residents' quality of life, happiness or the city's cultural richness. Those factors that are inherently qualitative.
-
-This fundamental gap of economic theory has been recognised for quite a while. The discussions around it gave birth to new scientific fields like environmental economics and new concepts like the *concept of externalities*[^pigou] or the *'Tragedy of the Commons'*[^1] [^stiglitz] [^oecd_life].
-
-
-[^pigou]: Pigou, A. C. (1920). [*The Economics of Welfare*](https://archive.org/details/economicsofwelfa00pigouoft). Macmillan. Pigou introduced the concept of externalities which became foundational to environmental economics and the recognition that markets systematically underprice public goods like clean air, biodiversity or community well-being. He gave name to the textbook-famous [Pigouvian-Tax](https://en.wikipedia.org/wiki/Pigouvian_tax).
-
-[^1]: A situation where individuals acting according to their self-interest can ultimately deplete shared resources, despite understanding that depleting these common resources is against everyone's long-term best interests. See: Hardin, G. (1968). *The Tragedy of the Commons*. Science, 162(3859), 1243–1248. [DOI: 10.1126/science.162.3859.1243](https://doi.org/10.1126/science.162.3859.1243).
-
-[^stiglitz]: In 2008, the French government funded a commission led by Joseph Stiglitz, Amartya Sen and Jean-Paul Fitoussi, whose report argued that policy-makers should complement economic output measures with indicators of well-being, inequality and sustainability. See: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2009). [*Report by the Commission on the Measurement of Economic Performance and Social Progress*](https://ec.europa.eu/eurostat/documents/8131721/8131772/Stiglitz-Sen-Fitoussi-Commission-report.pdf). Also published as: Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2010). *Mismeasuring Our Lives: Why GDP Doesn't Add Up*. The New Press.
-
-[^oecd_life]: The OECD is publishing the *How's Life?* reports since 2011, on well-being, material conditions and quality of life in member countries. See: OECD (2024). *How's Life? 2024: Well-being and Resilience in Times of Crisis*. OECD Publishing, Paris. [DOI: 10.1787/90ba854a-en](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/how-s-life-2024_bdcf2f9f/90ba854a-en.pdf).
-
-To address this gap, new, alternative metrics and indicators have been developed in recent decades to better include the value of these often neglected sectors by incorporating qualitative data alongside quantitative measures[^3] [^4]. They attempt to bridge the gap by combining quantitative data, like numerical indicators of economic performance, with qualitative insights that include the nuances of e.g. cultural significance, community well-being and environmental health. The idea behind these alternative approaches is to provide decision-makers with neutral figures and charts, similar to those from traditional economic metrics, but designed to include the previously overlooked areas.
-
-[^3]: Coyle, D. (2014). [*GDP: A Brief but Affectionate History*](https://press.princeton.edu/books/paperback/9780691169859/gdp). Princeton University Press. ISBN: 978-0-691-15679-8.
-
-[^4]: Raworth, K. (2017). [*Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*](https://www.chelseagreen.com/product/doughnut-economics/). Chelsea Green Publishing. ISBN: 978-1-60358-674-7.
-
-However, the difficulty lies in developing these new, alternative metrics without making things overly complex. This seems paradoxical because the main reason for creating a single figure to represent a sector's status in city development is to make it easier to grasp. Yet, the world *is* inherently complex, with its diverse cities, administrations, people and site-specific characteristics. Qualitative factors like cultural richness, community well-being or environmental health are multifaceted and sometimes subjective, making them difficult to quantify accurately[^oecd_handbook].
-
-[^oecd_handbook]: For those interested in how composite indicators are actually built and what can go wrong in the process, see: Nardo, M., Saisana, M., Saltelli, A., Tarantola, S., Hoffmann, A. & Giovannini, E. (2008). *Handbook on Constructing Composite Indicators: Methodology and User Guide*. OECD/European Commission/JRC. OECD Publishing, Paris. [DOI: 10.1787/9789264043466-en](https://doi.org/10.1787/9789264043466-en).
-
-As a result, there is a growing number of metrics designed to fit narrow specific questions or specific locations. Not only has the number of these metrics increased, but their complexity has grown as they try to capture many real-world conditions that are difficult to quantify. This makes it challenging to know which metrics or indicators to use in specific cases, how to apply them properly and to understand their limitations.
-
-My colleague from the [SPARCS project]({{ site.url }}/sparcs), Aapo Huovila, examined an impressive collection of **1,500 smart and sustainable city indicators** in his dissertation [*"Evaluation of Smart and Sustainable City Development: What Indicators to Use, Why and When?"*](https://cris.vtt.fi/en/publications/evaluation-of-smart-and-sustainable-city-development-what-indicat)[^6] [^goodhart] [^jansen].
-
-[^6]: Huovila, A. (2024). *Evaluation of Smart AND Sustainable City Development: What Indicators to Use, Why and When?* Doctoral dissertation, Aalto University / VTT Technical Research Centre of Finland. [Available at Aalto University](https://aaltodoc.aalto.fi/items/d5d64921-3d49-458a-8f7e-687d62a848d6).
-
-[^goodhart]: The risk of choosing the wrong indicator is sometimes discussed through the lens of [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): *"When a measure becomes a target, it ceases to be a good measure"*. Originally formulated by Charles Goodhart in the context of monetary policy (1975), the idea has parallels in [Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law), which suggests that the more a quantitative social indicator is used for decision-making, the more it tends to distort the processes it is meant to monitor.
-
-[^jansen]: For a recent overview of the broader "Beyond GDP" landscape, see: Jansen, A., Wang, R., Behrens, P. & Hoekstra, R. (2024). Beyond GDP: A review and conceptual framework for measuring sustainable and inclusive wellbeing. *The Lancet Planetary Health*, 8(9), e695–e705. [DOI: 10.1016/S2542-5196(24)00147-5](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00147-5/fulltext).
-
-**Yet, despite all this progress in developing alternative indicators and metrics, the long-awaited shift towards sustainability at scale remains elusive.**[^7]
-
-[^7]: Rockström, J., Steffen, W., Noone, K., et al. (2009). *A Safe Operating Space for Humanity*. Nature, 461(7263), 472–475. [DOI: 10.1038/461472a](https://doi.org/10.1038/461472a).
-
-This brings me to a central question: What can we learn from the development of these metrics? And are there alternative pathways to integrate qualitative narratives with quantitative goals?
-
-My interest in this topic did not develop overnight. It has taken time, and I would like to share how my thinking evolved.
-
 ### My Journey Towards Understanding Qualitative Research
 
-In the past, I worked with both quantitative and qualitative methods, but over time I began to realise the limitations of relying only on numbers. This realisation did not come immediately; it took time for me to fully appreciate the value of qualitative research.
+In the past, I worked with both quantitative and qualitative research methods. Yet, the real understanding in what they are, what separates them and how they came to be
+
+ but over time I began to realise the limitations of relying only on numbers. This realisation did not come immediately, it took time for me to  understand the value of qualitative research.
 
 While thinking about it, I figured that this subject had been on my mind for quite a while, though I was not able to express it clearly. Over the years, after much thought and exploration, I developed a clearer sense of what I find important: giving greater emphasis to areas like urban nature, culture, knowledge and *qualitative* factors in urban development that are usually hard to measure, rather than focusing only on economic factors as the bottom line for decision-making.
 
